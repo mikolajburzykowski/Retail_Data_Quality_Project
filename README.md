@@ -38,15 +38,40 @@ Includes:
 
 ## Repository Structure
 
-| Folder     | Contents                                             |
-|------------|------------------------------------------------------|
-| /sql       | SQL script + analytical documentation                |
-| /dashboard | Power BI report + dashboard documentation            |
-| /data      | CSV and supporting Excel file used for preparation   |
-| /images    | Visual evidence of SQL outputs and dashboard results |
+```
+Retail_Data_Quality_Project/
+│
+├── sql/                       # SQL scripts for data validation and analytical logic
+│   ├── data_quality.db
+│   ├── data_quality_project.sql
+│   └── README.md
+│
+├── dashboard/                 # Power BI dashboard + documentation
+│   ├── dashboard.db
+│   ├── retail_sales_dataset.xlsx
+│   └── README.md
+│   
+├── data/                      # Source CSV files + intermediate Excel used for modeling
+│   ├── checks.csv
+│   ├── cleaned_data.csv
+│   └── data_preparation_analysis.xlsx
+│
+├── images/                    # Screenshots showing SQL outputs & dashboard results
+│   ├── dashboard
+│   │   └── dashboard_view.png
+│   └── sql
+│       ├── error_distribution.png
+│       ├── error_types.png
+│       ├── monthly_trend.png
+│       ├── record_match_summary.png
+│       └── source_system_errors.png
+│
+├── README.md                  # Project documentation
+└── LICENSE                    # MIT license
+```
 
 Supporting analysis file located in `/data`:
-- data_preparation_analysis.xlsx - containing intermediate validation logic used prior to dashboard modelling
+- **data_preparation_analysis.xlsx** — contains intermediate validation logic used prior to dashboard modelling.
 
 ---
 
@@ -68,4 +93,5 @@ Supporting analysis file located in `/data`:
 2. Examine generated outputs & screenshots
 3. Open PBIX file for finalized analytics: [dashboard.pbix](dashboard/dashboard.pbix)
 4. Inspect dashboard documentation for logic and interpretation: [README.md](dashboard/README.md)
+
 5. Explore /data if you want to inspect raw input datasets and supporting analysis file

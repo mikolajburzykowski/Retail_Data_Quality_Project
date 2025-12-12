@@ -1,0 +1,501 @@
+﻿Address;PostalCode;Phone;Country;CityInput;PropertyID;Status;UpdatedDate;SourceSystem;Notes;PostalCode_OK;Phone_OK;Street_extracted;MissingStreet;City_extracted;City_Match;AnyError;ErrorCount
+FranceToulouse;32599;-315833483;France;Toulouse;PROP00001;Active;09.07.2024;ServiceNow;Check postal code;OK;OK;;MISSING;Toulouse;MATCH;ERROR;1
+Lyon, Donald Cove 35, France;89197;-319837556;France;Lyon;PROP00002;Inactive;12.11.2023;Planon;Pending validation;OK;OK;Donald Cove 35;OK;Lyon;MATCH;OK;0
+UKLeeds, UK;4406;-597990374;UK;Leeds;PROP00003;Inactive;29.11.2023;Planon;;OK;OK;UK;OK;Leeds;MATCH;OK;0
+ToulouseJeffery Parkways231, France;79408;-562032516;France;Toulouse;PROP00004;Inactive;24.04.2024;MDG;;OK;OK;ToulouseJeffery Parkways231;OK;Toulouse;MATCH;OK;0
+AdelaideAnna Stravenue73, Australia;85682;-662081666;Australia;Adelaide;PROP00005;Active;16.02.2023;Salesforce;Check postal code;OK;OK;AdelaideAnna Stravenue73;OK;Adelaide;MATCH;OK;0
+USA, Phoenix;36964;-783458221;USA;Phoenix;PROP00006;Inactive;09.06.2023;Planon;Check postal code;OK;OK;Phoenix;OK;Phoenix;MATCH;OK;0
+Katherine Estate 93, Germany, Cologne;92007;-457327951;Germany;Cologne;PROP00007;Active;10.11.2023;ServiceNow;Imported from legacy system;OK;OK;Katherine Estate 93;OK;Cologne;MATCH;OK;0
+Peterson Drives 204, Germany, Cologne;28722;-576610372;Germany;Cologne;PROP00008;Active;15.02.2023;SAP;Imported from legacy system;OK;OK;Peterson Drives 204;OK;Cologne;MATCH;OK;0
+SpainBarcelona, Spain;13177;-805788224;Spain;Barcelona;PROP00009;Inactive;08.10.2024;SAP;Imported from legacy system;OK;OK;Spain;OK;Barcelona;MATCH;OK;0
+Abbott Rapids 298, Brazil, Brasília;35172;-707015849;Brazil;Brasília;PROP00010;Active;21.04.2025;MDG;Check postal code;OK;OK;Abbott Rapids 298;OK;Brasília;MATCH;OK;0
+Australia, Perth;16862;-563762585;Australia;Perth;PROP00011;Active;29.12.2022;SAP;Check postal code;OK;OK;Perth;OK;Perth;MATCH;OK;0
+CanadaOttawa;82898;-641811906;Canada;Ottawa;PROP00012;Active;13.10.2025;Salesforce;;OK;OK;;MISSING;Ottawa;MATCH;ERROR;1
+USALos AngelesRay Squares47;9617;-603554865;USA;Los Angeles;PROP00013;Active;22.06.2024;SAP;Verified;OK;OK;USALos AngelesRay Squares47;OK;Los Angeles;MATCH;OK;0
+Donna Trail 183, UK, Leeds;38431;-971324611;UK;Leeds;PROP00014;Inactive;22.02.2024;MDG;;OK;OK;Donna Trail 183;OK;Leeds;MATCH;OK;0
+ItalyRome;13739;-846405713;Italy;Rome;PROP00015;Inactive;25.02.2024;Planon;;OK;OK;;MISSING;Rome;MATCH;ERROR;1
+BrazilSalvador, Brazil;48320;-184834961;Brazil;Salvador;PROP00016;Inactive;24.04.2025;MDG;;OK;OK;Brazil;OK;Salvador;MATCH;OK;0
+CanadaCalgary, Canada;88342;-803880340;Canada;Calgary;PROP00017;Active;21.07.2024;Salesforce;Needs review;OK;OK;Canada;OK;Calgary;MATCH;OK;0
+UK, Birmingham;85440;-132506131;UK;Birmingham;PROP00018;Inactive;24.06.2025;SAP;Pending validation;OK;OK;Birmingham;OK;Birmingham;MATCH;OK;0
+BrasíliaChelsea Extension100, Brazil;70511;-358446612;Brazil;Brasília;PROP00019;Active;18.05.2024;Salesforce;;OK;OK;BrasíliaChelsea Extension100;OK;Brasília;MATCH;OK;0
+Canada, Calgary, Frank Light 65;35883;-523118275;Canada;Calgary;PROP00020;Active;01.10.2023;Salesforce;Imported from legacy system;OK;OK;Frank Light 65;OK;Calgary;MATCH;OK;0
+Chicago, Gabrielle Ville 211, USA;7832;-984554816;USA;Chicago;PROP00021;Active;30.10.2024;MDG;;OK;OK;Gabrielle Ville 211;OK;Chicago;MATCH;OK;0
+GermanyMunichLydia Valley281;41848;-719462860;Germany;Munich;PROP00022;Active;04.11.2025;MDG;;OK;OK;GermanyMunichLydia Valley281;OK;Munich;MATCH;OK;0
+GermanyCologne;74842;-946225845;Germany;Cologne;PROP00023;Active;26.03.2025;ServiceNow;;OK;OK;;MISSING;Cologne;MATCH;ERROR;1
+ItalyFlorenceLewis Parks198;52357;-262946464;Italy;Florence;PROP00024;Inactive;17.01.2023;Planon;Imported from legacy system;OK;OK;ItalyFlorenceLewis Parks198;OK;Florence;MATCH;OK;0
+Thomas Dam 63, France, Marseille;32826;-969159991;France;Marseille;PROP00025;Active;17.01.2025;MDG;;OK;OK;Thomas Dam 63;OK;Marseille;MATCH;OK;0
+Burgess Meadow 171, Australia, Melbourne;76985;-598066174;Australia;Melbourne;PROP00026;Inactive;25.06.2024;ServiceNow;;OK;OK;Burgess Meadow 171;OK;Melbourne;MATCH;OK;0
+SydneyCox Dam230, Australia;67285;-438044981;Australia;Sydney;PROP00027;Active;04.02.2024;SAP;;OK;OK;SydneyCox Dam230;OK;Sydney;MATCH;OK;0
+LeedsDavis Causeway293, UK;14872;-806505329;UK;Leeds;PROP00028;Inactive;26.07.2025;SAP;Imported from legacy system;OK;OK;LeedsDavis Causeway293;OK;Leeds;MATCH;OK;0
+Courtney Turnpike165, Bordeaux, France;89693;-184724229;France;Bordeaux;PROP00029;Active;20.04.2025;Salesforce;Check postal code;OK;OK;Courtney Turnpike165;OK;Bordeaux;MATCH;OK;0
+Germany, Cologne;50520;-507576250;Germany;Cologne;PROP00030;Inactive;09.09.2025;MDG;;OK;OK;Cologne;OK;Cologne;MATCH;OK;0
+Canada, Ottawa;2005;-132980284;Canada;Ottawa;PROP00031;Inactive;02.10.2023;Salesforce;;OK;OK;Ottawa;OK;Ottawa;MATCH;OK;0
+UKBirmingham, UK;98920;-618266349;UK;Birmingham;PROP00032;Active;26.10.2023;ServiceNow;Needs review;OK;OK;UK;OK;Birmingham;MATCH;OK;0
+MunichMack Junctions229, Germany;15122;-763069987;Germany;Munich;PROP00033;Active;25.07.2023;Salesforce;Imported from legacy system;OK;OK;MunichMack Junctions229;OK;Munich;MATCH;OK;0
+Graham Motorway 9, Rio de Janeiro;926;-377335234;Brazil;Rio de Janeiro;PROP00034;Active;05.01.2025;SAP;Check postal code;OK;OK;Graham Motorway 9;OK;Rio de Janeiro;MATCH;OK;0
+UK, Manchester, Stanton Track 112;23917;-366448912;UK;Manchester;PROP00035;Active;12.09.2023;SAP;;OK;OK;Stanton Track 112;OK;Manchester;MATCH;OK;0
+Australia, Brisbane, Monica Hills 117;84249;-137243082;Australia;Brisbane;PROP00036;Active;20.10.2023;Salesforce;;OK;OK;Monica Hills 117;OK;Brisbane;MATCH;OK;0
+France, Paris, Eric Track 273;21675;-834425617;France;Paris;PROP00037;Inactive;17.12.2024;Planon;;OK;OK;Eric Track 273;OK;Paris;MATCH;OK;0
+SydneyCarol Overpass103, Australia;3053;-303640086;Australia;Sydney;PROP00038;Inactive;09.10.2025;SAP;Pending validation;OK;OK;SydneyCarol Overpass103;OK;Sydney;MATCH;OK;0
+SapporoSarah Wells54, Japan;40807;-618313062;Japan;Sapporo;PROP00039;Inactive;17.02.2024;ServiceNow;Needs review;OK;OK;SapporoSarah Wells54;OK;Sapporo;MATCH;OK;0
+Brian Wells1, Cologne, Germany;74865;-717877677;Germany;Cologne;PROP00040;Active;30.07.2024;Salesforce;;OK;OK;Brian Wells1;OK;Cologne;MATCH;OK;0
+Christopher Oval 268, Germany, Hamburg;9572;-674271222;Germany;Hamburg;PROP00041;Inactive;12.04.2023;MDG;Needs review;OK;OK;Christopher Oval 268;OK;Hamburg;MATCH;OK;0
+FranceToulouse, France;72564;-495234153;France;Toulouse;PROP00042;Inactive;21.05.2023;MDG;;OK;OK;France;OK;Toulouse;MATCH;OK;0
+Joseph Well 117, Salvador;80008;-188042057;Brazil;Salvador;PROP00043;Inactive;21.06.2024;MDG;Verified;OK;OK;Joseph Well 117;OK;Salvador;MATCH;OK;0
+Brandt Plains 73, Japan, Osaka;99495;-127164885;Japan;Osaka;PROP00044;Active;25.03.2025;Planon;Imported from legacy system;OK;OK;Brandt Plains 73;OK;Osaka;MATCH;OK;0
+JapanOsaka;88540;-410716741;Japan;Osaka;PROP00045;Inactive;27.11.2023;Salesforce;;OK;OK;;MISSING;Osaka;MATCH;ERROR;1
+AustraliaAdelaideKim Path237;59678;-122091951;Australia;Adelaide;PROP00046;Active;04.04.2025;SAP;Check postal code;OK;OK;AustraliaAdelaideKim Path237;OK;Adelaide;MATCH;OK;0
+John Circles101, Turin, Italy;44814;-387273800;Italy;Turin;PROP00047;Inactive;18.12.2023;Salesforce;;OK;OK;John Circles101;OK;Turin;MATCH;OK;0
+Brianna Forks 9, Brazil, Brasília;77629;-899523437;Brazil;Brasília;PROP00048;Inactive;29.11.2022;Salesforce;;OK;OK;Brianna Forks 9;OK;Brasília;MATCH;OK;0
+Japan, Osaka, Adrian Station 145;83220;-672353435;Japan;Osaka;PROP00049;Active;08.05.2025;MDG;;OK;OK;Adrian Station 145;OK;Osaka;MATCH;OK;0
+Jeremy Bypass 39, Australia, Sydney;43810;-308900854;Australia;Sydney;PROP00050;Inactive;29.10.2025;MDG;Imported from legacy system;OK;OK;Jeremy Bypass 39;OK;Sydney;MATCH;OK;0
+GermanyCologneWillie Harbors52;88185;-988550157;Germany;Cologne;PROP00051;Inactive;22.03.2023;ServiceNow;;OK;OK;GermanyCologneWillie Harbors52;OK;Cologne;MATCH;OK;0
+ItalyRome, Italy;95312;-682304177;Italy;Rome;PROP00052;Active;27.05.2024;MDG;;OK;OK;Italy;OK;Rome;MATCH;OK;0
+Brazil, Salvador, Sanchez Mountains 24;53855;-780711614;Brazil;Salvador;PROP00053;Inactive;08.11.2023;ServiceNow;Imported from legacy system;OK;OK;Sanchez Mountains 24;OK;Salvador;MATCH;OK;0
+SpainMadrid;56999;-479803936;Spain;Madrid;PROP00054;Active;23.01.2025;MDG;;OK;OK;;MISSING;Madrid;MATCH;ERROR;1
+Henderson Mountain 121, USA, Los Angeles;96062;-334321085;USA;Los Angeles;PROP00055;Active;09.06.2025;ServiceNow;;OK;OK;Henderson Mountain 121;OK;Los Angeles;MATCH;OK;0
+Emily Rue 280, Liverpool;13400;-449353763;UK;Liverpool;PROP00056;Inactive;09.05.2023;ServiceNow;Imported from legacy system;OK;OK;Emily Rue 280;OK;Liverpool;MATCH;OK;0
+Italy, Naples, Richard Junction 168;14823;-149280539;Italy;Naples;PROP00057;Active;31.08.2024;Salesforce;Pending validation;OK;OK;Richard Junction 168;OK;Naples;MATCH;OK;0
+James Plain175, Munich, Germany;59301;-371993952;Germany;Munich;PROP00058;Active;17.07.2024;Salesforce;;OK;OK;James Plain175;OK;Munich;MATCH;OK;0
+LondonRobert Harbors170, UK;61138;-257012310;UK;London;PROP00059;Inactive;11.04.2023;SAP;;OK;OK;LondonRobert Harbors170;OK;London;MATCH;OK;0
+Brisbane, Nancy Club 162, Australia;58583;-461988088;Australia;Brisbane;PROP00060;Active;14.09.2023;Salesforce;;OK;OK;Nancy Club 162;OK;Brisbane;MATCH;OK;0
+Italy, Milan;2435;-645237969;Italy;Milan;PROP00061;Active;20.07.2025;SAP;Imported from legacy system;OK;OK;Milan;OK;Milan;MATCH;OK;0
+SpainSeville;31483;-775114182;Spain;Seville;PROP00062;Active;24.10.2023;Salesforce;;OK;OK;;MISSING;Seville;MATCH;ERROR;1
+BrazilRio de JaneiroRichard Orchard104;28517;-116958611;Brazil;Rio de Janeiro;PROP00063;Inactive;16.01.2025;Planon;Check postal code;OK;OK;BrazilRio de JaneiroRichard Orchard104;OK;Rio de Janeiro;MATCH;OK;0
+Barrera Expressway 8, Italy, Florence;50173;-823637409;Italy;Florence;PROP00064;Inactive;19.04.2025;ServiceNow;;OK;OK;Barrera Expressway 8;OK;Florence;MATCH;OK;0
+Tricia Greens 134, UK, Liverpool;60139;-714942250;UK;Liverpool;PROP00065;Inactive;18.01.2023;MDG;Check postal code;OK;OK;Tricia Greens 134;OK;Liverpool;MATCH;OK;0
+USAChicagoHenderson Street66;73346;-930348997;USA;Chicago;PROP00066;Active;21.08.2025;Planon;Verified;OK;OK;USAChicagoHenderson Street66;OK;Chicago;MATCH;OK;0
+ItalyRome;29035;-179667333;Italy;Rome;PROP00067;Active;04.04.2023;Salesforce;Verified;OK;OK;;MISSING;Rome;MATCH;ERROR;1
+Beth Plains244, Kyoto, Japan;8490;-822620388;Japan;Kyoto;PROP00068;Active;10.11.2023;ServiceNow;;OK;OK;Beth Plains244;OK;Kyoto;MATCH;OK;0
+JapanKyoto;62994;-284307177;Japan;Kyoto;PROP00069;Active;21.02.2025;Salesforce;Pending validation;OK;OK;;MISSING;Kyoto;MATCH;ERROR;1
+Brian Pass 14, Canada, Montreal;11001;-470241451;Canada;Montreal;PROP00070;Active;31.03.2024;MDG;Imported from legacy system;OK;OK;Brian Pass 14;OK;Montreal;MATCH;OK;0
+AustraliaSydney;89002;-855570839;Australia;Sydney;PROP00071;Active;03.10.2024;ServiceNow;;OK;OK;;MISSING;Sydney;MATCH;ERROR;1
+MunichRichard Port188, Germany;32772;-771894248;Germany;Munich;PROP00072;Active;23.08.2025;Salesforce;Needs review;OK;OK;MunichRichard Port188;OK;Munich;MATCH;OK;0
+Cologne, Christine Manor 113, Germany;86664;-738348467;Germany;Cologne;PROP00073;Active;08.12.2022;MDG;Imported from legacy system;OK;OK;Christine Manor 113;OK;Cologne;MATCH;OK;0
+Los Angeles, Donovan Ford 265, USA;88283;-284587151;USA;Los Angeles;PROP00074;Active;05.06.2024;Salesforce;Needs review;OK;OK;Donovan Ford 265;OK;Los Angeles;MATCH;OK;0
+Allen Locks 62, Rome;17655;-983739963;Italy;Rome;PROP00075;Active;29.10.2024;Planon;;OK;OK;Allen Locks 62;OK;Rome;MATCH;OK;0
+Bryant Terrace182, Munich, Germany;10009;-195206438;Germany;Munich;PROP00076;Inactive;22.08.2024;Salesforce;Verified;OK;OK;Bryant Terrace182;OK;Munich;MATCH;OK;0
+Canada, Calgary, Stephen Port 133;13605;-149826636;Canada;Calgary;PROP00077;Inactive;06.07.2023;ServiceNow;Verified;OK;OK;Stephen Port 133;OK;Calgary;MATCH;OK;0
+Spain, Barcelona;35261;-812005506;Spain;Barcelona;PROP00078;Active;22.07.2024;Salesforce;Pending validation;OK;OK;Barcelona;OK;Barcelona;MATCH;OK;0
+Sarah Cliff288, Houston, USA;32519;-204097411;USA;Houston;PROP00079;Active;28.03.2025;ServiceNow;;OK;OK;Sarah Cliff288;OK;Houston;MATCH;OK;0
+FranceBordeaux, France;71701;-821851016;France;Bordeaux;PROP00080;Active;13.02.2023;Salesforce;Needs review;OK;OK;France;OK;Bordeaux;MATCH;OK;0
+Spain, Valencia;86218;-281357442;Spain;Valencia;PROP00081;Inactive;30.03.2024;Planon;;OK;OK;Valencia;OK;Valencia;MATCH;OK;0
+Brazil, São Paulo;39741;-406195703;Brazil;São Paulo;PROP00082;Active;16.10.2025;SAP;Needs review;OK;OK;São Paulo;OK;São Paulo;MATCH;OK;0
+Brazil, São Paulo;35165;-610390424;Brazil;São Paulo;PROP00083;Inactive;14.05.2025;SAP;;OK;OK;São Paulo;OK;São Paulo;MATCH;OK;0
+USALos AngelesPamela Summit57;73013;-349046359;USA;Los Angeles;PROP00084;Inactive;02.03.2025;ServiceNow;Needs review;OK;OK;USALos AngelesPamela Summit57;OK;Los Angeles;MATCH;OK;0
+France, Toulouse, Joseph Rapids 253;28108;-437953305;France;Toulouse;PROP00085;Inactive;13.12.2024;Salesforce;;OK;OK;Joseph Rapids 253;OK;Toulouse;MATCH;OK;0
+Harris Roads19, Tokyo, Japan;35101;-753816451;Japan;Tokyo;PROP00086;Active;11.04.2023;ServiceNow;;OK;OK;Harris Roads19;OK;Tokyo;MATCH;OK;0
+Australia, Sydney, King Vista 190;7159;-642643518;Australia;Sydney;PROP00087;Inactive;04.05.2025;SAP;Imported from legacy system;OK;OK;King Vista 190;OK;Sydney;MATCH;OK;0
+Germany, Munich;36766;-875991917;Germany;Munich;PROP00088;Inactive;10.09.2024;SAP;Pending validation;OK;OK;Munich;OK;Munich;MATCH;OK;0
+Japan, Kyoto;17647;-729230952;Japan;Kyoto;PROP00089;Active;11.08.2024;ServiceNow;Needs review;OK;OK;Kyoto;OK;Kyoto;MATCH;OK;0
+CalgaryMartin Mills172, Canada;72810;-949812791;Canada;Calgary;PROP00090;Active;19.09.2024;ServiceNow;Verified;OK;OK;CalgaryMartin Mills172;OK;Calgary;MATCH;OK;0
+Hoffman Creek 251, Rio de Janeiro;10363;-933316895;Brazil;Rio de Janeiro;PROP00091;Inactive;11.04.2023;Salesforce;Verified;OK;OK;Hoffman Creek 251;OK;Rio de Janeiro;MATCH;OK;0
+FranceMarseille;48894;-668783877;France;Marseille;PROP00092;Active;26.04.2023;MDG;Check postal code;OK;OK;;MISSING;Marseille;MATCH;ERROR;1
+Russell Canyon13, Leeds, UK;40905;-544053844;UK;Leeds;PROP00093;Active;10.09.2025;Planon;Check postal code;OK;OK;Russell Canyon13;OK;Leeds;MATCH;OK;0
+BrazilBrasília, Brazil;5730;-128006342;Brazil;Brasília;PROP00094;Inactive;28.01.2023;MDG;Verified;OK;OK;Brazil;OK;Brasília;MATCH;OK;0
+CanadaMontreal;87917;-444364910;Canada;Montreal;PROP00095;Inactive;14.01.2024;SAP;;OK;OK;;MISSING;Montreal;MATCH;ERROR;1
+FranceLyonMichael Points219;53765;-254422894;France;Lyon;PROP00096;Inactive;31.07.2024;Planon;;OK;OK;FranceLyonMichael Points219;OK;Lyon;MATCH;OK;0
+France, Paris;21800;-268374465;France;Paris;PROP00097;Inactive;06.04.2023;Salesforce;;OK;OK;Paris;OK;Paris;MATCH;OK;0
+Nicole Burg 111, UK, Birmingham;24010;-401294650;UK;Birmingham;PROP00098;Active;14.01.2023;ServiceNow;Imported from legacy system;OK;OK;Nicole Burg 111;OK;Birmingham;MATCH;OK;0
+Rio de JaneiroPatton Loop78, Brazil;88307;-104680982;Brazil;Rio de Janeiro;PROP00099;Active;04.06.2024;SAP;Pending validation;OK;OK;Rio de JaneiroPatton Loop78;OK;Rio de Janeiro;MATCH;OK;0
+CanadaOttawa, Canada;92418;-516046516;Canada;Ottawa;PROP00100;Active;02.08.2025;Salesforce;;OK;OK;Canada;OK;Ottawa;MATCH;OK;0
+Patrick Camp 280, Toronto;62195;-108692335;Canada;Toronto;PROP00101;Inactive;25.10.2023;MDG;;OK;OK;Patrick Camp 280;OK;Toronto;MATCH;OK;0
+ItalyRome, Italy;46331;-670947307;Italy;Rome;PROP00102;Active;28.09.2023;Planon;;OK;OK;Italy;OK;Rome;MATCH;OK;0
+Canada, Montreal, Hoover Well 14;30332;-716543746;Canada;Montreal;PROP00103;Active;16.10.2024;Salesforce;Needs review;OK;OK;Hoover Well 14;OK;Montreal;MATCH;OK;0
+Andrew Fields 41, Cologne;52728;-915809882;Germany;Cologne;PROP00104;Active;16.05.2025;MDG;Verified;OK;OK;Andrew Fields 41;OK;Cologne;MATCH;OK;0
+Ramirez Cliff214, Turin, Italy;37086;-128327087;Italy;Turin;PROP00105;Inactive;18.05.2025;Planon;;OK;OK;Ramirez Cliff214;OK;Turin;MATCH;OK;0
+CanadaToronto, Canada;89566;-781682121;Canada;Toronto;PROP00106;Active;14.12.2023;ServiceNow;;OK;OK;Canada;OK;Toronto;MATCH;OK;0
+Australia, Melbourne, Crosby Crescent 19;34738;-986705679;Australia;Melbourne;PROP00107;Inactive;02.05.2023;Planon;Check postal code;OK;OK;Crosby Crescent 19;OK;Melbourne;MATCH;OK;0
+AustraliaPerth;5515;-712608541;Australia;Perth;PROP00108;Active;01.07.2023;ServiceNow;;OK;OK;;MISSING;Perth;MATCH;ERROR;1
+JapanNagoya, Japan;95992;-699093764;Japan;Nagoya;PROP00109;Inactive;16.05.2024;SAP;Imported from legacy system;OK;OK;Japan;OK;Nagoya;MATCH;OK;0
+Graham Pass109, Hamburg, Germany;15658;-951115511;Germany;Hamburg;PROP00110;Inactive;18.10.2025;Salesforce;;OK;OK;Graham Pass109;OK;Hamburg;MATCH;OK;0
+UKLondon, UK;33887;-539878571;UK;London;PROP00111;Active;01.09.2023;Salesforce;Needs review;OK;OK;UK;OK;London;MATCH;OK;0
+NagoyaJeanne Alley61, Japan;68647;-803661870;Japan;Nagoya;PROP00112;Active;31.01.2025;SAP;Verified;OK;OK;NagoyaJeanne Alley61;OK;Nagoya;MATCH;OK;0
+FranceToulouse, France;87563;-196700492;France;Toulouse;PROP00113;Active;11.05.2025;MDG;;OK;OK;France;OK;Toulouse;MATCH;OK;0
+Hanson Shore 281, Rome;16835;-745948199;Italy;Rome;PROP00114;Inactive;24.10.2025;ServiceNow;Check postal code;OK;OK;Hanson Shore 281;OK;Rome;MATCH;OK;0
+JapanKyotoHunter Shores166;54029;-858743785;Japan;Kyoto;PROP00115;Active;21.03.2023;ServiceNow;Check postal code;OK;OK;JapanKyotoHunter Shores166;OK;Kyoto;MATCH;OK;0
+Spain, Seville, Powell Hill 285;73168;-635524730;Spain;Seville;PROP00116;Active;30.12.2022;SAP;;OK;OK;Powell Hill 285;OK;Seville;MATCH;OK;0
+USAPhoenix, USA;50196;-826883556;USA;Phoenix;PROP00117;Inactive;23.04.2024;SAP;Needs review;OK;OK;USA;OK;Phoenix;MATCH;OK;0
+FrankfurtChristina Hollow154, Germany;53726;-456049174;Germany;Frankfurt;PROP00118;Inactive;06.12.2023;SAP;Needs review;OK;OK;FrankfurtChristina Hollow154;OK;Frankfurt;MATCH;OK;0
+Los AngelesKevin Fords89, USA;56847;-647847546;USA;Los Angeles;PROP00119;Inactive;28.05.2025;Planon;;OK;OK;Los AngelesKevin Fords89;OK;Los Angeles;MATCH;OK;0
+Italy, Turin;89056;-128497427;Italy;Turin;PROP00120;Inactive;06.08.2024;SAP;Pending validation;OK;OK;Turin;OK;Turin;MATCH;OK;0
+UK, Birmingham, William Underpass 179;96964;-487423108;UK;Birmingham;PROP00121;Inactive;27.07.2023;SAP;;OK;OK;William Underpass 179;OK;Birmingham;MATCH;OK;0
+AdelaideDonna Haven193, Australia;68062;-826650690;Australia;Adelaide;PROP00122;Active;18.03.2024;MDG;;OK;OK;AdelaideDonna Haven193;OK;Adelaide;MATCH;OK;0
+CanadaToronto;31285;-116255499;Canada;Toronto;PROP00123;Active;19.10.2025;Salesforce;Pending validation;OK;OK;;MISSING;Toronto;MATCH;ERROR;1
+CanadaCalgaryWalker Flat187;19814;-446650905;Canada;Calgary;PROP00124;Inactive;29.12.2024;Salesforce;Imported from legacy system;OK;OK;CanadaCalgaryWalker Flat187;OK;Calgary;MATCH;OK;0
+Brandon Mountains103, Frankfurt, Germany;80621;-873739435;Germany;Frankfurt;PROP00125;Inactive;28.10.2023;ServiceNow;Needs review;OK;OK;Brandon Mountains103;OK;Frankfurt;MATCH;OK;0
+Germany, Cologne;75955;-889502562;Germany;Cologne;PROP00126;Active;09.08.2023;SAP;;OK;OK;Cologne;OK;Cologne;MATCH;OK;0
+Jennifer Lights 173, Spain, Madrid;65300;-498991683;Spain;Madrid;PROP00127;Active;08.03.2023;SAP;;OK;OK;Jennifer Lights 173;OK;Madrid;MATCH;OK;0
+Madrid, Sanchez Shoal 29, Spain;90629;-703163689;Spain;Madrid;PROP00128;Inactive;26.11.2023;Planon;Imported from legacy system;OK;OK;Sanchez Shoal 29;OK;Madrid;MATCH;OK;0
+Patricia Wall 102, Canada, Calgary;14471;-517588446;Canada;Calgary;PROP00129;Inactive;20.11.2025;MDG;;OK;OK;Patricia Wall 102;OK;Calgary;MATCH;OK;0
+MilanRobinson Unions166, Italy;91715;-187213313;Italy;Milan;PROP00130;Active;17.04.2024;Salesforce;Needs review;OK;OK;MilanRobinson Unions166;OK;Milan;MATCH;OK;0
+Williams Gateway29, Naples, Italy;16407;-121419385;Italy;Naples;PROP00131;Active;18.12.2023;MDG;Check postal code;OK;OK;Williams Gateway29;OK;Naples;MATCH;OK;0
+USAChicagoAnderson Mountain52;88001;-132311603;USA;Chicago;PROP00132;Active;12.04.2024;Salesforce;;OK;OK;USAChicagoAnderson Mountain52;OK;Chicago;MATCH;OK;0
+USAHoustonDodson Mills228;80802;-191495834;USA;Houston;PROP00133;Inactive;20.08.2025;Salesforce;Verified;OK;OK;USAHoustonDodson Mills228;OK;Houston;MATCH;OK;0
+Canada, Ottawa;58947;-516397809;Canada;Ottawa;PROP00134;Inactive;29.09.2025;SAP;Imported from legacy system;OK;OK;Ottawa;OK;Ottawa;MATCH;OK;0
+Spain, Seville, Julia Mountains 298;59492;-942083865;Spain;Seville;PROP00135;Active;08.02.2025;ServiceNow;;OK;OK;Julia Mountains 298;OK;Seville;MATCH;OK;0
+SpainMadridWalton Ville241;84080;-852326518;Spain;Madrid;PROP00136;Active;25.03.2024;Salesforce;;OK;OK;SpainMadridWalton Ville241;OK;Madrid;MATCH;OK;0
+Spain, Bilbao, Cannon Pike 266;64018;-366323106;Spain;Bilbao;PROP00137;Active;05.01.2023;Salesforce;;OK;OK;Cannon Pike 266;OK;Bilbao;MATCH;OK;0
+FranceLyon, France;94026;-508787913;France;Lyon;PROP00138;Active;31.12.2024;Salesforce;;OK;OK;France;OK;Lyon;MATCH;OK;0
+Young Isle 76, Naples;42405;-834932648;Italy;Naples;PROP00139;Inactive;23.10.2023;ServiceNow;;OK;OK;Young Isle 76;OK;Naples;MATCH;OK;0
+Brazil, Salvador;50706;-482256992;Brazil;Salvador;PROP00140;Active;15.09.2024;SAP;Needs review;OK;OK;Salvador;OK;Salvador;MATCH;OK;0
+Jasmine Circles 123, Brazil, Rio de Janeiro;54878;-934525008;Brazil;Rio de Janeiro;PROP00141;Inactive;21.11.2023;MDG;;OK;OK;Jasmine Circles 123;OK;Rio de Janeiro;MATCH;OK;0
+AustraliaMelbourneRivera Mountain270;54997;-645793970;Australia;Melbourne;PROP00142;Inactive;15.06.2024;SAP;Imported from legacy system;OK;OK;AustraliaMelbourneRivera Mountain270;OK;Melbourne;MATCH;OK;0
+Jamie Manor 135, UK, Liverpool;51550;-108169550;UK;Liverpool;PROP00143;Active;13.01.2024;Salesforce;;OK;OK;Jamie Manor 135;OK;Liverpool;MATCH;OK;0
+USANew York, USA;75957;-200858132;USA;New York;PROP00144;Active;27.03.2023;Salesforce;;OK;OK;USA;OK;New York;MATCH;OK;0
+Woods Knoll 289, Manchester;39640;-332793454;UK;Manchester;PROP00145;Active;05.10.2025;SAP;Verified;OK;OK;Woods Knoll 289;OK;Manchester;MATCH;OK;0
+Brazil, Fortaleza, Castaneda Village 261;55422;-587754627;Brazil;Fortaleza;PROP00146;Inactive;12.07.2024;MDG;Check postal code;OK;OK;Castaneda Village 261;OK;Fortaleza;MATCH;OK;0
+Tracy Groves 81, Australia, Sydney;57626;-502213712;Australia;Sydney;PROP00147;Active;02.05.2024;Salesforce;Verified;OK;OK;Tracy Groves 81;OK;Sydney;MATCH;OK;0
+JapanTokyoJohnson Junction110;88171;-581304024;Japan;Tokyo;PROP00148;Inactive;29.10.2025;Salesforce;Imported from legacy system;OK;OK;JapanTokyoJohnson Junction110;OK;Tokyo;MATCH;OK;0
+Ramsey Ville 254, Manchester;61762;-163122160;UK;Manchester;PROP00149;Inactive;19.09.2023;SAP;;OK;OK;Ramsey Ville 254;OK;Manchester;MATCH;OK;0
+FranceBordeaux, France;4035;-707354504;France;Bordeaux;PROP00150;Active;24.03.2024;SAP;;OK;OK;France;OK;Bordeaux;MATCH;OK;0
+UKLondon, UK;4053;-108286638;UK;London;PROP00151;Inactive;23.10.2023;ServiceNow;Check postal code;OK;OK;UK;OK;London;MATCH;OK;0
+AustraliaAdelaide, Australia;61016;-374333629;Australia;Adelaide;PROP00152;Inactive;08.05.2025;Salesforce;Needs review;OK;OK;Australia;OK;Adelaide;MATCH;OK;0
+Brent Light290, Sapporo, Japan;43407;-754763100;Japan;Sapporo;PROP00153;Active;29.03.2024;Planon;Pending validation;OK;OK;Brent Light290;OK;Sapporo;MATCH;OK;0
+Canada, Montreal;50193;-440407221;Canada;Montreal;PROP00154;Active;29.03.2025;Planon;Verified;OK;OK;Montreal;OK;Montreal;MATCH;OK;0
+Vancouver, Walton Village 45, Canada;55756;-827536530;Canada;Vancouver;PROP00155;Inactive;13.05.2023;Salesforce;;OK;OK;Walton Village 45;OK;Vancouver;MATCH;OK;0
+Conley Mountains 230, Canada, Vancouver;3041;-884502030;Canada;Vancouver;PROP00156;Active;27.02.2024;MDG;Needs review;OK;OK;Conley Mountains 230;OK;Vancouver;MATCH;OK;0
+GermanyFrankfurtZoe Keys48;29890;-300275156;Germany;Frankfurt;PROP00157;Inactive;09.08.2023;ServiceNow;;OK;OK;GermanyFrankfurtZoe Keys48;OK;Frankfurt;MATCH;OK;0
+GermanyMunichKimberly Run59;5777;-757468833;Germany;Munich;PROP00158;Active;18.01.2024;Planon;Imported from legacy system;OK;OK;GermanyMunichKimberly Run59;OK;Munich;MATCH;OK;0
+Stefanie Flats 67, Paris;3172;-574095803;France;Paris;PROP00159;Inactive;25.05.2024;Planon;Pending validation;OK;OK;Stefanie Flats 67;OK;Paris;MATCH;OK;0
+USA, Phoenix;88248;-151093703;USA;Phoenix;PROP00160;Active;01.05.2024;SAP;Check postal code;OK;OK;Phoenix;OK;Phoenix;MATCH;OK;0
+JapanTokyo;61453;-298206855;Japan;Tokyo;PROP00161;Active;02.09.2023;Planon;Imported from legacy system;OK;OK;;MISSING;Tokyo;MATCH;ERROR;1
+Wang Expressway 245, Manchester;79916;-113005230;UK;Manchester;PROP00162;Inactive;24.11.2023;SAP;Pending validation;OK;OK;Wang Expressway 245;OK;Manchester;MATCH;OK;0
+Valencia, Kimberly Estates 253, Spain;41269;-707427859;Spain;Valencia;PROP00163;Inactive;22.10.2024;Salesforce;Verified;OK;OK;Kimberly Estates 253;OK;Valencia;MATCH;OK;0
+Japan, Osaka;75971;-967616910;Japan;Osaka;PROP00164;Active;08.01.2024;Planon;Needs review;OK;OK;Osaka;OK;Osaka;MATCH;OK;0
+Sanders Stravenue 68, Milan;26496;-194615219;Italy;Milan;PROP00165;Active;09.06.2025;Salesforce;Pending validation;OK;OK;Sanders Stravenue 68;OK;Milan;MATCH;OK;0
+CanadaVancouver;82714;-180045659;Canada;Vancouver;PROP00166;Active;26.12.2023;MDG;Check postal code;OK;OK;;MISSING;Vancouver;MATCH;ERROR;1
+ItalyMilan;40030;-885665547;Italy;Milan;PROP00167;Inactive;17.07.2023;Planon;Verified;OK;OK;;MISSING;Milan;MATCH;ERROR;1
+BerlinLaura Port45, Germany;5884;-199128301;Germany;Berlin;PROP00168;Inactive;14.06.2025;Planon;Imported from legacy system;OK;OK;BerlinLaura Port45;OK;Berlin;MATCH;OK;0
+Canada, Calgary, Patel Shore 168;49072;-969287052;Canada;Calgary;PROP00169;Active;29.07.2024;ServiceNow;;OK;OK;Patel Shore 168;OK;Calgary;MATCH;OK;0
+Australia, Adelaide, William Junctions 150;2159;-643719751;Australia;Adelaide;PROP00170;Inactive;23.03.2025;SAP;;OK;OK;William Junctions 150;OK;Adelaide;MATCH;OK;0
+Short Coves178, Birmingham, UK;57323;-345382502;UK;Birmingham;PROP00171;Active;13.07.2023;SAP;Verified;OK;OK;Short Coves178;OK;Birmingham;MATCH;OK;0
+Canada, Montreal;60759;-820520238;Canada;Montreal;PROP00172;Inactive;15.05.2025;Salesforce;Verified;OK;OK;Montreal;OK;Montreal;MATCH;OK;0
+UK, Liverpool;68887;-644502401;UK;Liverpool;PROP00173;Active;24.01.2025;SAP;Verified;OK;OK;Liverpool;OK;Liverpool;MATCH;OK;0
+Australia, Perth, Gilbert Plain 107;63873;-936361639;Australia;Perth;PROP00174;Inactive;07.02.2024;Salesforce;;OK;OK;Gilbert Plain 107;OK;Perth;MATCH;OK;0
+Cologne, Graham Street 185, Germany;78157;-450424359;Germany;Cologne;PROP00175;Inactive;04.07.2024;Salesforce;Verified;OK;OK;Graham Street 185;OK;Cologne;MATCH;OK;0
+USALos Angeles;11860;-167302314;USA;Los Angeles;PROP00176;Active;05.08.2023;Salesforce;;OK;OK;;MISSING;Los Angeles;MATCH;ERROR;1
+Germany, Munich;98867;-610541865;Germany;Munich;PROP00177;Inactive;05.10.2023;MDG;;OK;OK;Munich;OK;Munich;MATCH;OK;0
+GermanyHamburg;50175;-831939429;Germany;Hamburg;PROP00178;Inactive;20.06.2023;Planon;Imported from legacy system;OK;OK;;MISSING;Hamburg;MATCH;ERROR;1
+France, Bordeaux, Johnson Vista 118;43101;-728970599;France;Bordeaux;PROP00179;Active;10.12.2022;Planon;Verified;OK;OK;Johnson Vista 118;OK;Bordeaux;MATCH;OK;0
+JapanKyoto, Japan;34363;-263433437;Japan;Kyoto;PROP00180;Inactive;15.08.2024;Planon;;OK;OK;Japan;OK;Kyoto;MATCH;OK;0
+SpainMadridRamirez Ranch192;92406;-241015614;Spain;Madrid;PROP00181;Inactive;20.12.2022;Planon;Verified;OK;OK;SpainMadridRamirez Ranch192;OK;Madrid;MATCH;OK;0
+Japan, Osaka;25543;-196850321;Japan;Osaka;PROP00182;Active;29.09.2024;SAP;;OK;OK;Osaka;OK;Osaka;MATCH;OK;0
+John Lodge 110, Vancouver;64539;-589979799;Canada;Vancouver;PROP00183;Inactive;19.09.2025;ServiceNow;;OK;OK;John Lodge 110;OK;Vancouver;MATCH;OK;0
+Hannah Rue110, Birmingham, UK;93803;-365822214;UK;Birmingham;PROP00184;Inactive;17.12.2024;SAP;Needs review;OK;OK;Hannah Rue110;OK;Birmingham;MATCH;OK;0
+SpainBarcelona, Spain;12697;-430667435;Spain;Barcelona;PROP00185;Inactive;17.08.2025;Planon;;OK;OK;Spain;OK;Barcelona;MATCH;OK;0
+Canada, Montreal, Walker Square 151;32391;-343085753;Canada;Montreal;PROP00186;Active;19.06.2025;MDG;;OK;OK;Walker Square 151;OK;Montreal;MATCH;OK;0
+USA, Phoenix;62532;-831664945;USA;Phoenix;PROP00187;Active;20.08.2024;SAP;;OK;OK;Phoenix;OK;Phoenix;MATCH;OK;0
+CanadaMontrealColeman Summit191;72641;-952931279;Canada;Montreal;PROP00188;Inactive;12.07.2024;SAP;Verified;OK;OK;CanadaMontrealColeman Summit191;OK;Montreal;MATCH;OK;0
+Bell Motorway300, Fortaleza, Brazil;36010;-768033554;Brazil;Fortaleza;PROP00189;Inactive;25.09.2023;MDG;Needs review;OK;OK;Bell Motorway300;OK;Fortaleza;MATCH;OK;0
+SpainMadrid;95041;-983917711;Spain;Madrid;PROP00190;Inactive;19.09.2025;Planon;;OK;OK;;MISSING;Madrid;MATCH;ERROR;1
+Leslie Summit 92, Germany, Frankfurt;70737;-307546739;Germany;Frankfurt;PROP00191;Inactive;11.09.2025;Planon;Verified;OK;OK;Leslie Summit 92;OK;Frankfurt;MATCH;OK;0
+James Streets 111, USA, Chicago;63965;-333534493;USA;Chicago;PROP00192;Active;04.05.2025;Planon;;OK;OK;James Streets 111;OK;Chicago;MATCH;OK;0
+Liverpool, Hardy Trace 182, UK;69266;-508590987;UK;Liverpool;PROP00193;Inactive;13.11.2024;Planon;Verified;OK;OK;Hardy Trace 182;OK;Liverpool;MATCH;OK;0
+USAChicago;25944;-315980488;USA;Chicago;PROP00194;Inactive;29.04.2024;MDG;Pending validation;OK;OK;;MISSING;Chicago;MATCH;ERROR;1
+Perez Fall 169, Sapporo;40119;-402449734;Japan;Sapporo;PROP00195;Inactive;12.04.2023;MDG;;OK;OK;Perez Fall 169;OK;Sapporo;MATCH;OK;0
+GermanyHamburg, Germany;36455;-770111107;Germany;Hamburg;PROP00196;Active;29.06.2024;MDG;;OK;OK;Germany;OK;Hamburg;MATCH;OK;0
+MadridTerri Plaza90, Spain;38791;-742367068;Spain;Madrid;PROP00197;Inactive;04.03.2025;SAP;Check postal code;OK;OK;MadridTerri Plaza90;OK;Madrid;MATCH;OK;0
+Dana Terrace 273, Brazil, São Paulo;64841;-155696429;Brazil;São Paulo;PROP00198;Active;24.03.2023;ServiceNow;Imported from legacy system;OK;OK;Dana Terrace 273;OK;São Paulo;MATCH;OK;0
+Germany, Frankfurt, Monique Ports 111;37769;-923090992;Germany;Frankfurt;PROP00199;Inactive;29.11.2023;MDG;Check postal code;OK;OK;Monique Ports 111;OK;Frankfurt;MATCH;OK;0
+Mendoza Junctions 69, Brazil, Brasília;24665;-194222246;Brazil;Brasília;PROP00200;Inactive;12.09.2025;MDG;;OK;OK;Mendoza Junctions 69;OK;Brasília;MATCH;OK;0
+Johnny Wall 185, Bilbao;63117;-951657615;Spain;Bilbao;PROP00201;Active;22.10.2023;Planon;;OK;OK;Johnny Wall 185;OK;Bilbao;MATCH;OK;0
+Fortaleza, Lynn Locks 218, Brazil;64955;-684573617;Brazil;Fortaleza;PROP00202;Active;04.05.2024;SAP;;OK;OK;Lynn Locks 218;OK;Fortaleza;MATCH;OK;0
+Brazil, Salvador;7527;-956453444;Brazil;Salvador;PROP00203;Inactive;27.07.2024;SAP;;OK;OK;Salvador;OK;Salvador;MATCH;OK;0
+Edward Port216, Tokyo, Japan;40325;-521067920;Japan;Tokyo;PROP00204;Active;03.11.2023;SAP;Imported from legacy system;OK;OK;Edward Port216;OK;Tokyo;MATCH;OK;0
+AustraliaSydney;73648;-951009962;Australia;Sydney;PROP00205;Inactive;29.11.2022;MDG;Pending validation;OK;OK;;MISSING;Sydney;MATCH;ERROR;1
+Obrien Turnpike 263, Fortaleza;81558;-859357207;Brazil;Fortaleza;PROP00206;Active;19.03.2025;SAP;;OK;OK;Obrien Turnpike 263;OK;Fortaleza;MATCH;OK;0
+FlorenceKimberly Light13, Italy;59550;-477559018;Italy;Florence;PROP00207;Active;17.06.2023;ServiceNow;;OK;OK;FlorenceKimberly Light13;OK;Florence;MATCH;OK;0
+Evans Radial 7, USA, Phoenix;56708;-200467345;USA;Phoenix;PROP00208;Active;04.05.2023;Planon;;OK;OK;Evans Radial 7;OK;Phoenix;MATCH;OK;0
+Germany, Frankfurt;80406;-912953758;Germany;Frankfurt;PROP00209;Active;19.07.2025;Planon;Pending validation;OK;OK;Frankfurt;OK;Frankfurt;MATCH;OK;0
+SpainValencia, Spain;82488;-108268166;Spain;Valencia;PROP00210;Inactive;08.01.2025;SAP;;OK;OK;Spain;OK;Valencia;MATCH;OK;0
+Joseph Common 145, Canada, Vancouver;21086;-510863737;Canada;Vancouver;PROP00211;Inactive;02.11.2023;SAP;Pending validation;OK;OK;Joseph Common 145;OK;Vancouver;MATCH;OK;0
+MontrealGlenn Club126, Canada;21018;-561507520;Canada;Montreal;PROP00212;Active;04.04.2025;SAP;Imported from legacy system;OK;OK;MontrealGlenn Club126;OK;Montreal;MATCH;OK;0
+JapanTokyo;78333;-527996548;Japan;Tokyo;PROP00213;Inactive;06.06.2023;Planon;;OK;OK;;MISSING;Tokyo;MATCH;ERROR;1
+Australia, Perth, Carter Fort 199;38263;-505094476;Australia;Perth;PROP00214;Inactive;03.03.2025;Salesforce;Imported from legacy system;OK;OK;Carter Fort 199;OK;Perth;MATCH;OK;0
+Brisbane, Warner Motorway 276, Australia;9830;-264927968;Australia;Brisbane;PROP00215;Active;14.06.2023;MDG;Check postal code;OK;OK;Warner Motorway 276;OK;Brisbane;MATCH;OK;0
+ParisSandra Turnpike160, France;82428;-620930150;France;Paris;PROP00216;Inactive;27.05.2024;Salesforce;Verified;OK;OK;ParisSandra Turnpike160;OK;Paris;MATCH;OK;0
+Ronald Plains220, Paris, France;29967;-939490100;France;Paris;PROP00217;Inactive;16.12.2023;MDG;Check postal code;OK;OK;Ronald Plains220;OK;Paris;MATCH;OK;0
+GermanyHamburg;19144;-344009465;Germany;Hamburg;PROP00218;Inactive;04.10.2023;MDG;;OK;OK;;MISSING;Hamburg;MATCH;ERROR;1
+Brian Turnpike 92, Madrid;40820;-583535689;Spain;Madrid;PROP00219;Inactive;16.03.2023;SAP;Check postal code;OK;OK;Brian Turnpike 92;OK;Madrid;MATCH;OK;0
+PhoenixGonzales Mountain163, USA;90767;-683819189;USA;Phoenix;PROP00220;Active;21.09.2025;ServiceNow;Verified;OK;OK;PhoenixGonzales Mountain163;OK;Phoenix;MATCH;OK;0
+BirminghamLyons Groves42, UK;66098;-219269980;UK;Birmingham;PROP00221;Inactive;29.06.2025;ServiceNow;Verified;OK;OK;BirminghamLyons Groves42;OK;Birmingham;MATCH;OK;0
+FranceParis, France;5725;-164777004;France;Paris;PROP00222;Inactive;21.08.2025;Salesforce;;OK;OK;France;OK;Paris;MATCH;OK;0
+ItalyTurin;33317;-302878364;Italy;Turin;PROP00223;Active;29.12.2023;Salesforce;Verified;OK;OK;;MISSING;Turin;MATCH;ERROR;1
+BrazilSão Paulo;75893;-610414593;Brazil;São Paulo;PROP00224;Inactive;21.06.2025;ServiceNow;;OK;OK;;MISSING;São Paulo;MATCH;ERROR;1
+FranceLyon;35826;-961237548;France;Lyon;PROP00225;Active;28.02.2025;Salesforce;Pending validation;OK;OK;;MISSING;Lyon;MATCH;ERROR;1
+CanadaMontrealKathryn Extensions12;62170;-839688240;Canada;Montreal;PROP00226;Inactive;12.09.2024;MDG;Pending validation;OK;OK;CanadaMontrealKathryn Extensions12;OK;Montreal;MATCH;OK;0
+BrisbaneMoon Falls294, Australia;77221;-787476976;Australia;Brisbane;PROP00227;Inactive;28.11.2022;ServiceNow;Pending validation;OK;OK;BrisbaneMoon Falls294;OK;Brisbane;MATCH;OK;0
+UKLondon;12460;-429732679;UK;London;PROP00228;Active;22.01.2025;SAP;Imported from legacy system;OK;OK;;MISSING;London;MATCH;ERROR;1
+Bailey Isle 8, Germany, Berlin;42582;-221482458;Germany;Berlin;PROP00229;Active;22.01.2025;MDG;Imported from legacy system;OK;OK;Bailey Isle 8;OK;Berlin;MATCH;OK;0
+UKLiverpoolMia Isle235;54456;-246784217;UK;Liverpool;PROP00230;Active;07.08.2024;Planon;;OK;OK;UKLiverpoolMia Isle235;OK;Liverpool;MATCH;OK;0
+UKLondon;72603;-912697686;UK;London;PROP00231;Inactive;03.05.2024;Salesforce;;OK;OK;;MISSING;London;MATCH;ERROR;1
+AustraliaPerth;33583;-531967181;Australia;Perth;PROP00232;Inactive;04.11.2023;Planon;Imported from legacy system;OK;OK;;MISSING;Perth;MATCH;ERROR;1
+UKLeeds;53477;-628777964;UK;Leeds;PROP00233;Inactive;17.11.2023;Salesforce;Pending validation;OK;OK;;MISSING;Leeds;MATCH;ERROR;1
+GermanyMunich;61053;-319537480;Germany;Munich;PROP00234;Active;18.03.2025;MDG;Pending validation;OK;OK;;MISSING;Munich;MATCH;ERROR;1
+Fortaleza, Brown Path 237, Brazil;47920;-897609020;Brazil;Fortaleza;PROP00235;Inactive;11.09.2025;Planon;;OK;OK;Brown Path 237;OK;Fortaleza;MATCH;OK;0
+AustraliaPerth, Australia;7265;-999684964;Australia;Perth;PROP00236;Inactive;24.11.2023;Planon;Check postal code;OK;OK;Australia;OK;Perth;MATCH;OK;0
+Joseph Curve 49, Hamburg;38253;-293593323;Germany;Hamburg;PROP00237;Active;15.11.2025;SAP;Needs review;OK;OK;Joseph Curve 49;OK;Hamburg;MATCH;OK;0
+Gilmore Oval 266, Paris;16416;-120684505;France;Paris;PROP00238;Inactive;05.09.2025;SAP;;OK;OK;Gilmore Oval 266;OK;Paris;MATCH;OK;0
+NaplesTeresa Rest232, Italy;31866;-365965075;Italy;Naples;PROP00239;Inactive;18.04.2025;Planon;Imported from legacy system;OK;OK;NaplesTeresa Rest232;OK;Naples;MATCH;OK;0
+JapanTokyoLance Bridge101;72885;-772050521;Japan;Tokyo;PROP00240;Inactive;27.08.2025;SAP;Pending validation;OK;OK;JapanTokyoLance Bridge101;OK;Tokyo;MATCH;OK;0
+Canada, Vancouver, Davis Ville 185;15372;-578503726;Canada;Vancouver;PROP00241;Active;17.09.2025;ServiceNow;Imported from legacy system;OK;OK;Davis Ville 185;OK;Vancouver;MATCH;OK;0
+Valentine Rue159, Melbourne, Australia;20682;-879423297;Australia;Melbourne;PROP00242;Inactive;23.01.2023;Planon;;OK;OK;Valentine Rue159;OK;Melbourne;MATCH;OK;0
+France, Paris;67199;-624114944;France;Paris;PROP00243;Inactive;24.04.2025;MDG;Check postal code;OK;OK;Paris;OK;Paris;MATCH;OK;0
+ParisPerry Orchard298, France;62395;-590697212;France;Paris;PROP00244;Inactive;25.01.2025;Salesforce;Verified;OK;OK;ParisPerry Orchard298;OK;Paris;MATCH;OK;0
+Stephen Drive 57, France, Marseille;50778;-478015303;France;Marseille;PROP00245;Active;07.07.2023;MDG;;OK;OK;Stephen Drive 57;OK;Marseille;MATCH;OK;0
+AustraliaBrisbane;98319;-876834636;Australia;Brisbane;PROP00246;Inactive;23.11.2025;SAP;;OK;OK;;MISSING;Brisbane;MATCH;ERROR;1
+UK, Manchester;54888;-958092378;UK;Manchester;PROP00247;Active;03.07.2025;Salesforce;Check postal code;OK;OK;Manchester;OK;Manchester;MATCH;OK;0
+Villa Parkways110, Bordeaux, France;35519;-238442063;France;Bordeaux;PROP00248;Inactive;20.05.2023;Salesforce;;OK;OK;Villa Parkways110;OK;Bordeaux;MATCH;OK;0
+AustraliaBrisbane;77432;-367900918;Australia;Brisbane;PROP00249;Inactive;19.10.2023;MDG;;OK;OK;;MISSING;Brisbane;MATCH;ERROR;1
+Grimes Mission 228, Japan, Osaka;71093;-180441778;Japan;Osaka;PROP00250;Inactive;12.08.2023;ServiceNow;Imported from legacy system;OK;OK;Grimes Mission 228;OK;Osaka;MATCH;OK;0
+Reed Plaza 157, USA, Houston;71729;-299578453;USA;Houston;PROP00251;Active;26.01.2023;ServiceNow;;OK;OK;Reed Plaza 157;OK;Houston;MATCH;OK;0
+Italy, Naples, Gibson Islands 48;25228;-524433551;Italy;Naples;PROP00252;Active;11.12.2022;Planon;;OK;OK;Gibson Islands 48;OK;Naples;MATCH;OK;0
+AustraliaAdelaide;54342;-762275981;Australia;Adelaide;PROP00253;Active;01.11.2024;Salesforce;;OK;OK;;MISSING;Adelaide;MATCH;ERROR;1
+Louis Mountains 287, Bilbao;92936;-859746655;Spain;Bilbao;PROP00254;Active;18.09.2025;SAP;;OK;OK;Louis Mountains 287;OK;Bilbao;MATCH;OK;0
+Hughes Shore 118, Japan, Nagoya;85962;-721726272;Japan;Nagoya;PROP00255;Active;25.03.2024;MDG;;OK;OK;Hughes Shore 118;OK;Nagoya;MATCH;OK;0
+Tyler Camp 66, Japan, Kyoto;17048;-303625438;Japan;Kyoto;PROP00256;Active;17.05.2024;ServiceNow;Verified;OK;OK;Tyler Camp 66;OK;Kyoto;MATCH;OK;0
+Kane Well294, Seville, Spain;58212;-768866464;Spain;Seville;PROP00257;Active;13.12.2023;Planon;Needs review;OK;OK;Kane Well294;OK;Seville;MATCH;OK;0
+Canada, Montreal;2512;-896798042;Canada;Montreal;PROP00258;Inactive;17.08.2025;MDG;;OK;OK;Montreal;OK;Montreal;MATCH;OK;0
+Hamburg, Robert Shoal 173, Germany;20733;-926118252;Germany;Hamburg;PROP00259;Inactive;11.05.2023;MDG;Pending validation;OK;OK;Robert Shoal 173;OK;Hamburg;MATCH;OK;0
+LyonTerrance Greens77, France;44876;-674319624;France;Lyon;PROP00260;Inactive;24.07.2024;SAP;Check postal code;OK;OK;LyonTerrance Greens77;OK;Lyon;MATCH;OK;0
+ItalyMilan;43566;-424131575;Italy;Milan;PROP00261;Inactive;22.05.2023;MDG;Imported from legacy system;OK;OK;;MISSING;Milan;MATCH;ERROR;1
+Finley Road136, Salvador, Brazil;94704;-553723837;Brazil;Salvador;PROP00262;Active;13.07.2024;Planon;Imported from legacy system;OK;OK;Finley Road136;OK;Salvador;MATCH;OK;0
+BrasíliaBrennan Camp37, Brazil;81432;-246932733;Brazil;Brasília;PROP00263;Inactive;26.06.2023;ServiceNow;;OK;OK;BrasíliaBrennan Camp37;OK;Brasília;MATCH;OK;0
+Frankfurt, Jimmy Spur 173, Germany;38168;-535199116;Germany;Frankfurt;PROP00264;Inactive;29.03.2025;ServiceNow;Check postal code;OK;OK;Jimmy Spur 173;OK;Frankfurt;MATCH;OK;0
+CanadaMontreal;13404;-374893114;Canada;Montreal;PROP00265;Inactive;09.01.2024;MDG;Verified;OK;OK;;MISSING;Montreal;MATCH;ERROR;1
+UKManchester;39752;-374505635;UK;Manchester;PROP00266;Active;19.06.2023;SAP;Verified;OK;OK;;MISSING;Manchester;MATCH;ERROR;1
+UKLeedsBrandon Underpass29;7856;-116541454;UK;Leeds;PROP00267;Active;23.12.2022;Salesforce;Pending validation;OK;OK;UKLeedsBrandon Underpass29;OK;Leeds;MATCH;OK;0
+SapporoHoward Meadows30, Japan;19581;-157477480;Japan;Sapporo;PROP00268;Inactive;17.09.2025;SAP;;OK;OK;SapporoHoward Meadows30;OK;Sapporo;MATCH;OK;0
+Amanda Port 2, Calgary;89865;-274569549;Canada;Calgary;PROP00269;Inactive;08.11.2024;Planon;;OK;OK;Amanda Port 2;OK;Calgary;MATCH;OK;0
+George Common 184, Naples;80388;-187421817;Italy;Naples;PROP00270;Inactive;15.09.2024;MDG;;OK;OK;George Common 184;OK;Naples;MATCH;OK;0
+JapanNagoya;65731;-885959971;Japan;Nagoya;PROP00271;Inactive;22.02.2023;SAP;;OK;OK;;MISSING;Nagoya;MATCH;ERROR;1
+Jesse Route 278, USA, Phoenix;33790;-457366444;USA;Phoenix;PROP00272;Active;24.02.2024;MDG;;OK;OK;Jesse Route 278;OK;Phoenix;MATCH;OK;0
+CanadaVancouver;61482;-904892487;Canada;Vancouver;PROP00273;Inactive;12.06.2023;MDG;;OK;OK;;MISSING;Vancouver;MATCH;ERROR;1
+USAHouston;10182;-232848442;USA;Houston;PROP00274;Active;19.04.2025;Salesforce;Pending validation;OK;OK;;MISSING;Houston;MATCH;ERROR;1
+Germany, Cologne;39711;-993398065;Germany;Cologne;PROP00275;Inactive;13.12.2022;Planon;Pending validation;OK;OK;Cologne;OK;Cologne;MATCH;OK;0
+GermanyFrankfurt, Germany;40100;-720786269;Germany;Frankfurt;PROP00276;Inactive;15.01.2024;Salesforce;Verified;OK;OK;Germany;OK;Frankfurt;MATCH;OK;0
+Calgary, Yvonne Walk 269, Canada;63836;-172788447;Canada;Calgary;PROP00277;Active;10.11.2024;MDG;Needs review;OK;OK;Yvonne Walk 269;OK;Calgary;MATCH;OK;0
+AustraliaAdelaide, Australia;47550;-569562481;Australia;Adelaide;PROP00278;Active;09.05.2023;SAP;Pending validation;OK;OK;Australia;OK;Adelaide;MATCH;OK;0
+Brazil, Rio de Janeiro;3376;-736920327;Brazil;Rio de Janeiro;PROP00279;Inactive;30.04.2024;ServiceNow;;OK;OK;Rio de Janeiro;OK;Rio de Janeiro;MATCH;OK;0
+JapanNagoyaHill Port8;90390;-401230897;Japan;Nagoya;PROP00280;Active;09.08.2024;Planon;;OK;OK;JapanNagoyaHill Port8;OK;Nagoya;MATCH;OK;0
+Japan, Tokyo, Renee Summit 183;65608;-737055372;Japan;Tokyo;PROP00281;Inactive;12.01.2024;ServiceNow;;OK;OK;Renee Summit 183;OK;Tokyo;MATCH;OK;0
+BrisbaneParsons Forks64, Australia;80070;-678085396;Australia;Brisbane;PROP00282;Inactive;22.02.2023;Planon;;OK;OK;BrisbaneParsons Forks64;OK;Brisbane;MATCH;OK;0
+MadridRobinson Field59, Spain;81882;-854940619;Spain;Madrid;PROP00283;Active;02.11.2023;MDG;Verified;OK;OK;MadridRobinson Field59;OK;Madrid;MATCH;OK;0
+UKBirmingham, UK;86901;-501717164;UK;Birmingham;PROP00284;Active;13.10.2023;ServiceNow;Imported from legacy system;OK;OK;UK;OK;Birmingham;MATCH;OK;0
+AustraliaAdelaide;85218;-253344592;Australia;Adelaide;PROP00285;Inactive;13.12.2023;Planon;;OK;OK;;MISSING;Adelaide;MATCH;ERROR;1
+Kyle Mill181, Montreal, Canada;4874;-169655354;Canada;Montreal;PROP00286;Active;11.08.2025;Salesforce;Imported from legacy system;OK;OK;Kyle Mill181;OK;Montreal;MATCH;OK;0
+Rio de Janeiro, Oconnor Course 202, Brazil;39181;-154796497;Brazil;Rio de Janeiro;PROP00287;Active;27.06.2023;SAP;;OK;OK;Oconnor Course 202;OK;Rio de Janeiro;MATCH;OK;0
+São Paulo, Burgess Extensions 183, Brazil;26819;-854885775;Brazil;São Paulo;PROP00288;Inactive;03.03.2025;ServiceNow;Check postal code;OK;OK;Burgess Extensions 183;OK;São Paulo;MATCH;OK;0
+Brisbane, Kristin Wells 71, Australia;48454;-204608852;Australia;Brisbane;PROP00289;Inactive;08.02.2025;Planon;Imported from legacy system;OK;OK;Kristin Wells 71;OK;Brisbane;MATCH;OK;0
+GermanyHamburg, Germany;63657;-520795712;Germany;Hamburg;PROP00290;Active;16.08.2023;SAP;Pending validation;OK;OK;Germany;OK;Hamburg;MATCH;OK;0
+CanadaMontreal;15596;-509285233;Canada;Montreal;PROP00291;Inactive;26.01.2023;Planon;;OK;OK;;MISSING;Montreal;MATCH;ERROR;1
+USA, New York, Mccarty Divide 15;99349;-220182776;USA;New York;PROP00292;Active;20.09.2025;Planon;Imported from legacy system;OK;OK;Mccarty Divide 15;OK;New York;MATCH;OK;0
+AustraliaMelbourne;88896;-517989883;Australia;Melbourne;PROP00293;Active;26.08.2025;Planon;Verified;OK;OK;;MISSING;Melbourne;MATCH;ERROR;1
+Coffey Unions 116, Germany, Cologne;73549;-979950104;Germany;Cologne;PROP00294;Active;02.08.2025;MDG;;OK;OK;Coffey Unions 116;OK;Cologne;MATCH;OK;0
+Davis Locks 25, Italy, Naples;2325;-483600681;Italy;Naples;PROP00295;Active;31.05.2024;Salesforce;;OK;OK;Davis Locks 25;OK;Naples;MATCH;OK;0
+Italy, Naples, Herrera Motorway 169;48812;-174512116;Italy;Naples;PROP00296;Active;11.10.2025;ServiceNow;;OK;OK;Herrera Motorway 169;OK;Naples;MATCH;OK;0
+Leeds, Richards View 78, UK;84196;-863508794;UK;Leeds;PROP00297;Active;23.02.2025;Salesforce;;OK;OK;Richards View 78;OK;Leeds;MATCH;OK;0
+GermanyBerlin;62298;-385042257;Germany;Berlin;PROP00298;Inactive;27.07.2023;SAP;;OK;OK;;MISSING;Berlin;MATCH;ERROR;1
+Leeds, Christine Points 207, UK;43493;-126384344;UK;Leeds;PROP00299;Inactive;27.12.2023;SAP;Pending validation;OK;OK;Christine Points 207;OK;Leeds;MATCH;OK;0
+Deborah Roads 279, Italy, Florence;61353;-751929334;Italy;Florence;PROP00300;Inactive;09.08.2025;SAP;Verified;OK;OK;Deborah Roads 279;OK;Florence;MATCH;OK;0
+Banks Crescent 116, France, Paris;18821;-135214000;France;Paris;PROP00301;Active;26.09.2025;SAP;Check postal code;OK;OK;Banks Crescent 116;OK;Paris;MATCH;OK;0
+Canada, Montreal, Sophia Hollow 204;65070;-140880331;Canada;Montreal;PROP00302;Active;16.03.2025;Planon;;OK;OK;Sophia Hollow 204;OK;Montreal;MATCH;OK;0
+GermanyBerlinColton Plain44;18282;-392879933;Germany;Berlin;PROP00303;Active;15.10.2024;Planon;Verified;OK;OK;GermanyBerlinColton Plain44;OK;Berlin;MATCH;OK;0
+Chavez Skyway 138, Brazil, Salvador;97905;-778539717;Brazil;Salvador;PROP00304;Active;16.05.2023;Planon;;OK;OK;Chavez Skyway 138;OK;Salvador;MATCH;OK;0
+Brazil, Fortaleza;20754;-285554369;Brazil;Fortaleza;PROP00305;Inactive;15.03.2025;SAP;Needs review;OK;OK;Fortaleza;OK;Fortaleza;MATCH;OK;0
+Paris, Pena Village 84, France;64640;-150879108;France;Paris;PROP00306;Inactive;09.02.2024;ServiceNow;;OK;OK;Pena Village 84;OK;Paris;MATCH;OK;0
+NaplesCrosby Harbors180, Italy;4789;-476359178;Italy;Naples;PROP00307;Active;12.11.2023;Salesforce;Pending validation;OK;OK;NaplesCrosby Harbors180;OK;Naples;MATCH;OK;0
+Japan, Sapporo;31448;-495224929;Japan;Sapporo;PROP00308;Inactive;26.10.2024;MDG;Needs review;OK;OK;Sapporo;OK;Sapporo;MATCH;OK;0
+Garcia Spur146, Kyoto, Japan;48648;-902246931;Japan;Kyoto;PROP00309;Active;07.04.2023;SAP;;OK;OK;Garcia Spur146;OK;Kyoto;MATCH;OK;0
+MontrealBrown Harbor209, Canada;25379;-846025780;Canada;Montreal;PROP00310;Active;24.09.2024;SAP;;OK;OK;MontrealBrown Harbor209;OK;Montreal;MATCH;OK;0
+UKLondonStacy View2;60101;-488462901;UK;London;PROP00311;Inactive;04.06.2023;Planon;Needs review;OK;OK;UKLondonStacy View2;OK;London;MATCH;OK;0
+Salvador, Elizabeth Row 194, Brazil;84320;-237321971;Brazil;Salvador;PROP00312;Active;05.07.2024;ServiceNow;Pending validation;OK;OK;Elizabeth Row 194;OK;Salvador;MATCH;OK;0
+FranceParis;32426;-586674360;France;Paris;PROP00313;Inactive;25.10.2024;MDG;Pending validation;OK;OK;;MISSING;Paris;MATCH;ERROR;1
+Australia, Brisbane;9493;-729075703;Australia;Brisbane;PROP00314;Active;14.02.2025;Planon;;OK;OK;Brisbane;OK;Brisbane;MATCH;OK;0
+JapanSapporo, Japan;31040;-687532476;Japan;Sapporo;PROP00315;Inactive;28.08.2023;SAP;;OK;OK;Japan;OK;Sapporo;MATCH;OK;0
+USA, Los Angeles;78617;-555391551;USA;Los Angeles;PROP00316;Active;01.10.2023;Salesforce;;OK;OK;Los Angeles;OK;Los Angeles;MATCH;OK;0
+UK, Leeds;17539;-492066787;UK;Leeds;PROP00317;Inactive;16.05.2025;ServiceNow;Pending validation;OK;OK;Leeds;OK;Leeds;MATCH;OK;0
+FranceToulouseLindsey Creek215;87147;-754162156;France;Toulouse;PROP00318;Active;05.06.2025;Planon;Check postal code;OK;OK;FranceToulouseLindsey Creek215;OK;Toulouse;MATCH;OK;0
+CanadaCalgary;31687;-950873327;Canada;Calgary;PROP00319;Inactive;09.03.2025;Salesforce;Pending validation;OK;OK;;MISSING;Calgary;MATCH;ERROR;1
+Smith Greens 255, USA, New York;7369;-649924532;USA;New York;PROP00320;Inactive;12.10.2024;SAP;;OK;OK;Smith Greens 255;OK;New York;MATCH;OK;0
+AustraliaPerth, Australia;15397;-839214583;Australia;Perth;PROP00321;Inactive;18.09.2024;ServiceNow;Check postal code;OK;OK;Australia;OK;Perth;MATCH;OK;0
+Thomas Tunnel 275, Bilbao;47954;-324829452;Spain;Bilbao;PROP00322;Inactive;14.08.2024;MDG;Check postal code;OK;OK;Thomas Tunnel 275;OK;Bilbao;MATCH;OK;0
+Shannon Forges 5, Paris;81124;-842498967;France;Paris;PROP00323;Active;15.12.2023;MDG;Pending validation;OK;OK;Shannon Forges 5;OK;Paris;MATCH;OK;0
+HamburgJessica Way23, Germany;86864;-692810065;Germany;Hamburg;PROP00324;Inactive;22.06.2023;Planon;;OK;OK;HamburgJessica Way23;OK;Hamburg;MATCH;OK;0
+CanadaCalgaryEllis Burgs119;8473;-642163600;Canada;Calgary;PROP00325;Active;20.11.2025;MDG;Check postal code;OK;OK;CanadaCalgaryEllis Burgs119;OK;Calgary;MATCH;OK;0
+AustraliaAdelaide, Australia;90429;-672859473;Australia;Adelaide;PROP00326;Active;27.12.2024;SAP;Imported from legacy system;OK;OK;Australia;OK;Adelaide;MATCH;OK;0
+Brisbane, Tracy Mills 245, Australia;10133;-588321531;Australia;Brisbane;PROP00327;Inactive;26.07.2023;MDG;;OK;OK;Tracy Mills 245;OK;Brisbane;MATCH;OK;0
+UK, London, Marc Drive 256;9110;-874645052;UK;London;PROP00328;Inactive;02.12.2023;ServiceNow;;OK;OK;Marc Drive 256;OK;London;MATCH;OK;0
+Canada, Calgary;77225;-954424217;Canada;Calgary;PROP00329;Inactive;21.11.2025;MDG;;OK;OK;Calgary;OK;Calgary;MATCH;OK;0
+AustraliaMelbourneJames Ranch170;70042;-425560814;Australia;Melbourne;PROP00330;Active;25.12.2022;Salesforce;Verified;OK;OK;AustraliaMelbourneJames Ranch170;OK;Melbourne;MATCH;OK;0
+USAHouston;56888;-506116374;USA;Houston;PROP00331;Active;04.12.2023;Planon;Pending validation;OK;OK;;MISSING;Houston;MATCH;ERROR;1
+Australia, Brisbane;86315;-680505041;Australia;Brisbane;PROP00332;Inactive;29.12.2023;SAP;Imported from legacy system;OK;OK;Brisbane;OK;Brisbane;MATCH;OK;0
+France, Paris, Russell Forks 185;54740;-561996782;France;Paris;PROP00333;Inactive;20.03.2024;ServiceNow;;OK;OK;Russell Forks 185;OK;Paris;MATCH;OK;0
+Los Angeles, Wilcox Locks 70, USA;55025;-715556996;USA;Los Angeles;PROP00334;Inactive;26.03.2024;SAP;;OK;OK;Wilcox Locks 70;OK;Los Angeles;MATCH;OK;0
+Germany, Frankfurt, Larry Island 100;87678;-499388987;Germany;Frankfurt;PROP00335;Inactive;30.03.2025;ServiceNow;Verified;OK;OK;Larry Island 100;OK;Frankfurt;MATCH;OK;0
+Brooks Drives 68, Japan, Osaka;90524;-687023046;Japan;Osaka;PROP00336;Active;03.11.2025;ServiceNow;;OK;OK;Brooks Drives 68;OK;Osaka;MATCH;OK;0
+UK, Leeds;11689;-294930235;UK;Leeds;PROP00337;Active;25.11.2023;Salesforce;Needs review;OK;OK;Leeds;OK;Leeds;MATCH;OK;0
+BordeauxRyan Summit13, France;97336;-946409747;France;Bordeaux;PROP00338;Inactive;28.06.2023;MDG;Imported from legacy system;OK;OK;BordeauxRyan Summit13;OK;Bordeaux;MATCH;OK;0
+Cain Point 186, USA, Phoenix;8362;-940621989;USA;Phoenix;PROP00339;Active;10.09.2025;SAP;;OK;OK;Cain Point 186;OK;Phoenix;MATCH;OK;0
+FranceBordeauxSantiago Loop66;46847;-791814851;France;Bordeaux;PROP00340;Inactive;12.02.2025;MDG;;OK;OK;FranceBordeauxSantiago Loop66;OK;Bordeaux;MATCH;OK;0
+GermanyMunichParrish Stravenue265;7244;-188431335;Germany;Munich;PROP00341;Active;09.02.2023;ServiceNow;;OK;OK;GermanyMunichParrish Stravenue265;OK;Munich;MATCH;OK;0
+ItalyMilan;14080;-413223648;Italy;Milan;PROP00342;Inactive;01.04.2025;MDG;Check postal code;OK;OK;;MISSING;Milan;MATCH;ERROR;1
+ToulouseEric Orchard239, France;29893;-841983523;France;Toulouse;PROP00343;Inactive;22.09.2023;Planon;Verified;OK;OK;ToulouseEric Orchard239;OK;Toulouse;MATCH;OK;0
+Michael Point 90, Japan, Tokyo;48677;-533009124;Japan;Tokyo;PROP00344;Inactive;22.07.2023;Salesforce;;OK;OK;Michael Point 90;OK;Tokyo;MATCH;OK;0
+GermanyBerlinKathryn Ports35;30144;-331541800;Germany;Berlin;PROP00345;Active;30.06.2024;ServiceNow;;OK;OK;GermanyBerlinKathryn Ports35;OK;Berlin;MATCH;OK;0
+Bruce Trafficway 94, Manchester;81991;-586911071;UK;Manchester;PROP00346;Inactive;17.05.2023;SAP;;OK;OK;Bruce Trafficway 94;OK;Manchester;MATCH;OK;0
+BrazilSalvadorChelsea Shoals133;91395;-358153259;Brazil;Salvador;PROP00347;Inactive;10.03.2023;MDG;Imported from legacy system;OK;OK;BrazilSalvadorChelsea Shoals133;OK;Salvador;MATCH;OK;0
+GermanyBerlin, Germany;92605;-673844146;Germany;Berlin;PROP00348;Inactive;22.02.2025;MDG;;OK;OK;Germany;OK;Berlin;MATCH;OK;0
+GermanyFrankfurt;1301;-539474204;Germany;Frankfurt;PROP00349;Inactive;15.10.2025;MDG;;OK;OK;;MISSING;Frankfurt;MATCH;ERROR;1
+UKManchester;86660;-167381278;UK;Manchester;PROP00350;Inactive;08.10.2025;Salesforce;;OK;OK;;MISSING;Manchester;MATCH;ERROR;1
+Los Angeles, Jones Streets 121, USA;83492;-517550279;USA;Los Angeles;PROP00351;Active;19.04.2024;SAP;;OK;OK;Jones Streets 121;OK;Los Angeles;MATCH;OK;0
+BrazilRio de Janeiro;28698;-374861870;Brazil;Rio de Janeiro;PROP00352;Inactive;08.08.2025;ServiceNow;Pending validation;OK;OK;;MISSING;Rio de Janeiro;MATCH;ERROR;1
+UK, London;21132;-802440184;UK;London;PROP00353;Inactive;24.08.2025;SAP;Check postal code;OK;OK;London;OK;London;MATCH;OK;0
+Germany, Hamburg;74896;-360341804;Germany;Hamburg;PROP00354;Active;06.07.2023;Planon;Verified;OK;OK;Hamburg;OK;Hamburg;MATCH;OK;0
+FranceToulouse;21133;-839475854;France;Toulouse;PROP00355;Active;07.07.2023;ServiceNow;;OK;OK;;MISSING;Toulouse;MATCH;ERROR;1
+USAHouston, USA;58580;-504486089;USA;Houston;PROP00356;Inactive;08.05.2025;SAP;;OK;OK;USA;OK;Houston;MATCH;OK;0
+Australia, Perth;54788;-723306151;Australia;Perth;PROP00357;Inactive;28.04.2023;Salesforce;;OK;OK;Perth;OK;Perth;MATCH;OK;0
+Lewis Passage 280, Houston;15419;-432358340;USA;Houston;PROP00358;Inactive;21.09.2025;Planon;Imported from legacy system;OK;OK;Lewis Passage 280;OK;Houston;MATCH;OK;0
+FranceLyonJordan Haven126;89396;-456026766;France;Lyon;PROP00359;Active;22.02.2023;MDG;;OK;OK;FranceLyonJordan Haven126;OK;Lyon;MATCH;OK;0
+Rose Inlet 229, Brazil, São Paulo;6453;-226515531;Brazil;São Paulo;PROP00360;Inactive;29.01.2023;SAP;Pending validation;OK;OK;Rose Inlet 229;OK;São Paulo;MATCH;OK;0
+Japan, Osaka;7681;-811455693;Japan;Osaka;PROP00361;Inactive;15.05.2023;Planon;Verified;OK;OK;Osaka;OK;Osaka;MATCH;OK;0
+Germany, Munich;18488;-705432578;Germany;Munich;PROP00362;Active;30.01.2025;Planon;Imported from legacy system;OK;OK;Munich;OK;Munich;MATCH;OK;0
+BrasíliaRoberts Crest18, Brazil;1514;-888099737;Brazil;Brasília;PROP00363;Active;24.10.2025;ServiceNow;Needs review;OK;OK;BrasíliaRoberts Crest18;OK;Brasília;MATCH;OK;0
+Brazil, Brasília, Burgess Extensions 27;17433;-324126989;Brazil;Brasília;PROP00364;Inactive;06.05.2023;SAP;;OK;OK;Burgess Extensions 27;OK;Brasília;MATCH;OK;0
+Italy, Milan;66071;-838162538;Italy;Milan;PROP00365;Active;03.02.2023;Planon;Check postal code;OK;OK;Milan;OK;Milan;MATCH;OK;0
+Jones Wall 178, Italy, Turin;97761;-650896084;Italy;Turin;PROP00366;Active;22.08.2025;SAP;Pending validation;OK;OK;Jones Wall 178;OK;Turin;MATCH;OK;0
+Japan, Osaka;10706;-571129049;Japan;Osaka;PROP00367;Active;07.10.2024;Salesforce;;OK;OK;Osaka;OK;Osaka;MATCH;OK;0
+Germany, Hamburg, Johnston Ports 70;53509;-230199613;Germany;Hamburg;PROP00368;Inactive;10.12.2024;MDG;Pending validation;OK;OK;Johnston Ports 70;OK;Hamburg;MATCH;OK;0
+Roberts Lodge 244, São Paulo;3234;-488928578;Brazil;São Paulo;PROP00369;Active;10.06.2023;ServiceNow;Needs review;OK;OK;Roberts Lodge 244;OK;São Paulo;MATCH;OK;0
+HamburgJackson River146, Germany;60806;-711975474;Germany;Hamburg;PROP00370;Inactive;12.07.2025;MDG;Needs review;OK;OK;HamburgJackson River146;OK;Hamburg;MATCH;OK;0
+BilbaoDavis Vista1, Spain;14376;-568356816;Spain;Bilbao;PROP00371;Inactive;09.03.2025;Salesforce;Verified;OK;OK;BilbaoDavis Vista1;OK;Bilbao;MATCH;OK;0
+BirminghamRyan Locks70, UK;69177;-549418963;UK;Birmingham;PROP00372;Inactive;31.01.2025;MDG;Pending validation;OK;OK;BirminghamRyan Locks70;OK;Birmingham;MATCH;OK;0
+Randy Inlet110, Bilbao, Spain;98255;-865729057;Spain;Bilbao;PROP00373;Active;07.03.2024;Salesforce;;OK;OK;Randy Inlet110;OK;Bilbao;MATCH;OK;0
+Walker Tunnel 293, Seville;22538;-322502833;Spain;Seville;PROP00374;Inactive;19.04.2023;SAP;;OK;OK;Walker Tunnel 293;OK;Seville;MATCH;OK;0
+USA, Los Angeles;70048;-343670227;USA;Los Angeles;PROP00375;Active;17.03.2025;Salesforce;Needs review;OK;OK;Los Angeles;OK;Los Angeles;MATCH;OK;0
+France, Marseille, Rebecca Keys 118;46520;-411040696;France;Marseille;PROP00376;Inactive;22.04.2025;Planon;;OK;OK;Rebecca Keys 118;OK;Marseille;MATCH;OK;0
+USALos Angeles;34051;-229400614;USA;Los Angeles;PROP00377;Active;06.07.2023;MDG;Check postal code;OK;OK;;MISSING;Los Angeles;MATCH;ERROR;1
+Glenn Drives245, Tokyo, Japan;86419;-964482234;Japan;Tokyo;PROP00378;Inactive;16.01.2025;ServiceNow;;OK;OK;Glenn Drives245;OK;Tokyo;MATCH;OK;0
+Japan, Osaka, Gregory Trail 300;82807;-431993285;Japan;Osaka;PROP00379;Inactive;24.01.2023;MDG;Needs review;OK;OK;Gregory Trail 300;OK;Osaka;MATCH;OK;0
+Germany, Berlin;76453;-871988825;Germany;Berlin;PROP00380;Active;22.08.2024;Planon;Pending validation;OK;OK;Berlin;OK;Berlin;MATCH;OK;0
+AustraliaPerthMaldonado Port82;84779;-971471758;Australia;Perth;PROP00381;Active;11.11.2025;Salesforce;Verified;OK;OK;AustraliaPerthMaldonado Port82;OK;Perth;MATCH;OK;0
+Lin Road43, Frankfurt, Germany;41937;-336591318;Germany;Frankfurt;PROP00382;Active;08.10.2025;ServiceNow;;OK;OK;Lin Road43;OK;Frankfurt;MATCH;OK;0
+Scott Mountains 218, Perth;58462;-143137856;Australia;Perth;PROP00383;Active;31.10.2023;Planon;Verified;OK;OK;Scott Mountains 218;OK;Perth;MATCH;OK;0
+Los AngelesHogan Ramp170, USA;7863;-833911766;USA;Los Angeles;PROP00384;Inactive;04.02.2025;SAP;Imported from legacy system;OK;OK;Los AngelesHogan Ramp170;OK;Los Angeles;MATCH;OK;0
+France, Toulouse;61022;-608530091;France;Toulouse;PROP00385;Inactive;09.06.2023;Salesforce;;OK;OK;Toulouse;OK;Toulouse;MATCH;OK;0
+Johnson Land1, Marseille, France;38128;-983547160;France;Marseille;PROP00386;Active;06.03.2023;Planon;Needs review;OK;OK;Johnson Land1;OK;Marseille;MATCH;OK;0
+Japan, Tokyo;12336;-297647489;Japan;Tokyo;PROP00387;Inactive;28.04.2023;Planon;;OK;OK;Tokyo;OK;Tokyo;MATCH;OK;0
+Ford Plaza 288, Seville;97352;-277401380;Spain;Seville;PROP00388;Active;27.08.2023;MDG;Needs review;OK;OK;Ford Plaza 288;OK;Seville;MATCH;OK;0
+Shannon Valleys220, Berlin, Germany;75429;-703225029;Germany;Berlin;PROP00389;Inactive;01.08.2024;MDG;Needs review;OK;OK;Shannon Valleys220;OK;Berlin;MATCH;OK;0
+MelbourneMarc Mountains153, Australia;66216;-174104692;Australia;Melbourne;PROP00390;Inactive;11.05.2024;SAP;;OK;OK;MelbourneMarc Mountains153;OK;Melbourne;MATCH;OK;0
+GermanyHamburg, Germany;14067;-537543082;Germany;Hamburg;PROP00391;Active;25.07.2025;Salesforce;Verified;OK;OK;Germany;OK;Hamburg;MATCH;OK;0
+JapanKyoto, Japan;66633;-525166118;Japan;Kyoto;PROP00392;Active;12.11.2023;Salesforce;Needs review;OK;OK;Japan;OK;Kyoto;MATCH;OK;0
+ItalyNaplesBenjamin Station30;57878;-719967318;Italy;Naples;PROP00393;Inactive;18.07.2024;Salesforce;;OK;OK;ItalyNaplesBenjamin Station30;OK;Naples;MATCH;OK;0
+Warren Ridge 49, Ottawa;21308;-754159401;Canada;Ottawa;PROP00394;Inactive;27.03.2024;Salesforce;Pending validation;OK;OK;Warren Ridge 49;OK;Ottawa;MATCH;OK;0
+ChicagoWatson Haven5, USA;51280;-813612173;USA;Chicago;PROP00395;Active;19.07.2023;ServiceNow;Needs review;OK;OK;ChicagoWatson Haven5;OK;Chicago;MATCH;OK;0
+SpainValencia, Spain;78867;-873956567;Spain;Valencia;PROP00396;Active;03.07.2025;SAP;Imported from legacy system;OK;OK;Spain;OK;Valencia;MATCH;OK;0
+Japan, Sapporo;44364;-385284106;Japan;Sapporo;PROP00397;Active;06.03.2024;SAP;;OK;OK;Sapporo;OK;Sapporo;MATCH;OK;0
+Sydney, Mark Point 13, Australia;89417;-975556109;Australia;Sydney;PROP00398;Active;10.10.2024;ServiceNow;;OK;OK;Mark Point 13;OK;Sydney;MATCH;OK;0
+Spain, Barcelona;86558;-414993592;Spain;Barcelona;PROP00399;Active;18.01.2025;Planon;Imported from legacy system;OK;OK;Barcelona;OK;Barcelona;MATCH;OK;0
+Mathew Prairie281, London, UK;87481;-494448300;UK;London;PROP00400;Inactive;29.04.2023;Salesforce;Imported from legacy system;OK;OK;Mathew Prairie281;OK;London;MATCH;OK;0
+AustraliaPerth, Australia;86491;-432118219;Australia;Perth;PROP00401;Inactive;12.08.2024;MDG;;OK;OK;Australia;OK;Perth;MATCH;OK;0
+OsakaAnderson Station280, Japan;11605;-537504271;Japan;Osaka;PROP00402;Active;25.09.2023;Salesforce;;OK;OK;OsakaAnderson Station280;OK;Osaka;MATCH;OK;0
+GermanyBerlin;43555;-857181706;Germany;Berlin;PROP00403;Inactive;14.11.2025;SAP;Pending validation;OK;OK;;MISSING;Berlin;MATCH;ERROR;1
+Elizabeth Village 28, Italy, Florence;97333;-283167020;Italy;Florence;PROP00404;Inactive;08.01.2024;ServiceNow;Verified;OK;OK;Elizabeth Village 28;OK;Florence;MATCH;OK;0
+CanadaOttawa, Canada;67149;-786311478;Canada;Ottawa;PROP00405;Active;17.11.2025;SAP;;OK;OK;Canada;OK;Ottawa;MATCH;OK;0
+Smith Inlet 217, UK, Liverpool;24128;-788345310;UK;Liverpool;PROP00406;Active;17.08.2025;ServiceNow;;OK;OK;Smith Inlet 217;OK;Liverpool;MATCH;OK;0
+Adelaide, Matthew Trafficway 99, Australia;64237;-955163523;Australia;Adelaide;PROP00407;Active;13.08.2025;ServiceNow;Imported from legacy system;OK;OK;Matthew Trafficway 99;OK;Adelaide;MATCH;OK;0
+AustraliaAdelaideJeremy Dam14;20809;-842825269;Australia;Adelaide;PROP00408;Inactive;04.06.2024;MDG;Verified;OK;OK;AustraliaAdelaideJeremy Dam14;OK;Adelaide;MATCH;OK;0
+Kenneth Turnpike126, Florence, Italy;13757;-132112529;Italy;Florence;PROP00409;Active;22.02.2024;SAP;Pending validation;OK;OK;Kenneth Turnpike126;OK;Florence;MATCH;OK;0
+GermanyFrankfurtEbony Wells233;81507;-444068666;Germany;Frankfurt;PROP00410;Inactive;26.08.2023;Salesforce;Pending validation;OK;OK;GermanyFrankfurtEbony Wells233;OK;Frankfurt;MATCH;OK;0
+Brisbane, Carla Drives 6, Australia;21767;-593541522;Australia;Brisbane;PROP00411;Inactive;17.06.2025;Planon;Pending validation;OK;OK;Carla Drives 6;OK;Brisbane;MATCH;OK;0
+Marie Trail289, Manchester, UK;82386;-336117829;UK;Manchester;PROP00412;Active;16.11.2023;ServiceNow;Pending validation;OK;OK;Marie Trail289;OK;Manchester;MATCH;OK;0
+Jennifer Cape130, Naples, Italy;54353;-241858573;Italy;Naples;PROP00413;Inactive;29.10.2025;Salesforce;Check postal code;OK;OK;Jennifer Cape130;OK;Naples;MATCH;OK;0
+UKBirminghamRhodes Freeway23;58723;-617860426;UK;Birmingham;PROP00414;Active;11.05.2023;Planon;Check postal code;OK;OK;UKBirminghamRhodes Freeway23;OK;Birmingham;MATCH;OK;0
+Goodwin Tunnel 111, Perth;59342;-403224843;Australia;Perth;PROP00415;Inactive;13.03.2025;Salesforce;;OK;OK;Goodwin Tunnel 111;OK;Perth;MATCH;OK;0
+Los Angeles, Amanda Inlet 240, USA;61975;-886810812;USA;Los Angeles;PROP00416;Inactive;15.12.2022;SAP;Imported from legacy system;OK;OK;Amanda Inlet 240;OK;Los Angeles;MATCH;OK;0
+Canada, Calgary, Micheal Ports 232;58250;-594910354;Canada;Calgary;PROP00417;Active;07.09.2025;Planon;Verified;OK;OK;Micheal Ports 232;OK;Calgary;MATCH;OK;0
+FranceMarseille, France;50553;-301739728;France;Marseille;PROP00418;Inactive;20.07.2024;SAP;Needs review;OK;OK;France;OK;Marseille;MATCH;OK;0
+LondonBurch Viaduct255, UK;26675;-601870523;UK;London;PROP00419;Inactive;22.02.2023;SAP;Check postal code;OK;OK;LondonBurch Viaduct255;OK;London;MATCH;OK;0
+Monique Center 124, Turin;84541;-560896645;Italy;Turin;PROP00420;Inactive;04.06.2023;Planon;;OK;OK;Monique Center 124;OK;Turin;MATCH;OK;0
+Italy, Rome, Sawyer Plaza 184;13947;-473106749;Italy;Rome;PROP00421;Active;04.06.2025;SAP;;OK;OK;Sawyer Plaza 184;OK;Rome;MATCH;OK;0
+Japan, Kyoto;21513;-867104205;Japan;Kyoto;PROP00422;Active;18.12.2023;MDG;Imported from legacy system;OK;OK;Kyoto;OK;Kyoto;MATCH;OK;0
+UK, London, Cole Passage 242;19814;-632252703;UK;London;PROP00423;Inactive;26.06.2024;MDG;;OK;OK;Cole Passage 242;OK;London;MATCH;OK;0
+France, Paris;59631;-715287854;France;Paris;PROP00424;Inactive;21.11.2023;Salesforce;Imported from legacy system;OK;OK;Paris;OK;Paris;MATCH;OK;0
+FranceLyon;7481;-101402852;France;Lyon;PROP00425;Active;11.03.2024;Planon;;OK;OK;;MISSING;Lyon;MATCH;ERROR;1
+Shaw Freeway 88, Spain, Seville;51116;-252463883;Spain;Seville;PROP00426;Active;08.05.2023;ServiceNow;Verified;OK;OK;Shaw Freeway 88;OK;Seville;MATCH;OK;0
+Brasília, Nicholas Burgs 214, Brazil;42271;-190511945;Brazil;Brasília;PROP00427;Active;24.11.2023;SAP;;OK;OK;Nicholas Burgs 214;OK;Brasília;MATCH;OK;0
+Mary Run 169, Bordeaux;44448;-408408799;France;Bordeaux;PROP00428;Inactive;22.08.2025;Planon;Needs review;OK;OK;Mary Run 169;OK;Bordeaux;MATCH;OK;0
+FranceMarseille;62426;-233506386;France;Marseille;PROP00429;Active;30.05.2025;SAP;Pending validation;OK;OK;;MISSING;Marseille;MATCH;ERROR;1
+Berlin, Katherine Mountains 208, Germany;59300;-231360889;Germany;Berlin;PROP00430;Active;11.12.2023;Salesforce;;OK;OK;Katherine Mountains 208;OK;Berlin;MATCH;OK;0
+ItalyRome;34045;-224464239;Italy;Rome;PROP00431;Inactive;04.03.2023;Salesforce;Needs review;OK;OK;;MISSING;Rome;MATCH;ERROR;1
+Munich, Mary Plaza 227, Germany;95821;-313079508;Germany;Munich;PROP00432;Inactive;02.01.2024;MDG;;OK;OK;Mary Plaza 227;OK;Munich;MATCH;OK;0
+Rodriguez Heights 58, Berlin;31648;-885281429;Germany;Berlin;PROP00433;Inactive;05.10.2023;MDG;;OK;OK;Rodriguez Heights 58;OK;Berlin;MATCH;OK;0
+USA, Houston, Martinez Garden 131;55528;-853313546;USA;Houston;PROP00434;Inactive;18.01.2024;MDG;;OK;OK;Martinez Garden 131;OK;Houston;MATCH;OK;0
+USAPhoenix, USA;66014;-672393538;USA;Phoenix;PROP00435;Active;05.03.2024;Salesforce;Check postal code;OK;OK;USA;OK;Phoenix;MATCH;OK;0
+FranceLyon;32212;-554730884;France;Lyon;PROP00436;Inactive;17.08.2024;SAP;Imported from legacy system;OK;OK;;MISSING;Lyon;MATCH;ERROR;1
+SpainSeville, Spain;81085;-238982980;Spain;Seville;PROP00437;Inactive;24.09.2025;Planon;;OK;OK;Spain;OK;Seville;MATCH;OK;0
+FranceToulouse, France;25052;-817396168;France;Toulouse;PROP00438;Active;17.08.2024;Salesforce;Check postal code;OK;OK;France;OK;Toulouse;MATCH;OK;0
+USA, Phoenix, Alexandra Lake 91;9371;-392240328;USA;Phoenix;PROP00439;Active;07.06.2023;Planon;Verified;OK;OK;Alexandra Lake 91;OK;Phoenix;MATCH;OK;0
+UKBirmingham;6207;-154736737;UK;Birmingham;PROP00440;Active;18.01.2025;SAP;;OK;OK;;MISSING;Birmingham;MATCH;ERROR;1
+Zavala Glen 265, Brasília;98453;-223338178;Brazil;Brasília;PROP00441;Active;02.09.2025;MDG;Imported from legacy system;OK;OK;Zavala Glen 265;OK;Brasília;MATCH;OK;0
+Michael Cliff204, Melbourne, Australia;45694;-742135172;Australia;Melbourne;PROP00442;Active;19.12.2024;MDG;;OK;OK;Michael Cliff204;OK;Melbourne;MATCH;OK;0
+Australia, Brisbane;14088;-127510314;Australia;Brisbane;PROP00443;Inactive;17.11.2023;ServiceNow;;OK;OK;Brisbane;OK;Brisbane;MATCH;OK;0
+BrisbaneAnderson Knoll292, Australia;72068;-949162500;Australia;Brisbane;PROP00444;Inactive;12.02.2023;Planon;Check postal code;OK;OK;BrisbaneAnderson Knoll292;OK;Brisbane;MATCH;OK;0
+Li Extensions 200, Milan;90243;-171023341;Italy;Milan;PROP00445;Inactive;07.06.2025;Planon;;OK;OK;Li Extensions 200;OK;Milan;MATCH;OK;0
+Pollard Neck214, Phoenix, USA;83303;-718680721;USA;Phoenix;PROP00446;Inactive;14.04.2025;ServiceNow;Needs review;OK;OK;Pollard Neck214;OK;Phoenix;MATCH;OK;0
+Australia, Adelaide, Lisa Circles 122;94354;-458982011;Australia;Adelaide;PROP00447;Inactive;09.02.2025;Planon;;OK;OK;Lisa Circles 122;OK;Adelaide;MATCH;OK;0
+UKLondon, UK;6242;-410926654;UK;London;PROP00448;Active;08.01.2025;Salesforce;;OK;OK;UK;OK;London;MATCH;OK;0
+France, Toulouse;41143;-180455722;France;Toulouse;PROP00449;Inactive;25.05.2025;ServiceNow;;OK;OK;Toulouse;OK;Toulouse;MATCH;OK;0
+ItalyTurin;62550;-887717727;Italy;Turin;PROP00450;Active;13.08.2023;MDG;;OK;OK;;MISSING;Turin;MATCH;ERROR;1
+Johnson Rue 284, France, Toulouse;25549;-704063664;France;Toulouse;PROP00451;Active;07.09.2024;ServiceNow;Verified;OK;OK;Johnson Rue 284;OK;Toulouse;MATCH;OK;0
+Canada, Ottawa, Kelly Tunnel 30;6766;-423719669;Canada;Ottawa;PROP00452;Active;06.12.2022;Salesforce;;OK;OK;Kelly Tunnel 30;OK;Ottawa;MATCH;OK;0
+CalgaryNelson Union220, Canada;48738;-952764894;Canada;Calgary;PROP00453;Inactive;20.09.2025;Salesforce;;OK;OK;CalgaryNelson Union220;OK;Calgary;MATCH;OK;0
+GermanyMunichPreston Summit83;58138;-342254999;Germany;Munich;PROP00454;Active;29.02.2024;ServiceNow;Verified;OK;OK;GermanyMunichPreston Summit83;OK;Munich;MATCH;OK;0
+VancouverMorgan Ferry167, Canada;65539;-509314727;Canada;Vancouver;PROP00455;Inactive;25.11.2024;Planon;Verified;OK;OK;VancouverMorgan Ferry167;OK;Vancouver;MATCH;OK;0
+Richardson Union 93, Bordeaux;68563;-974979215;France;Bordeaux;PROP00456;Active;30.07.2024;Planon;;OK;OK;Richardson Union 93;OK;Bordeaux;MATCH;OK;0
+CanadaToronto;56141;-757614561;Canada;Toronto;PROP00457;Active;31.10.2024;ServiceNow;;OK;OK;;MISSING;Toronto;MATCH;ERROR;1
+Valencia, Ryan View 53, Spain;24153;-322663784;Spain;Valencia;PROP00458;Active;19.10.2025;SAP;Check postal code;OK;OK;Ryan View 53;OK;Valencia;MATCH;OK;0
+Nagoya, Morris Common 254, Japan;43482;-669145902;Japan;Nagoya;PROP00459;Inactive;17.01.2023;Planon;;OK;OK;Morris Common 254;OK;Nagoya;MATCH;OK;0
+Germany, Frankfurt, Parker Rapids 70;94566;-145125922;Germany;Frankfurt;PROP00460;Active;10.01.2023;Planon;;OK;OK;Parker Rapids 70;OK;Frankfurt;MATCH;OK;0
+Sapporo, Jackson Mills 199, Japan;46578;-558188627;Japan;Sapporo;PROP00461;Inactive;08.10.2024;MDG;Check postal code;OK;OK;Jackson Mills 199;OK;Sapporo;MATCH;OK;0
+Williams Ways 19, Vancouver;46711;-152137461;Canada;Vancouver;PROP00462;Inactive;11.07.2025;Salesforce;Check postal code;OK;OK;Williams Ways 19;OK;Vancouver;MATCH;OK;0
+FranceLyonHill Turnpike103;8019;-919107777;France;Lyon;PROP00463;Active;24.10.2024;SAP;Verified;OK;OK;FranceLyonHill Turnpike103;OK;Lyon;MATCH;OK;0
+Japan, Kyoto;48120;-508362204;Japan;Kyoto;PROP00464;Active;14.03.2025;MDG;;OK;OK;Kyoto;OK;Kyoto;MATCH;OK;0
+SpainMadrid, Spain;80136;-735711429;Spain;Madrid;PROP00465;Inactive;19.03.2023;MDG;;OK;OK;Spain;OK;Madrid;MATCH;OK;0
+Johnson Cliff 203, Brazil, Rio de Janeiro;31433;-242170331;Brazil;Rio de Janeiro;PROP00466;Active;27.07.2024;Salesforce;;OK;OK;Johnson Cliff 203;OK;Rio de Janeiro;MATCH;OK;0
+Germany, Berlin, Cox Port 212;4745;-893485843;Germany;Berlin;PROP00467;Inactive;31.10.2025;ServiceNow;Needs review;OK;OK;Cox Port 212;OK;Berlin;MATCH;OK;0
+FortalezaErika Land124, Brazil;49261;-419704752;Brazil;Fortaleza;PROP00468;Inactive;06.05.2023;MDG;Check postal code;OK;OK;FortalezaErika Land124;OK;Fortaleza;MATCH;OK;0
+Spain, Madrid;18548;-183526704;Spain;Madrid;PROP00469;Inactive;30.12.2022;Salesforce;;OK;OK;Madrid;OK;Madrid;MATCH;OK;0
+FranceBordeaux;37029;-321068528;France;Bordeaux;PROP00470;Inactive;14.09.2024;MDG;;OK;OK;;MISSING;Bordeaux;MATCH;ERROR;1
+FranceToulouse;96927;-136193069;France;Toulouse;PROP00471;Inactive;11.06.2023;Salesforce;;OK;OK;;MISSING;Toulouse;MATCH;ERROR;1
+FortalezaVictor Loaf78, Brazil;74120;-415340277;Brazil;Fortaleza;PROP00472;Inactive;09.10.2023;MDG;;OK;OK;FortalezaVictor Loaf78;OK;Fortaleza;MATCH;OK;0
+Japan, Kyoto, Jose Green 128;92780;-107362250;Japan;Kyoto;PROP00473;Inactive;17.08.2025;SAP;;OK;OK;Jose Green 128;OK;Kyoto;MATCH;OK;0
+Lewis Ridge143, Montreal, Canada;37932;-556631702;Canada;Montreal;PROP00474;Inactive;24.04.2023;ServiceNow;;OK;OK;Lewis Ridge143;OK;Montreal;MATCH;OK;0
+Spain, Barcelona, Gonzalez Dale 165;10207;-933953668;Spain;Barcelona;PROP00475;Active;14.12.2022;Salesforce;Pending validation;OK;OK;Gonzalez Dale 165;OK;Barcelona;MATCH;OK;0
+Thompson Station 269, Brazil, São Paulo;58842;-135111299;Brazil;São Paulo;PROP00476;Inactive;20.01.2025;Planon;Check postal code;OK;OK;Thompson Station 269;OK;São Paulo;MATCH;OK;0
+FlorenceLisa Vista146, Italy;42390;-908839771;Italy;Florence;PROP00477;Inactive;20.12.2024;Planon;;OK;OK;FlorenceLisa Vista146;OK;Florence;MATCH;OK;0
+MunichMckinney Plaza135, Germany;71564;-611628100;Germany;Munich;PROP00478;Active;27.09.2024;SAP;Check postal code;OK;OK;MunichMckinney Plaza135;OK;Munich;MATCH;OK;0
+USANew York, USA;21145;-783942080;USA;New York;PROP00479;Inactive;20.09.2023;ServiceNow;;OK;OK;USA;OK;New York;MATCH;OK;0
+LondonLaura Pass238, UK;29892;-656402670;UK;London;PROP00480;Active;20.06.2023;Planon;Needs review;OK;OK;LondonLaura Pass238;OK;London;MATCH;OK;0
+Tracie Turnpike298, Munich, Germany;18703;-421010825;Germany;Munich;PROP00481;Inactive;02.11.2025;Planon;Imported from legacy system;OK;OK;Tracie Turnpike298;OK;Munich;MATCH;OK;0
+FranceParisKristy Burg137;47804;-368100629;France;Paris;PROP00482;Inactive;27.11.2024;SAP;;OK;OK;FranceParisKristy Burg137;OK;Paris;MATCH;OK;0
+Hamburg, Mcdonald Plaza 82, Germany;17510;-542057812;Germany;Hamburg;PROP00483;Active;16.11.2023;ServiceNow;Check postal code;OK;OK;Mcdonald Plaza 82;OK;Hamburg;MATCH;OK;0
+UKBirminghamCameron Locks172;94470;-542938094;UK;Birmingham;PROP00484;Active;10.09.2023;MDG;Imported from legacy system;OK;OK;UKBirminghamCameron Locks172;OK;Birmingham;MATCH;OK;0
+LeedsFox Trafficway256, UK;54166;-793213028;UK;Leeds;PROP00485;Inactive;20.11.2023;MDG;Verified;OK;OK;LeedsFox Trafficway256;OK;Leeds;MATCH;OK;0
+BrazilRio de JaneiroDavid Island268;84693;-413768710;Brazil;Rio de Janeiro;PROP00486;Active;11.09.2024;SAP;Needs review;OK;OK;BrazilRio de JaneiroDavid Island268;OK;Rio de Janeiro;MATCH;OK;0
+CanadaOttawa;68312;-600277452;Canada;Ottawa;PROP00487;Active;11.10.2023;ServiceNow;;OK;OK;;MISSING;Ottawa;MATCH;ERROR;1
+JapanKyoto;72761;-137098468;Japan;Kyoto;PROP00488;Active;13.10.2025;MDG;Pending validation;OK;OK;;MISSING;Kyoto;MATCH;ERROR;1
+Spain, Seville, Katrina Curve 179;57205;-258676271;Spain;Seville;PROP00489;Inactive;08.09.2023;SAP;Verified;OK;OK;Katrina Curve 179;OK;Seville;MATCH;OK;0
+Marie Path 275, Florence;20557;-689826227;Italy;Florence;PROP00490;Active;30.11.2022;ServiceNow;;OK;OK;Marie Path 275;OK;Florence;MATCH;OK;0
+Martin Islands 88, USA, Chicago;93474;-641427381;USA;Chicago;PROP00491;Inactive;24.10.2025;ServiceNow;;OK;OK;Martin Islands 88;OK;Chicago;MATCH;OK;0
+Michael Path277, Munich, Germany;37731;-245424036;Germany;Munich;PROP00492;Inactive;10.06.2023;Planon;Imported from legacy system;OK;OK;Michael Path277;OK;Munich;MATCH;OK;0
+Japan, Sapporo, John Roads 93;72700;-613617745;Japan;Sapporo;PROP00493;Inactive;22.10.2024;ServiceNow;Pending validation;OK;OK;John Roads 93;OK;Sapporo;MATCH;OK;0
+GermanyHamburg;81035;-973035637;Germany;Hamburg;PROP00494;Inactive;28.04.2023;ServiceNow;Pending validation;OK;OK;;MISSING;Hamburg;MATCH;ERROR;1
+GermanyMunich;78070;-581262162;Germany;Munich;PROP00495;Active;17.07.2023;ServiceNow;;OK;OK;;MISSING;Munich;MATCH;ERROR;1
+ItalyFlorence, Italy;94955;-452777619;Italy;Florence;PROP00496;Active;03.06.2025;ServiceNow;Verified;OK;OK;Italy;OK;Florence;MATCH;OK;0
+Kirby Port 64, Canada, Toronto;5900;-713556651;Canada;Toronto;PROP00497;Inactive;10.05.2024;SAP;;OK;OK;Kirby Port 64;OK;Toronto;MATCH;OK;0
+UKBirmingham, UK;76099;-776740980;UK;Birmingham;PROP00498;Active;21.10.2023;SAP;Needs review;OK;OK;UK;OK;Birmingham;MATCH;OK;0
+Curtis Trafficway 43, Phoenix;75492;-483475757;USA;Phoenix;PROP00499;Active;01.07.2025;MDG;Verified;OK;OK;Curtis Trafficway 43;OK;Phoenix;MATCH;OK;0
+Montgomery Burgs146, Adelaide, Australia;65779;-283047424;Australia;Adelaide;PROP00500;Inactive;29.11.2024;Planon;;OK;OK;Montgomery Burgs146;OK;Adelaide;MATCH;OK;0

@@ -1,0 +1,501 @@
+﻿PropertyID;Address;Country;CityInput;City_extracted;Street_extracted;PostalCode;Phone;Status;UpdatedDate;MissingStreet;PostalCode_OK;Phone_OK;City_Match;AnyError;ErrorCount;YearMonth;SourceSystem;IsError;IsMissingStreet;ErrorType
+PROP00001;FranceToulouse;France;Toulouse;Toulouse;;32599;-315833483;Active;09.07.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-07;ServiceNow;1;1;MissingStreet
+PROP00002;Lyon, Donald Cove 35, France;France;Lyon;Lyon;Donald Cove 35;89197;-319837556;Inactive;12.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Planon;0;0;OK
+PROP00003;UKLeeds, UK;UK;Leeds;Leeds;UK;4406;-597990374;Inactive;29.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Planon;0;0;OK
+PROP00004;ToulouseJeffery Parkways231, France;France;Toulouse;Toulouse;ToulouseJeffery Parkways231;79408;-562032516;Inactive;24.04.2024;OK;OK;OK;MATCH;OK;0;2024-04;MDG;0;0;OK
+PROP00005;AdelaideAnna Stravenue73, Australia;Australia;Adelaide;Adelaide;AdelaideAnna Stravenue73;85682;-662081666;Active;16.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;Salesforce;0;0;OK
+PROP00006;USA, Phoenix;USA;Phoenix;Phoenix;Phoenix;36964;-783458221;Inactive;09.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Planon;0;0;OK
+PROP00007;Katherine Estate 93, Germany, Cologne;Germany;Cologne;Cologne;Katherine Estate 93;92007;-457327951;Active;10.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;ServiceNow;0;0;OK
+PROP00008;Peterson Drives 204, Germany, Cologne;Germany;Cologne;Cologne;Peterson Drives 204;28722;-576610372;Active;15.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;SAP;0;0;OK
+PROP00009;SpainBarcelona, Spain;Spain;Barcelona;Barcelona;Spain;13177;-805788224;Inactive;08.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;SAP;0;0;OK
+PROP00010;Abbott Rapids 298, Brazil, Brasília;Brazil;Brasília;Brasília;Abbott Rapids 298;35172;-707015849;Active;21.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;MDG;0;0;OK
+PROP00011;Australia, Perth;Australia;Perth;Perth;Perth;16862;-563762585;Active;29.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;SAP;0;0;OK
+PROP00012;CanadaOttawa;Canada;Ottawa;Ottawa;;82898;-641811906;Active;13.10.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-10;Salesforce;1;1;MissingStreet
+PROP00013;USALos AngelesRay Squares47;USA;Los Angeles;Los Angeles;USALos AngelesRay Squares47;9617;-603554865;Active;22.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;SAP;0;0;OK
+PROP00014;Donna Trail 183, UK, Leeds;UK;Leeds;Leeds;Donna Trail 183;38431;-971324611;Inactive;22.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;MDG;0;0;OK
+PROP00015;ItalyRome;Italy;Rome;Rome;;13739;-846405713;Inactive;25.02.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-02;Planon;1;1;MissingStreet
+PROP00016;BrazilSalvador, Brazil;Brazil;Salvador;Salvador;Brazil;48320;-184834961;Inactive;24.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;MDG;0;0;OK
+PROP00017;CanadaCalgary, Canada;Canada;Calgary;Calgary;Canada;88342;-803880340;Active;21.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Salesforce;0;0;OK
+PROP00018;UK, Birmingham;UK;Birmingham;Birmingham;Birmingham;85440;-132506131;Inactive;24.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;SAP;0;0;OK
+PROP00019;BrasíliaChelsea Extension100, Brazil;Brazil;Brasília;Brasília;BrasíliaChelsea Extension100;70511;-358446612;Active;18.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;Salesforce;0;0;OK
+PROP00020;Canada, Calgary, Frank Light 65;Canada;Calgary;Calgary;Frank Light 65;35883;-523118275;Active;01.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;Salesforce;0;0;OK
+PROP00021;Chicago, Gabrielle Ville 211, USA;USA;Chicago;Chicago;Gabrielle Ville 211;7832;-984554816;Active;30.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;MDG;0;0;OK
+PROP00022;GermanyMunichLydia Valley281;Germany;Munich;Munich;GermanyMunichLydia Valley281;41848;-719462860;Active;04.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;MDG;0;0;OK
+PROP00023;GermanyCologne;Germany;Cologne;Cologne;;74842;-946225845;Active;26.03.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-03;ServiceNow;1;1;MissingStreet
+PROP00024;ItalyFlorenceLewis Parks198;Italy;Florence;Florence;ItalyFlorenceLewis Parks198;52357;-262946464;Inactive;17.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;Planon;0;0;OK
+PROP00025;Thomas Dam 63, France, Marseille;France;Marseille;Marseille;Thomas Dam 63;32826;-969159991;Active;17.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;MDG;0;0;OK
+PROP00026;Burgess Meadow 171, Australia, Melbourne;Australia;Melbourne;Melbourne;Burgess Meadow 171;76985;-598066174;Inactive;25.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;ServiceNow;0;0;OK
+PROP00027;SydneyCox Dam230, Australia;Australia;Sydney;Sydney;SydneyCox Dam230;67285;-438044981;Active;04.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;SAP;0;0;OK
+PROP00028;LeedsDavis Causeway293, UK;UK;Leeds;Leeds;LeedsDavis Causeway293;14872;-806505329;Inactive;26.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;SAP;0;0;OK
+PROP00029;Courtney Turnpike165, Bordeaux, France;France;Bordeaux;Bordeaux;Courtney Turnpike165;89693;-184724229;Active;20.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;Salesforce;0;0;OK
+PROP00030;Germany, Cologne;Germany;Cologne;Cologne;Cologne;50520;-507576250;Inactive;09.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;MDG;0;0;OK
+PROP00031;Canada, Ottawa;Canada;Ottawa;Ottawa;Ottawa;2005;-132980284;Inactive;02.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;Salesforce;0;0;OK
+PROP00032;UKBirmingham, UK;UK;Birmingham;Birmingham;UK;98920;-618266349;Active;26.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;ServiceNow;0;0;OK
+PROP00033;MunichMack Junctions229, Germany;Germany;Munich;Munich;MunichMack Junctions229;15122;-763069987;Active;25.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;Salesforce;0;0;OK
+PROP00034;Graham Motorway 9, Rio de Janeiro;Brazil;Rio de Janeiro;Rio de Janeiro;Graham Motorway 9;926;-377335234;Active;05.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;SAP;0;0;OK
+PROP00035;UK, Manchester, Stanton Track 112;UK;Manchester;Manchester;Stanton Track 112;23917;-366448912;Active;12.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;SAP;0;0;OK
+PROP00036;Australia, Brisbane, Monica Hills 117;Australia;Brisbane;Brisbane;Monica Hills 117;84249;-137243082;Active;20.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;Salesforce;0;0;OK
+PROP00037;France, Paris, Eric Track 273;France;Paris;Paris;Eric Track 273;21675;-834425617;Inactive;17.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;Planon;0;0;OK
+PROP00038;SydneyCarol Overpass103, Australia;Australia;Sydney;Sydney;SydneyCarol Overpass103;3053;-303640086;Inactive;09.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;SAP;0;0;OK
+PROP00039;SapporoSarah Wells54, Japan;Japan;Sapporo;Sapporo;SapporoSarah Wells54;40807;-618313062;Inactive;17.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;ServiceNow;0;0;OK
+PROP00040;Brian Wells1, Cologne, Germany;Germany;Cologne;Cologne;Brian Wells1;74865;-717877677;Active;30.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Salesforce;0;0;OK
+PROP00041;Christopher Oval 268, Germany, Hamburg;Germany;Hamburg;Hamburg;Christopher Oval 268;9572;-674271222;Inactive;12.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;MDG;0;0;OK
+PROP00042;FranceToulouse, France;France;Toulouse;Toulouse;France;72564;-495234153;Inactive;21.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;MDG;0;0;OK
+PROP00043;Joseph Well 117, Salvador;Brazil;Salvador;Salvador;Joseph Well 117;80008;-188042057;Inactive;21.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;MDG;0;0;OK
+PROP00044;Brandt Plains 73, Japan, Osaka;Japan;Osaka;Osaka;Brandt Plains 73;99495;-127164885;Active;25.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;Planon;0;0;OK
+PROP00045;JapanOsaka;Japan;Osaka;Osaka;;88540;-410716741;Inactive;27.11.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-11;Salesforce;1;1;MissingStreet
+PROP00046;AustraliaAdelaideKim Path237;Australia;Adelaide;Adelaide;AustraliaAdelaideKim Path237;59678;-122091951;Active;04.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;SAP;0;0;OK
+PROP00047;John Circles101, Turin, Italy;Italy;Turin;Turin;John Circles101;44814;-387273800;Inactive;18.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;Salesforce;0;0;OK
+PROP00048;Brianna Forks 9, Brazil, Brasília;Brazil;Brasília;Brasília;Brianna Forks 9;77629;-899523437;Inactive;29.11.2022;OK;OK;OK;MATCH;OK;0;2022-11;Salesforce;0;0;OK
+PROP00049;Japan, Osaka, Adrian Station 145;Japan;Osaka;Osaka;Adrian Station 145;83220;-672353435;Active;08.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;MDG;0;0;OK
+PROP00050;Jeremy Bypass 39, Australia, Sydney;Australia;Sydney;Sydney;Jeremy Bypass 39;43810;-308900854;Inactive;29.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;MDG;0;0;OK
+PROP00051;GermanyCologneWillie Harbors52;Germany;Cologne;Cologne;GermanyCologneWillie Harbors52;88185;-988550157;Inactive;22.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;ServiceNow;0;0;OK
+PROP00052;ItalyRome, Italy;Italy;Rome;Rome;Italy;95312;-682304177;Active;27.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;MDG;0;0;OK
+PROP00053;Brazil, Salvador, Sanchez Mountains 24;Brazil;Salvador;Salvador;Sanchez Mountains 24;53855;-780711614;Inactive;08.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;ServiceNow;0;0;OK
+PROP00054;SpainMadrid;Spain;Madrid;Madrid;;56999;-479803936;Active;23.01.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-01;MDG;1;1;MissingStreet
+PROP00055;Henderson Mountain 121, USA, Los Angeles;USA;Los Angeles;Los Angeles;Henderson Mountain 121;96062;-334321085;Active;09.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;ServiceNow;0;0;OK
+PROP00056;Emily Rue 280, Liverpool;UK;Liverpool;Liverpool;Emily Rue 280;13400;-449353763;Inactive;09.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;ServiceNow;0;0;OK
+PROP00057;Italy, Naples, Richard Junction 168;Italy;Naples;Naples;Richard Junction 168;14823;-149280539;Active;31.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;Salesforce;0;0;OK
+PROP00058;James Plain175, Munich, Germany;Germany;Munich;Munich;James Plain175;59301;-371993952;Active;17.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Salesforce;0;0;OK
+PROP00059;LondonRobert Harbors170, UK;UK;London;London;LondonRobert Harbors170;61138;-257012310;Inactive;11.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;SAP;0;0;OK
+PROP00060;Brisbane, Nancy Club 162, Australia;Australia;Brisbane;Brisbane;Nancy Club 162;58583;-461988088;Active;14.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;Salesforce;0;0;OK
+PROP00061;Italy, Milan;Italy;Milan;Milan;Milan;2435;-645237969;Active;20.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;SAP;0;0;OK
+PROP00062;SpainSeville;Spain;Seville;Seville;;31483;-775114182;Active;24.10.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-10;Salesforce;1;1;MissingStreet
+PROP00063;BrazilRio de JaneiroRichard Orchard104;Brazil;Rio de Janeiro;Rio de Janeiro;BrazilRio de JaneiroRichard Orchard104;28517;-116958611;Inactive;16.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;Planon;0;0;OK
+PROP00064;Barrera Expressway 8, Italy, Florence;Italy;Florence;Florence;Barrera Expressway 8;50173;-823637409;Inactive;19.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;ServiceNow;0;0;OK
+PROP00065;Tricia Greens 134, UK, Liverpool;UK;Liverpool;Liverpool;Tricia Greens 134;60139;-714942250;Inactive;18.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;MDG;0;0;OK
+PROP00066;USAChicagoHenderson Street66;USA;Chicago;Chicago;USAChicagoHenderson Street66;73346;-930348997;Active;21.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Planon;0;0;OK
+PROP00067;ItalyRome;Italy;Rome;Rome;;29035;-179667333;Active;04.04.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-04;Salesforce;1;1;MissingStreet
+PROP00068;Beth Plains244, Kyoto, Japan;Japan;Kyoto;Kyoto;Beth Plains244;8490;-822620388;Active;10.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;ServiceNow;0;0;OK
+PROP00069;JapanKyoto;Japan;Kyoto;Kyoto;;62994;-284307177;Active;21.02.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-02;Salesforce;1;1;MissingStreet
+PROP00070;Brian Pass 14, Canada, Montreal;Canada;Montreal;Montreal;Brian Pass 14;11001;-470241451;Active;31.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;MDG;0;0;OK
+PROP00071;AustraliaSydney;Australia;Sydney;Sydney;;89002;-855570839;Active;03.10.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-10;ServiceNow;1;1;MissingStreet
+PROP00072;MunichRichard Port188, Germany;Germany;Munich;Munich;MunichRichard Port188;32772;-771894248;Active;23.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Salesforce;0;0;OK
+PROP00073;Cologne, Christine Manor 113, Germany;Germany;Cologne;Cologne;Christine Manor 113;86664;-738348467;Active;08.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;MDG;0;0;OK
+PROP00074;Los Angeles, Donovan Ford 265, USA;USA;Los Angeles;Los Angeles;Donovan Ford 265;88283;-284587151;Active;05.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;Salesforce;0;0;OK
+PROP00075;Allen Locks 62, Rome;Italy;Rome;Rome;Allen Locks 62;17655;-983739963;Active;29.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;Planon;0;0;OK
+PROP00076;Bryant Terrace182, Munich, Germany;Germany;Munich;Munich;Bryant Terrace182;10009;-195206438;Inactive;22.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;Salesforce;0;0;OK
+PROP00077;Canada, Calgary, Stephen Port 133;Canada;Calgary;Calgary;Stephen Port 133;13605;-149826636;Inactive;06.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;ServiceNow;0;0;OK
+PROP00078;Spain, Barcelona;Spain;Barcelona;Barcelona;Barcelona;35261;-812005506;Active;22.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Salesforce;0;0;OK
+PROP00079;Sarah Cliff288, Houston, USA;USA;Houston;Houston;Sarah Cliff288;32519;-204097411;Active;28.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;ServiceNow;0;0;OK
+PROP00080;FranceBordeaux, France;France;Bordeaux;Bordeaux;France;71701;-821851016;Active;13.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;Salesforce;0;0;OK
+PROP00081;Spain, Valencia;Spain;Valencia;Valencia;Valencia;86218;-281357442;Inactive;30.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;Planon;0;0;OK
+PROP00082;Brazil, São Paulo;Brazil;São Paulo;São Paulo;São Paulo;39741;-406195703;Active;16.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;SAP;0;0;OK
+PROP00083;Brazil, São Paulo;Brazil;São Paulo;São Paulo;São Paulo;35165;-610390424;Inactive;14.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;SAP;0;0;OK
+PROP00084;USALos AngelesPamela Summit57;USA;Los Angeles;Los Angeles;USALos AngelesPamela Summit57;73013;-349046359;Inactive;02.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;ServiceNow;0;0;OK
+PROP00085;France, Toulouse, Joseph Rapids 253;France;Toulouse;Toulouse;Joseph Rapids 253;28108;-437953305;Inactive;13.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;Salesforce;0;0;OK
+PROP00086;Harris Roads19, Tokyo, Japan;Japan;Tokyo;Tokyo;Harris Roads19;35101;-753816451;Active;11.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;ServiceNow;0;0;OK
+PROP00087;Australia, Sydney, King Vista 190;Australia;Sydney;Sydney;King Vista 190;7159;-642643518;Inactive;04.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;SAP;0;0;OK
+PROP00088;Germany, Munich;Germany;Munich;Munich;Munich;36766;-875991917;Inactive;10.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;SAP;0;0;OK
+PROP00089;Japan, Kyoto;Japan;Kyoto;Kyoto;Kyoto;17647;-729230952;Active;11.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;ServiceNow;0;0;OK
+PROP00090;CalgaryMartin Mills172, Canada;Canada;Calgary;Calgary;CalgaryMartin Mills172;72810;-949812791;Active;19.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;ServiceNow;0;0;OK
+PROP00091;Hoffman Creek 251, Rio de Janeiro;Brazil;Rio de Janeiro;Rio de Janeiro;Hoffman Creek 251;10363;-933316895;Inactive;11.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;Salesforce;0;0;OK
+PROP00092;FranceMarseille;France;Marseille;Marseille;;48894;-668783877;Active;26.04.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-04;MDG;1;1;MissingStreet
+PROP00093;Russell Canyon13, Leeds, UK;UK;Leeds;Leeds;Russell Canyon13;40905;-544053844;Active;10.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Planon;0;0;OK
+PROP00094;BrazilBrasília, Brazil;Brazil;Brasília;Brasília;Brazil;5730;-128006342;Inactive;28.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;MDG;0;0;OK
+PROP00095;CanadaMontreal;Canada;Montreal;Montreal;;87917;-444364910;Inactive;14.01.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-01;SAP;1;1;MissingStreet
+PROP00096;FranceLyonMichael Points219;France;Lyon;Lyon;FranceLyonMichael Points219;53765;-254422894;Inactive;31.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Planon;0;0;OK
+PROP00097;France, Paris;France;Paris;Paris;Paris;21800;-268374465;Inactive;06.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;Salesforce;0;0;OK
+PROP00098;Nicole Burg 111, UK, Birmingham;UK;Birmingham;Birmingham;Nicole Burg 111;24010;-401294650;Active;14.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;ServiceNow;0;0;OK
+PROP00099;Rio de JaneiroPatton Loop78, Brazil;Brazil;Rio de Janeiro;Rio de Janeiro;Rio de JaneiroPatton Loop78;88307;-104680982;Active;04.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;SAP;0;0;OK
+PROP00100;CanadaOttawa, Canada;Canada;Ottawa;Ottawa;Canada;92418;-516046516;Active;02.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Salesforce;0;0;OK
+PROP00101;Patrick Camp 280, Toronto;Canada;Toronto;Toronto;Patrick Camp 280;62195;-108692335;Inactive;25.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;MDG;0;0;OK
+PROP00102;ItalyRome, Italy;Italy;Rome;Rome;Italy;46331;-670947307;Active;28.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;Planon;0;0;OK
+PROP00103;Canada, Montreal, Hoover Well 14;Canada;Montreal;Montreal;Hoover Well 14;30332;-716543746;Active;16.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;Salesforce;0;0;OK
+PROP00104;Andrew Fields 41, Cologne;Germany;Cologne;Cologne;Andrew Fields 41;52728;-915809882;Active;16.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;MDG;0;0;OK
+PROP00105;Ramirez Cliff214, Turin, Italy;Italy;Turin;Turin;Ramirez Cliff214;37086;-128327087;Inactive;18.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;Planon;0;0;OK
+PROP00106;CanadaToronto, Canada;Canada;Toronto;Toronto;Canada;89566;-781682121;Active;14.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;ServiceNow;0;0;OK
+PROP00107;Australia, Melbourne, Crosby Crescent 19;Australia;Melbourne;Melbourne;Crosby Crescent 19;34738;-986705679;Inactive;02.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;Planon;0;0;OK
+PROP00108;AustraliaPerth;Australia;Perth;Perth;;5515;-712608541;Active;01.07.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-07;ServiceNow;1;1;MissingStreet
+PROP00109;JapanNagoya, Japan;Japan;Nagoya;Nagoya;Japan;95992;-699093764;Inactive;16.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;SAP;0;0;OK
+PROP00110;Graham Pass109, Hamburg, Germany;Germany;Hamburg;Hamburg;Graham Pass109;15658;-951115511;Inactive;18.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;Salesforce;0;0;OK
+PROP00111;UKLondon, UK;UK;London;London;UK;33887;-539878571;Active;01.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;Salesforce;0;0;OK
+PROP00112;NagoyaJeanne Alley61, Japan;Japan;Nagoya;Nagoya;NagoyaJeanne Alley61;68647;-803661870;Active;31.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;SAP;0;0;OK
+PROP00113;FranceToulouse, France;France;Toulouse;Toulouse;France;87563;-196700492;Active;11.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;MDG;0;0;OK
+PROP00114;Hanson Shore 281, Rome;Italy;Rome;Rome;Hanson Shore 281;16835;-745948199;Inactive;24.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;ServiceNow;0;0;OK
+PROP00115;JapanKyotoHunter Shores166;Japan;Kyoto;Kyoto;JapanKyotoHunter Shores166;54029;-858743785;Active;21.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;ServiceNow;0;0;OK
+PROP00116;Spain, Seville, Powell Hill 285;Spain;Seville;Seville;Powell Hill 285;73168;-635524730;Active;30.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;SAP;0;0;OK
+PROP00117;USAPhoenix, USA;USA;Phoenix;Phoenix;USA;50196;-826883556;Inactive;23.04.2024;OK;OK;OK;MATCH;OK;0;2024-04;SAP;0;0;OK
+PROP00118;FrankfurtChristina Hollow154, Germany;Germany;Frankfurt;Frankfurt;FrankfurtChristina Hollow154;53726;-456049174;Inactive;06.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;SAP;0;0;OK
+PROP00119;Los AngelesKevin Fords89, USA;USA;Los Angeles;Los Angeles;Los AngelesKevin Fords89;56847;-647847546;Inactive;28.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;Planon;0;0;OK
+PROP00120;Italy, Turin;Italy;Turin;Turin;Turin;89056;-128497427;Inactive;06.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;SAP;0;0;OK
+PROP00121;UK, Birmingham, William Underpass 179;UK;Birmingham;Birmingham;William Underpass 179;96964;-487423108;Inactive;27.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;SAP;0;0;OK
+PROP00122;AdelaideDonna Haven193, Australia;Australia;Adelaide;Adelaide;AdelaideDonna Haven193;68062;-826650690;Active;18.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;MDG;0;0;OK
+PROP00123;CanadaToronto;Canada;Toronto;Toronto;;31285;-116255499;Active;19.10.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-10;Salesforce;1;1;MissingStreet
+PROP00124;CanadaCalgaryWalker Flat187;Canada;Calgary;Calgary;CanadaCalgaryWalker Flat187;19814;-446650905;Inactive;29.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;Salesforce;0;0;OK
+PROP00125;Brandon Mountains103, Frankfurt, Germany;Germany;Frankfurt;Frankfurt;Brandon Mountains103;80621;-873739435;Inactive;28.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;ServiceNow;0;0;OK
+PROP00126;Germany, Cologne;Germany;Cologne;Cologne;Cologne;75955;-889502562;Active;09.08.2023;OK;OK;OK;MATCH;OK;0;2023-08;SAP;0;0;OK
+PROP00127;Jennifer Lights 173, Spain, Madrid;Spain;Madrid;Madrid;Jennifer Lights 173;65300;-498991683;Active;08.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;SAP;0;0;OK
+PROP00128;Madrid, Sanchez Shoal 29, Spain;Spain;Madrid;Madrid;Sanchez Shoal 29;90629;-703163689;Inactive;26.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Planon;0;0;OK
+PROP00129;Patricia Wall 102, Canada, Calgary;Canada;Calgary;Calgary;Patricia Wall 102;14471;-517588446;Inactive;20.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;MDG;0;0;OK
+PROP00130;MilanRobinson Unions166, Italy;Italy;Milan;Milan;MilanRobinson Unions166;91715;-187213313;Active;17.04.2024;OK;OK;OK;MATCH;OK;0;2024-04;Salesforce;0;0;OK
+PROP00131;Williams Gateway29, Naples, Italy;Italy;Naples;Naples;Williams Gateway29;16407;-121419385;Active;18.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;MDG;0;0;OK
+PROP00132;USAChicagoAnderson Mountain52;USA;Chicago;Chicago;USAChicagoAnderson Mountain52;88001;-132311603;Active;12.04.2024;OK;OK;OK;MATCH;OK;0;2024-04;Salesforce;0;0;OK
+PROP00133;USAHoustonDodson Mills228;USA;Houston;Houston;USAHoustonDodson Mills228;80802;-191495834;Inactive;20.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Salesforce;0;0;OK
+PROP00134;Canada, Ottawa;Canada;Ottawa;Ottawa;Ottawa;58947;-516397809;Inactive;29.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;SAP;0;0;OK
+PROP00135;Spain, Seville, Julia Mountains 298;Spain;Seville;Seville;Julia Mountains 298;59492;-942083865;Active;08.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;ServiceNow;0;0;OK
+PROP00136;SpainMadridWalton Ville241;Spain;Madrid;Madrid;SpainMadridWalton Ville241;84080;-852326518;Active;25.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;Salesforce;0;0;OK
+PROP00137;Spain, Bilbao, Cannon Pike 266;Spain;Bilbao;Bilbao;Cannon Pike 266;64018;-366323106;Active;05.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;Salesforce;0;0;OK
+PROP00138;FranceLyon, France;France;Lyon;Lyon;France;94026;-508787913;Active;31.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;Salesforce;0;0;OK
+PROP00139;Young Isle 76, Naples;Italy;Naples;Naples;Young Isle 76;42405;-834932648;Inactive;23.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;ServiceNow;0;0;OK
+PROP00140;Brazil, Salvador;Brazil;Salvador;Salvador;Salvador;50706;-482256992;Active;15.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;SAP;0;0;OK
+PROP00141;Jasmine Circles 123, Brazil, Rio de Janeiro;Brazil;Rio de Janeiro;Rio de Janeiro;Jasmine Circles 123;54878;-934525008;Inactive;21.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;MDG;0;0;OK
+PROP00142;AustraliaMelbourneRivera Mountain270;Australia;Melbourne;Melbourne;AustraliaMelbourneRivera Mountain270;54997;-645793970;Inactive;15.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;SAP;0;0;OK
+PROP00143;Jamie Manor 135, UK, Liverpool;UK;Liverpool;Liverpool;Jamie Manor 135;51550;-108169550;Active;13.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;Salesforce;0;0;OK
+PROP00144;USANew York, USA;USA;New York;New York;USA;75957;-200858132;Active;27.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;Salesforce;0;0;OK
+PROP00145;Woods Knoll 289, Manchester;UK;Manchester;Manchester;Woods Knoll 289;39640;-332793454;Active;05.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;SAP;0;0;OK
+PROP00146;Brazil, Fortaleza, Castaneda Village 261;Brazil;Fortaleza;Fortaleza;Castaneda Village 261;55422;-587754627;Inactive;12.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;MDG;0;0;OK
+PROP00147;Tracy Groves 81, Australia, Sydney;Australia;Sydney;Sydney;Tracy Groves 81;57626;-502213712;Active;02.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;Salesforce;0;0;OK
+PROP00148;JapanTokyoJohnson Junction110;Japan;Tokyo;Tokyo;JapanTokyoJohnson Junction110;88171;-581304024;Inactive;29.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;Salesforce;0;0;OK
+PROP00149;Ramsey Ville 254, Manchester;UK;Manchester;Manchester;Ramsey Ville 254;61762;-163122160;Inactive;19.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;SAP;0;0;OK
+PROP00150;FranceBordeaux, France;France;Bordeaux;Bordeaux;France;4035;-707354504;Active;24.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;SAP;0;0;OK
+PROP00151;UKLondon, UK;UK;London;London;UK;4053;-108286638;Inactive;23.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;ServiceNow;0;0;OK
+PROP00152;AustraliaAdelaide, Australia;Australia;Adelaide;Adelaide;Australia;61016;-374333629;Inactive;08.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;Salesforce;0;0;OK
+PROP00153;Brent Light290, Sapporo, Japan;Japan;Sapporo;Sapporo;Brent Light290;43407;-754763100;Active;29.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;Planon;0;0;OK
+PROP00154;Canada, Montreal;Canada;Montreal;Montreal;Montreal;50193;-440407221;Active;29.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;Planon;0;0;OK
+PROP00155;Vancouver, Walton Village 45, Canada;Canada;Vancouver;Vancouver;Walton Village 45;55756;-827536530;Inactive;13.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;Salesforce;0;0;OK
+PROP00156;Conley Mountains 230, Canada, Vancouver;Canada;Vancouver;Vancouver;Conley Mountains 230;3041;-884502030;Active;27.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;MDG;0;0;OK
+PROP00157;GermanyFrankfurtZoe Keys48;Germany;Frankfurt;Frankfurt;GermanyFrankfurtZoe Keys48;29890;-300275156;Inactive;09.08.2023;OK;OK;OK;MATCH;OK;0;2023-08;ServiceNow;0;0;OK
+PROP00158;GermanyMunichKimberly Run59;Germany;Munich;Munich;GermanyMunichKimberly Run59;5777;-757468833;Active;18.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;Planon;0;0;OK
+PROP00159;Stefanie Flats 67, Paris;France;Paris;Paris;Stefanie Flats 67;3172;-574095803;Inactive;25.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;Planon;0;0;OK
+PROP00160;USA, Phoenix;USA;Phoenix;Phoenix;Phoenix;88248;-151093703;Active;01.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;SAP;0;0;OK
+PROP00161;JapanTokyo;Japan;Tokyo;Tokyo;;61453;-298206855;Active;02.09.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-09;Planon;1;1;MissingStreet
+PROP00162;Wang Expressway 245, Manchester;UK;Manchester;Manchester;Wang Expressway 245;79916;-113005230;Inactive;24.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;SAP;0;0;OK
+PROP00163;Valencia, Kimberly Estates 253, Spain;Spain;Valencia;Valencia;Kimberly Estates 253;41269;-707427859;Inactive;22.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;Salesforce;0;0;OK
+PROP00164;Japan, Osaka;Japan;Osaka;Osaka;Osaka;75971;-967616910;Active;08.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;Planon;0;0;OK
+PROP00165;Sanders Stravenue 68, Milan;Italy;Milan;Milan;Sanders Stravenue 68;26496;-194615219;Active;09.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;Salesforce;0;0;OK
+PROP00166;CanadaVancouver;Canada;Vancouver;Vancouver;;82714;-180045659;Active;26.12.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-12;MDG;1;1;MissingStreet
+PROP00167;ItalyMilan;Italy;Milan;Milan;;40030;-885665547;Inactive;17.07.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-07;Planon;1;1;MissingStreet
+PROP00168;BerlinLaura Port45, Germany;Germany;Berlin;Berlin;BerlinLaura Port45;5884;-199128301;Inactive;14.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;Planon;0;0;OK
+PROP00169;Canada, Calgary, Patel Shore 168;Canada;Calgary;Calgary;Patel Shore 168;49072;-969287052;Active;29.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;ServiceNow;0;0;OK
+PROP00170;Australia, Adelaide, William Junctions 150;Australia;Adelaide;Adelaide;William Junctions 150;2159;-643719751;Inactive;23.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;SAP;0;0;OK
+PROP00171;Short Coves178, Birmingham, UK;UK;Birmingham;Birmingham;Short Coves178;57323;-345382502;Active;13.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;SAP;0;0;OK
+PROP00172;Canada, Montreal;Canada;Montreal;Montreal;Montreal;60759;-820520238;Inactive;15.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;Salesforce;0;0;OK
+PROP00173;UK, Liverpool;UK;Liverpool;Liverpool;Liverpool;68887;-644502401;Active;24.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;SAP;0;0;OK
+PROP00174;Australia, Perth, Gilbert Plain 107;Australia;Perth;Perth;Gilbert Plain 107;63873;-936361639;Inactive;07.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;Salesforce;0;0;OK
+PROP00175;Cologne, Graham Street 185, Germany;Germany;Cologne;Cologne;Graham Street 185;78157;-450424359;Inactive;04.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Salesforce;0;0;OK
+PROP00176;USALos Angeles;USA;Los Angeles;Los Angeles;;11860;-167302314;Active;05.08.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-08;Salesforce;1;1;MissingStreet
+PROP00177;Germany, Munich;Germany;Munich;Munich;Munich;98867;-610541865;Inactive;05.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;MDG;0;0;OK
+PROP00178;GermanyHamburg;Germany;Hamburg;Hamburg;;50175;-831939429;Inactive;20.06.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-06;Planon;1;1;MissingStreet
+PROP00179;France, Bordeaux, Johnson Vista 118;France;Bordeaux;Bordeaux;Johnson Vista 118;43101;-728970599;Active;10.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Planon;0;0;OK
+PROP00180;JapanKyoto, Japan;Japan;Kyoto;Kyoto;Japan;34363;-263433437;Inactive;15.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;Planon;0;0;OK
+PROP00181;SpainMadridRamirez Ranch192;Spain;Madrid;Madrid;SpainMadridRamirez Ranch192;92406;-241015614;Inactive;20.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Planon;0;0;OK
+PROP00182;Japan, Osaka;Japan;Osaka;Osaka;Osaka;25543;-196850321;Active;29.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;SAP;0;0;OK
+PROP00183;John Lodge 110, Vancouver;Canada;Vancouver;Vancouver;John Lodge 110;64539;-589979799;Inactive;19.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;ServiceNow;0;0;OK
+PROP00184;Hannah Rue110, Birmingham, UK;UK;Birmingham;Birmingham;Hannah Rue110;93803;-365822214;Inactive;17.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;SAP;0;0;OK
+PROP00185;SpainBarcelona, Spain;Spain;Barcelona;Barcelona;Spain;12697;-430667435;Inactive;17.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Planon;0;0;OK
+PROP00186;Canada, Montreal, Walker Square 151;Canada;Montreal;Montreal;Walker Square 151;32391;-343085753;Active;19.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;MDG;0;0;OK
+PROP00187;USA, Phoenix;USA;Phoenix;Phoenix;Phoenix;62532;-831664945;Active;20.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;SAP;0;0;OK
+PROP00188;CanadaMontrealColeman Summit191;Canada;Montreal;Montreal;CanadaMontrealColeman Summit191;72641;-952931279;Inactive;12.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;SAP;0;0;OK
+PROP00189;Bell Motorway300, Fortaleza, Brazil;Brazil;Fortaleza;Fortaleza;Bell Motorway300;36010;-768033554;Inactive;25.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;MDG;0;0;OK
+PROP00190;SpainMadrid;Spain;Madrid;Madrid;;95041;-983917711;Inactive;19.09.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-09;Planon;1;1;MissingStreet
+PROP00191;Leslie Summit 92, Germany, Frankfurt;Germany;Frankfurt;Frankfurt;Leslie Summit 92;70737;-307546739;Inactive;11.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Planon;0;0;OK
+PROP00192;James Streets 111, USA, Chicago;USA;Chicago;Chicago;James Streets 111;63965;-333534493;Active;04.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;Planon;0;0;OK
+PROP00193;Liverpool, Hardy Trace 182, UK;UK;Liverpool;Liverpool;Hardy Trace 182;69266;-508590987;Inactive;13.11.2024;OK;OK;OK;MATCH;OK;0;2024-11;Planon;0;0;OK
+PROP00194;USAChicago;USA;Chicago;Chicago;;25944;-315980488;Inactive;29.04.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-04;MDG;1;1;MissingStreet
+PROP00195;Perez Fall 169, Sapporo;Japan;Sapporo;Sapporo;Perez Fall 169;40119;-402449734;Inactive;12.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;MDG;0;0;OK
+PROP00196;GermanyHamburg, Germany;Germany;Hamburg;Hamburg;Germany;36455;-770111107;Active;29.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;MDG;0;0;OK
+PROP00197;MadridTerri Plaza90, Spain;Spain;Madrid;Madrid;MadridTerri Plaza90;38791;-742367068;Inactive;04.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;SAP;0;0;OK
+PROP00198;Dana Terrace 273, Brazil, São Paulo;Brazil;São Paulo;São Paulo;Dana Terrace 273;64841;-155696429;Active;24.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;ServiceNow;0;0;OK
+PROP00199;Germany, Frankfurt, Monique Ports 111;Germany;Frankfurt;Frankfurt;Monique Ports 111;37769;-923090992;Inactive;29.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;MDG;0;0;OK
+PROP00200;Mendoza Junctions 69, Brazil, Brasília;Brazil;Brasília;Brasília;Mendoza Junctions 69;24665;-194222246;Inactive;12.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;MDG;0;0;OK
+PROP00201;Johnny Wall 185, Bilbao;Spain;Bilbao;Bilbao;Johnny Wall 185;63117;-951657615;Active;22.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;Planon;0;0;OK
+PROP00202;Fortaleza, Lynn Locks 218, Brazil;Brazil;Fortaleza;Fortaleza;Lynn Locks 218;64955;-684573617;Active;04.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;SAP;0;0;OK
+PROP00203;Brazil, Salvador;Brazil;Salvador;Salvador;Salvador;7527;-956453444;Inactive;27.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;SAP;0;0;OK
+PROP00204;Edward Port216, Tokyo, Japan;Japan;Tokyo;Tokyo;Edward Port216;40325;-521067920;Active;03.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;SAP;0;0;OK
+PROP00205;AustraliaSydney;Australia;Sydney;Sydney;;73648;-951009962;Inactive;29.11.2022;MISSING;OK;OK;MATCH;ERROR;1;2022-11;MDG;1;1;MissingStreet
+PROP00206;Obrien Turnpike 263, Fortaleza;Brazil;Fortaleza;Fortaleza;Obrien Turnpike 263;81558;-859357207;Active;19.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;SAP;0;0;OK
+PROP00207;FlorenceKimberly Light13, Italy;Italy;Florence;Florence;FlorenceKimberly Light13;59550;-477559018;Active;17.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;ServiceNow;0;0;OK
+PROP00208;Evans Radial 7, USA, Phoenix;USA;Phoenix;Phoenix;Evans Radial 7;56708;-200467345;Active;04.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;Planon;0;0;OK
+PROP00209;Germany, Frankfurt;Germany;Frankfurt;Frankfurt;Frankfurt;80406;-912953758;Active;19.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;Planon;0;0;OK
+PROP00210;SpainValencia, Spain;Spain;Valencia;Valencia;Spain;82488;-108268166;Inactive;08.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;SAP;0;0;OK
+PROP00211;Joseph Common 145, Canada, Vancouver;Canada;Vancouver;Vancouver;Joseph Common 145;21086;-510863737;Inactive;02.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;SAP;0;0;OK
+PROP00212;MontrealGlenn Club126, Canada;Canada;Montreal;Montreal;MontrealGlenn Club126;21018;-561507520;Active;04.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;SAP;0;0;OK
+PROP00213;JapanTokyo;Japan;Tokyo;Tokyo;;78333;-527996548;Inactive;06.06.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-06;Planon;1;1;MissingStreet
+PROP00214;Australia, Perth, Carter Fort 199;Australia;Perth;Perth;Carter Fort 199;38263;-505094476;Inactive;03.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;Salesforce;0;0;OK
+PROP00215;Brisbane, Warner Motorway 276, Australia;Australia;Brisbane;Brisbane;Warner Motorway 276;9830;-264927968;Active;14.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;MDG;0;0;OK
+PROP00216;ParisSandra Turnpike160, France;France;Paris;Paris;ParisSandra Turnpike160;82428;-620930150;Inactive;27.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;Salesforce;0;0;OK
+PROP00217;Ronald Plains220, Paris, France;France;Paris;Paris;Ronald Plains220;29967;-939490100;Inactive;16.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;MDG;0;0;OK
+PROP00218;GermanyHamburg;Germany;Hamburg;Hamburg;;19144;-344009465;Inactive;04.10.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-10;MDG;1;1;MissingStreet
+PROP00219;Brian Turnpike 92, Madrid;Spain;Madrid;Madrid;Brian Turnpike 92;40820;-583535689;Inactive;16.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;SAP;0;0;OK
+PROP00220;PhoenixGonzales Mountain163, USA;USA;Phoenix;Phoenix;PhoenixGonzales Mountain163;90767;-683819189;Active;21.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;ServiceNow;0;0;OK
+PROP00221;BirminghamLyons Groves42, UK;UK;Birmingham;Birmingham;BirminghamLyons Groves42;66098;-219269980;Inactive;29.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;ServiceNow;0;0;OK
+PROP00222;FranceParis, France;France;Paris;Paris;France;5725;-164777004;Inactive;21.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Salesforce;0;0;OK
+PROP00223;ItalyTurin;Italy;Turin;Turin;;33317;-302878364;Active;29.12.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-12;Salesforce;1;1;MissingStreet
+PROP00224;BrazilSão Paulo;Brazil;São Paulo;São Paulo;;75893;-610414593;Inactive;21.06.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-06;ServiceNow;1;1;MissingStreet
+PROP00225;FranceLyon;France;Lyon;Lyon;;35826;-961237548;Active;28.02.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-02;Salesforce;1;1;MissingStreet
+PROP00226;CanadaMontrealKathryn Extensions12;Canada;Montreal;Montreal;CanadaMontrealKathryn Extensions12;62170;-839688240;Inactive;12.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;MDG;0;0;OK
+PROP00227;BrisbaneMoon Falls294, Australia;Australia;Brisbane;Brisbane;BrisbaneMoon Falls294;77221;-787476976;Inactive;28.11.2022;OK;OK;OK;MATCH;OK;0;2022-11;ServiceNow;0;0;OK
+PROP00228;UKLondon;UK;London;London;;12460;-429732679;Active;22.01.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-01;SAP;1;1;MissingStreet
+PROP00229;Bailey Isle 8, Germany, Berlin;Germany;Berlin;Berlin;Bailey Isle 8;42582;-221482458;Active;22.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;MDG;0;0;OK
+PROP00230;UKLiverpoolMia Isle235;UK;Liverpool;Liverpool;UKLiverpoolMia Isle235;54456;-246784217;Active;07.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;Planon;0;0;OK
+PROP00231;UKLondon;UK;London;London;;72603;-912697686;Inactive;03.05.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-05;Salesforce;1;1;MissingStreet
+PROP00232;AustraliaPerth;Australia;Perth;Perth;;33583;-531967181;Inactive;04.11.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-11;Planon;1;1;MissingStreet
+PROP00233;UKLeeds;UK;Leeds;Leeds;;53477;-628777964;Inactive;17.11.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-11;Salesforce;1;1;MissingStreet
+PROP00234;GermanyMunich;Germany;Munich;Munich;;61053;-319537480;Active;18.03.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-03;MDG;1;1;MissingStreet
+PROP00235;Fortaleza, Brown Path 237, Brazil;Brazil;Fortaleza;Fortaleza;Brown Path 237;47920;-897609020;Inactive;11.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Planon;0;0;OK
+PROP00236;AustraliaPerth, Australia;Australia;Perth;Perth;Australia;7265;-999684964;Inactive;24.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Planon;0;0;OK
+PROP00237;Joseph Curve 49, Hamburg;Germany;Hamburg;Hamburg;Joseph Curve 49;38253;-293593323;Active;15.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;SAP;0;0;OK
+PROP00238;Gilmore Oval 266, Paris;France;Paris;Paris;Gilmore Oval 266;16416;-120684505;Inactive;05.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;SAP;0;0;OK
+PROP00239;NaplesTeresa Rest232, Italy;Italy;Naples;Naples;NaplesTeresa Rest232;31866;-365965075;Inactive;18.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;Planon;0;0;OK
+PROP00240;JapanTokyoLance Bridge101;Japan;Tokyo;Tokyo;JapanTokyoLance Bridge101;72885;-772050521;Inactive;27.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;SAP;0;0;OK
+PROP00241;Canada, Vancouver, Davis Ville 185;Canada;Vancouver;Vancouver;Davis Ville 185;15372;-578503726;Active;17.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;ServiceNow;0;0;OK
+PROP00242;Valentine Rue159, Melbourne, Australia;Australia;Melbourne;Melbourne;Valentine Rue159;20682;-879423297;Inactive;23.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;Planon;0;0;OK
+PROP00243;France, Paris;France;Paris;Paris;Paris;67199;-624114944;Inactive;24.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;MDG;0;0;OK
+PROP00244;ParisPerry Orchard298, France;France;Paris;Paris;ParisPerry Orchard298;62395;-590697212;Inactive;25.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;Salesforce;0;0;OK
+PROP00245;Stephen Drive 57, France, Marseille;France;Marseille;Marseille;Stephen Drive 57;50778;-478015303;Active;07.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;MDG;0;0;OK
+PROP00246;AustraliaBrisbane;Australia;Brisbane;Brisbane;;98319;-876834636;Inactive;23.11.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-11;SAP;1;1;MissingStreet
+PROP00247;UK, Manchester;UK;Manchester;Manchester;Manchester;54888;-958092378;Active;03.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;Salesforce;0;0;OK
+PROP00248;Villa Parkways110, Bordeaux, France;France;Bordeaux;Bordeaux;Villa Parkways110;35519;-238442063;Inactive;20.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;Salesforce;0;0;OK
+PROP00249;AustraliaBrisbane;Australia;Brisbane;Brisbane;;77432;-367900918;Inactive;19.10.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-10;MDG;1;1;MissingStreet
+PROP00250;Grimes Mission 228, Japan, Osaka;Japan;Osaka;Osaka;Grimes Mission 228;71093;-180441778;Inactive;12.08.2023;OK;OK;OK;MATCH;OK;0;2023-08;ServiceNow;0;0;OK
+PROP00251;Reed Plaza 157, USA, Houston;USA;Houston;Houston;Reed Plaza 157;71729;-299578453;Active;26.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;ServiceNow;0;0;OK
+PROP00252;Italy, Naples, Gibson Islands 48;Italy;Naples;Naples;Gibson Islands 48;25228;-524433551;Active;11.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Planon;0;0;OK
+PROP00253;AustraliaAdelaide;Australia;Adelaide;Adelaide;;54342;-762275981;Active;01.11.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-11;Salesforce;1;1;MissingStreet
+PROP00254;Louis Mountains 287, Bilbao;Spain;Bilbao;Bilbao;Louis Mountains 287;92936;-859746655;Active;18.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;SAP;0;0;OK
+PROP00255;Hughes Shore 118, Japan, Nagoya;Japan;Nagoya;Nagoya;Hughes Shore 118;85962;-721726272;Active;25.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;MDG;0;0;OK
+PROP00256;Tyler Camp 66, Japan, Kyoto;Japan;Kyoto;Kyoto;Tyler Camp 66;17048;-303625438;Active;17.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;ServiceNow;0;0;OK
+PROP00257;Kane Well294, Seville, Spain;Spain;Seville;Seville;Kane Well294;58212;-768866464;Active;13.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;Planon;0;0;OK
+PROP00258;Canada, Montreal;Canada;Montreal;Montreal;Montreal;2512;-896798042;Inactive;17.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;MDG;0;0;OK
+PROP00259;Hamburg, Robert Shoal 173, Germany;Germany;Hamburg;Hamburg;Robert Shoal 173;20733;-926118252;Inactive;11.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;MDG;0;0;OK
+PROP00260;LyonTerrance Greens77, France;France;Lyon;Lyon;LyonTerrance Greens77;44876;-674319624;Inactive;24.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;SAP;0;0;OK
+PROP00261;ItalyMilan;Italy;Milan;Milan;;43566;-424131575;Inactive;22.05.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-05;MDG;1;1;MissingStreet
+PROP00262;Finley Road136, Salvador, Brazil;Brazil;Salvador;Salvador;Finley Road136;94704;-553723837;Active;13.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Planon;0;0;OK
+PROP00263;BrasíliaBrennan Camp37, Brazil;Brazil;Brasília;Brasília;BrasíliaBrennan Camp37;81432;-246932733;Inactive;26.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;ServiceNow;0;0;OK
+PROP00264;Frankfurt, Jimmy Spur 173, Germany;Germany;Frankfurt;Frankfurt;Jimmy Spur 173;38168;-535199116;Inactive;29.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;ServiceNow;0;0;OK
+PROP00265;CanadaMontreal;Canada;Montreal;Montreal;;13404;-374893114;Inactive;09.01.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-01;MDG;1;1;MissingStreet
+PROP00266;UKManchester;UK;Manchester;Manchester;;39752;-374505635;Active;19.06.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-06;SAP;1;1;MissingStreet
+PROP00267;UKLeedsBrandon Underpass29;UK;Leeds;Leeds;UKLeedsBrandon Underpass29;7856;-116541454;Active;23.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Salesforce;0;0;OK
+PROP00268;SapporoHoward Meadows30, Japan;Japan;Sapporo;Sapporo;SapporoHoward Meadows30;19581;-157477480;Inactive;17.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;SAP;0;0;OK
+PROP00269;Amanda Port 2, Calgary;Canada;Calgary;Calgary;Amanda Port 2;89865;-274569549;Inactive;08.11.2024;OK;OK;OK;MATCH;OK;0;2024-11;Planon;0;0;OK
+PROP00270;George Common 184, Naples;Italy;Naples;Naples;George Common 184;80388;-187421817;Inactive;15.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;MDG;0;0;OK
+PROP00271;JapanNagoya;Japan;Nagoya;Nagoya;;65731;-885959971;Inactive;22.02.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-02;SAP;1;1;MissingStreet
+PROP00272;Jesse Route 278, USA, Phoenix;USA;Phoenix;Phoenix;Jesse Route 278;33790;-457366444;Active;24.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;MDG;0;0;OK
+PROP00273;CanadaVancouver;Canada;Vancouver;Vancouver;;61482;-904892487;Inactive;12.06.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-06;MDG;1;1;MissingStreet
+PROP00274;USAHouston;USA;Houston;Houston;;10182;-232848442;Active;19.04.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-04;Salesforce;1;1;MissingStreet
+PROP00275;Germany, Cologne;Germany;Cologne;Cologne;Cologne;39711;-993398065;Inactive;13.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Planon;0;0;OK
+PROP00276;GermanyFrankfurt, Germany;Germany;Frankfurt;Frankfurt;Germany;40100;-720786269;Inactive;15.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;Salesforce;0;0;OK
+PROP00277;Calgary, Yvonne Walk 269, Canada;Canada;Calgary;Calgary;Yvonne Walk 269;63836;-172788447;Active;10.11.2024;OK;OK;OK;MATCH;OK;0;2024-11;MDG;0;0;OK
+PROP00278;AustraliaAdelaide, Australia;Australia;Adelaide;Adelaide;Australia;47550;-569562481;Active;09.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;SAP;0;0;OK
+PROP00279;Brazil, Rio de Janeiro;Brazil;Rio de Janeiro;Rio de Janeiro;Rio de Janeiro;3376;-736920327;Inactive;30.04.2024;OK;OK;OK;MATCH;OK;0;2024-04;ServiceNow;0;0;OK
+PROP00280;JapanNagoyaHill Port8;Japan;Nagoya;Nagoya;JapanNagoyaHill Port8;90390;-401230897;Active;09.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;Planon;0;0;OK
+PROP00281;Japan, Tokyo, Renee Summit 183;Japan;Tokyo;Tokyo;Renee Summit 183;65608;-737055372;Inactive;12.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;ServiceNow;0;0;OK
+PROP00282;BrisbaneParsons Forks64, Australia;Australia;Brisbane;Brisbane;BrisbaneParsons Forks64;80070;-678085396;Inactive;22.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;Planon;0;0;OK
+PROP00283;MadridRobinson Field59, Spain;Spain;Madrid;Madrid;MadridRobinson Field59;81882;-854940619;Active;02.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;MDG;0;0;OK
+PROP00284;UKBirmingham, UK;UK;Birmingham;Birmingham;UK;86901;-501717164;Active;13.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;ServiceNow;0;0;OK
+PROP00285;AustraliaAdelaide;Australia;Adelaide;Adelaide;;85218;-253344592;Inactive;13.12.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-12;Planon;1;1;MissingStreet
+PROP00286;Kyle Mill181, Montreal, Canada;Canada;Montreal;Montreal;Kyle Mill181;4874;-169655354;Active;11.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Salesforce;0;0;OK
+PROP00287;Rio de Janeiro, Oconnor Course 202, Brazil;Brazil;Rio de Janeiro;Rio de Janeiro;Oconnor Course 202;39181;-154796497;Active;27.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;SAP;0;0;OK
+PROP00288;São Paulo, Burgess Extensions 183, Brazil;Brazil;São Paulo;São Paulo;Burgess Extensions 183;26819;-854885775;Inactive;03.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;ServiceNow;0;0;OK
+PROP00289;Brisbane, Kristin Wells 71, Australia;Australia;Brisbane;Brisbane;Kristin Wells 71;48454;-204608852;Inactive;08.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;Planon;0;0;OK
+PROP00290;GermanyHamburg, Germany;Germany;Hamburg;Hamburg;Germany;63657;-520795712;Active;16.08.2023;OK;OK;OK;MATCH;OK;0;2023-08;SAP;0;0;OK
+PROP00291;CanadaMontreal;Canada;Montreal;Montreal;;15596;-509285233;Inactive;26.01.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-01;Planon;1;1;MissingStreet
+PROP00292;USA, New York, Mccarty Divide 15;USA;New York;New York;Mccarty Divide 15;99349;-220182776;Active;20.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Planon;0;0;OK
+PROP00293;AustraliaMelbourne;Australia;Melbourne;Melbourne;;88896;-517989883;Active;26.08.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-08;Planon;1;1;MissingStreet
+PROP00294;Coffey Unions 116, Germany, Cologne;Germany;Cologne;Cologne;Coffey Unions 116;73549;-979950104;Active;02.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;MDG;0;0;OK
+PROP00295;Davis Locks 25, Italy, Naples;Italy;Naples;Naples;Davis Locks 25;2325;-483600681;Active;31.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;Salesforce;0;0;OK
+PROP00296;Italy, Naples, Herrera Motorway 169;Italy;Naples;Naples;Herrera Motorway 169;48812;-174512116;Active;11.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;ServiceNow;0;0;OK
+PROP00297;Leeds, Richards View 78, UK;UK;Leeds;Leeds;Richards View 78;84196;-863508794;Active;23.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;Salesforce;0;0;OK
+PROP00298;GermanyBerlin;Germany;Berlin;Berlin;;62298;-385042257;Inactive;27.07.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-07;SAP;1;1;MissingStreet
+PROP00299;Leeds, Christine Points 207, UK;UK;Leeds;Leeds;Christine Points 207;43493;-126384344;Inactive;27.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;SAP;0;0;OK
+PROP00300;Deborah Roads 279, Italy, Florence;Italy;Florence;Florence;Deborah Roads 279;61353;-751929334;Inactive;09.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;SAP;0;0;OK
+PROP00301;Banks Crescent 116, France, Paris;France;Paris;Paris;Banks Crescent 116;18821;-135214000;Active;26.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;SAP;0;0;OK
+PROP00302;Canada, Montreal, Sophia Hollow 204;Canada;Montreal;Montreal;Sophia Hollow 204;65070;-140880331;Active;16.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;Planon;0;0;OK
+PROP00303;GermanyBerlinColton Plain44;Germany;Berlin;Berlin;GermanyBerlinColton Plain44;18282;-392879933;Active;15.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;Planon;0;0;OK
+PROP00304;Chavez Skyway 138, Brazil, Salvador;Brazil;Salvador;Salvador;Chavez Skyway 138;97905;-778539717;Active;16.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;Planon;0;0;OK
+PROP00305;Brazil, Fortaleza;Brazil;Fortaleza;Fortaleza;Fortaleza;20754;-285554369;Inactive;15.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;SAP;0;0;OK
+PROP00306;Paris, Pena Village 84, France;France;Paris;Paris;Pena Village 84;64640;-150879108;Inactive;09.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;ServiceNow;0;0;OK
+PROP00307;NaplesCrosby Harbors180, Italy;Italy;Naples;Naples;NaplesCrosby Harbors180;4789;-476359178;Active;12.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Salesforce;0;0;OK
+PROP00308;Japan, Sapporo;Japan;Sapporo;Sapporo;Sapporo;31448;-495224929;Inactive;26.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;MDG;0;0;OK
+PROP00309;Garcia Spur146, Kyoto, Japan;Japan;Kyoto;Kyoto;Garcia Spur146;48648;-902246931;Active;07.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;SAP;0;0;OK
+PROP00310;MontrealBrown Harbor209, Canada;Canada;Montreal;Montreal;MontrealBrown Harbor209;25379;-846025780;Active;24.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;SAP;0;0;OK
+PROP00311;UKLondonStacy View2;UK;London;London;UKLondonStacy View2;60101;-488462901;Inactive;04.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Planon;0;0;OK
+PROP00312;Salvador, Elizabeth Row 194, Brazil;Brazil;Salvador;Salvador;Elizabeth Row 194;84320;-237321971;Active;05.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;ServiceNow;0;0;OK
+PROP00313;FranceParis;France;Paris;Paris;;32426;-586674360;Inactive;25.10.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-10;MDG;1;1;MissingStreet
+PROP00314;Australia, Brisbane;Australia;Brisbane;Brisbane;Brisbane;9493;-729075703;Active;14.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;Planon;0;0;OK
+PROP00315;JapanSapporo, Japan;Japan;Sapporo;Sapporo;Japan;31040;-687532476;Inactive;28.08.2023;OK;OK;OK;MATCH;OK;0;2023-08;SAP;0;0;OK
+PROP00316;USA, Los Angeles;USA;Los Angeles;Los Angeles;Los Angeles;78617;-555391551;Active;01.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;Salesforce;0;0;OK
+PROP00317;UK, Leeds;UK;Leeds;Leeds;Leeds;17539;-492066787;Inactive;16.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;ServiceNow;0;0;OK
+PROP00318;FranceToulouseLindsey Creek215;France;Toulouse;Toulouse;FranceToulouseLindsey Creek215;87147;-754162156;Active;05.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;Planon;0;0;OK
+PROP00319;CanadaCalgary;Canada;Calgary;Calgary;;31687;-950873327;Inactive;09.03.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-03;Salesforce;1;1;MissingStreet
+PROP00320;Smith Greens 255, USA, New York;USA;New York;New York;Smith Greens 255;7369;-649924532;Inactive;12.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;SAP;0;0;OK
+PROP00321;AustraliaPerth, Australia;Australia;Perth;Perth;Australia;15397;-839214583;Inactive;18.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;ServiceNow;0;0;OK
+PROP00322;Thomas Tunnel 275, Bilbao;Spain;Bilbao;Bilbao;Thomas Tunnel 275;47954;-324829452;Inactive;14.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;MDG;0;0;OK
+PROP00323;Shannon Forges 5, Paris;France;Paris;Paris;Shannon Forges 5;81124;-842498967;Active;15.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;MDG;0;0;OK
+PROP00324;HamburgJessica Way23, Germany;Germany;Hamburg;Hamburg;HamburgJessica Way23;86864;-692810065;Inactive;22.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Planon;0;0;OK
+PROP00325;CanadaCalgaryEllis Burgs119;Canada;Calgary;Calgary;CanadaCalgaryEllis Burgs119;8473;-642163600;Active;20.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;MDG;0;0;OK
+PROP00326;AustraliaAdelaide, Australia;Australia;Adelaide;Adelaide;Australia;90429;-672859473;Active;27.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;SAP;0;0;OK
+PROP00327;Brisbane, Tracy Mills 245, Australia;Australia;Brisbane;Brisbane;Tracy Mills 245;10133;-588321531;Inactive;26.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;MDG;0;0;OK
+PROP00328;UK, London, Marc Drive 256;UK;London;London;Marc Drive 256;9110;-874645052;Inactive;02.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;ServiceNow;0;0;OK
+PROP00329;Canada, Calgary;Canada;Calgary;Calgary;Calgary;77225;-954424217;Inactive;21.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;MDG;0;0;OK
+PROP00330;AustraliaMelbourneJames Ranch170;Australia;Melbourne;Melbourne;AustraliaMelbourneJames Ranch170;70042;-425560814;Active;25.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Salesforce;0;0;OK
+PROP00331;USAHouston;USA;Houston;Houston;;56888;-506116374;Active;04.12.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-12;Planon;1;1;MissingStreet
+PROP00332;Australia, Brisbane;Australia;Brisbane;Brisbane;Brisbane;86315;-680505041;Inactive;29.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;SAP;0;0;OK
+PROP00333;France, Paris, Russell Forks 185;France;Paris;Paris;Russell Forks 185;54740;-561996782;Inactive;20.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;ServiceNow;0;0;OK
+PROP00334;Los Angeles, Wilcox Locks 70, USA;USA;Los Angeles;Los Angeles;Wilcox Locks 70;55025;-715556996;Inactive;26.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;SAP;0;0;OK
+PROP00335;Germany, Frankfurt, Larry Island 100;Germany;Frankfurt;Frankfurt;Larry Island 100;87678;-499388987;Inactive;30.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;ServiceNow;0;0;OK
+PROP00336;Brooks Drives 68, Japan, Osaka;Japan;Osaka;Osaka;Brooks Drives 68;90524;-687023046;Active;03.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;ServiceNow;0;0;OK
+PROP00337;UK, Leeds;UK;Leeds;Leeds;Leeds;11689;-294930235;Active;25.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Salesforce;0;0;OK
+PROP00338;BordeauxRyan Summit13, France;France;Bordeaux;Bordeaux;BordeauxRyan Summit13;97336;-946409747;Inactive;28.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;MDG;0;0;OK
+PROP00339;Cain Point 186, USA, Phoenix;USA;Phoenix;Phoenix;Cain Point 186;8362;-940621989;Active;10.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;SAP;0;0;OK
+PROP00340;FranceBordeauxSantiago Loop66;France;Bordeaux;Bordeaux;FranceBordeauxSantiago Loop66;46847;-791814851;Inactive;12.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;MDG;0;0;OK
+PROP00341;GermanyMunichParrish Stravenue265;Germany;Munich;Munich;GermanyMunichParrish Stravenue265;7244;-188431335;Active;09.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;ServiceNow;0;0;OK
+PROP00342;ItalyMilan;Italy;Milan;Milan;;14080;-413223648;Inactive;01.04.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-04;MDG;1;1;MissingStreet
+PROP00343;ToulouseEric Orchard239, France;France;Toulouse;Toulouse;ToulouseEric Orchard239;29893;-841983523;Inactive;22.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;Planon;0;0;OK
+PROP00344;Michael Point 90, Japan, Tokyo;Japan;Tokyo;Tokyo;Michael Point 90;48677;-533009124;Inactive;22.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;Salesforce;0;0;OK
+PROP00345;GermanyBerlinKathryn Ports35;Germany;Berlin;Berlin;GermanyBerlinKathryn Ports35;30144;-331541800;Active;30.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;ServiceNow;0;0;OK
+PROP00346;Bruce Trafficway 94, Manchester;UK;Manchester;Manchester;Bruce Trafficway 94;81991;-586911071;Inactive;17.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;SAP;0;0;OK
+PROP00347;BrazilSalvadorChelsea Shoals133;Brazil;Salvador;Salvador;BrazilSalvadorChelsea Shoals133;91395;-358153259;Inactive;10.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;MDG;0;0;OK
+PROP00348;GermanyBerlin, Germany;Germany;Berlin;Berlin;Germany;92605;-673844146;Inactive;22.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;MDG;0;0;OK
+PROP00349;GermanyFrankfurt;Germany;Frankfurt;Frankfurt;;1301;-539474204;Inactive;15.10.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-10;MDG;1;1;MissingStreet
+PROP00350;UKManchester;UK;Manchester;Manchester;;86660;-167381278;Inactive;08.10.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-10;Salesforce;1;1;MissingStreet
+PROP00351;Los Angeles, Jones Streets 121, USA;USA;Los Angeles;Los Angeles;Jones Streets 121;83492;-517550279;Active;19.04.2024;OK;OK;OK;MATCH;OK;0;2024-04;SAP;0;0;OK
+PROP00352;BrazilRio de Janeiro;Brazil;Rio de Janeiro;Rio de Janeiro;;28698;-374861870;Inactive;08.08.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-08;ServiceNow;1;1;MissingStreet
+PROP00353;UK, London;UK;London;London;London;21132;-802440184;Inactive;24.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;SAP;0;0;OK
+PROP00354;Germany, Hamburg;Germany;Hamburg;Hamburg;Hamburg;74896;-360341804;Active;06.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;Planon;0;0;OK
+PROP00355;FranceToulouse;France;Toulouse;Toulouse;;21133;-839475854;Active;07.07.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-07;ServiceNow;1;1;MissingStreet
+PROP00356;USAHouston, USA;USA;Houston;Houston;USA;58580;-504486089;Inactive;08.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;SAP;0;0;OK
+PROP00357;Australia, Perth;Australia;Perth;Perth;Perth;54788;-723306151;Inactive;28.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;Salesforce;0;0;OK
+PROP00358;Lewis Passage 280, Houston;USA;Houston;Houston;Lewis Passage 280;15419;-432358340;Inactive;21.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Planon;0;0;OK
+PROP00359;FranceLyonJordan Haven126;France;Lyon;Lyon;FranceLyonJordan Haven126;89396;-456026766;Active;22.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;MDG;0;0;OK
+PROP00360;Rose Inlet 229, Brazil, São Paulo;Brazil;São Paulo;São Paulo;Rose Inlet 229;6453;-226515531;Inactive;29.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;SAP;0;0;OK
+PROP00361;Japan, Osaka;Japan;Osaka;Osaka;Osaka;7681;-811455693;Inactive;15.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;Planon;0;0;OK
+PROP00362;Germany, Munich;Germany;Munich;Munich;Munich;18488;-705432578;Active;30.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;Planon;0;0;OK
+PROP00363;BrasíliaRoberts Crest18, Brazil;Brazil;Brasília;Brasília;BrasíliaRoberts Crest18;1514;-888099737;Active;24.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;ServiceNow;0;0;OK
+PROP00364;Brazil, Brasília, Burgess Extensions 27;Brazil;Brasília;Brasília;Burgess Extensions 27;17433;-324126989;Inactive;06.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;SAP;0;0;OK
+PROP00365;Italy, Milan;Italy;Milan;Milan;Milan;66071;-838162538;Active;03.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;Planon;0;0;OK
+PROP00366;Jones Wall 178, Italy, Turin;Italy;Turin;Turin;Jones Wall 178;97761;-650896084;Active;22.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;SAP;0;0;OK
+PROP00367;Japan, Osaka;Japan;Osaka;Osaka;Osaka;10706;-571129049;Active;07.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;Salesforce;0;0;OK
+PROP00368;Germany, Hamburg, Johnston Ports 70;Germany;Hamburg;Hamburg;Johnston Ports 70;53509;-230199613;Inactive;10.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;MDG;0;0;OK
+PROP00369;Roberts Lodge 244, São Paulo;Brazil;São Paulo;São Paulo;Roberts Lodge 244;3234;-488928578;Active;10.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;ServiceNow;0;0;OK
+PROP00370;HamburgJackson River146, Germany;Germany;Hamburg;Hamburg;HamburgJackson River146;60806;-711975474;Inactive;12.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;MDG;0;0;OK
+PROP00371;BilbaoDavis Vista1, Spain;Spain;Bilbao;Bilbao;BilbaoDavis Vista1;14376;-568356816;Inactive;09.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;Salesforce;0;0;OK
+PROP00372;BirminghamRyan Locks70, UK;UK;Birmingham;Birmingham;BirminghamRyan Locks70;69177;-549418963;Inactive;31.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;MDG;0;0;OK
+PROP00373;Randy Inlet110, Bilbao, Spain;Spain;Bilbao;Bilbao;Randy Inlet110;98255;-865729057;Active;07.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;Salesforce;0;0;OK
+PROP00374;Walker Tunnel 293, Seville;Spain;Seville;Seville;Walker Tunnel 293;22538;-322502833;Inactive;19.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;SAP;0;0;OK
+PROP00375;USA, Los Angeles;USA;Los Angeles;Los Angeles;Los Angeles;70048;-343670227;Active;17.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;Salesforce;0;0;OK
+PROP00376;France, Marseille, Rebecca Keys 118;France;Marseille;Marseille;Rebecca Keys 118;46520;-411040696;Inactive;22.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;Planon;0;0;OK
+PROP00377;USALos Angeles;USA;Los Angeles;Los Angeles;;34051;-229400614;Active;06.07.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-07;MDG;1;1;MissingStreet
+PROP00378;Glenn Drives245, Tokyo, Japan;Japan;Tokyo;Tokyo;Glenn Drives245;86419;-964482234;Inactive;16.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;ServiceNow;0;0;OK
+PROP00379;Japan, Osaka, Gregory Trail 300;Japan;Osaka;Osaka;Gregory Trail 300;82807;-431993285;Inactive;24.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;MDG;0;0;OK
+PROP00380;Germany, Berlin;Germany;Berlin;Berlin;Berlin;76453;-871988825;Active;22.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;Planon;0;0;OK
+PROP00381;AustraliaPerthMaldonado Port82;Australia;Perth;Perth;AustraliaPerthMaldonado Port82;84779;-971471758;Active;11.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;Salesforce;0;0;OK
+PROP00382;Lin Road43, Frankfurt, Germany;Germany;Frankfurt;Frankfurt;Lin Road43;41937;-336591318;Active;08.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;ServiceNow;0;0;OK
+PROP00383;Scott Mountains 218, Perth;Australia;Perth;Perth;Scott Mountains 218;58462;-143137856;Active;31.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;Planon;0;0;OK
+PROP00384;Los AngelesHogan Ramp170, USA;USA;Los Angeles;Los Angeles;Los AngelesHogan Ramp170;7863;-833911766;Inactive;04.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;SAP;0;0;OK
+PROP00385;France, Toulouse;France;Toulouse;Toulouse;Toulouse;61022;-608530091;Inactive;09.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Salesforce;0;0;OK
+PROP00386;Johnson Land1, Marseille, France;France;Marseille;Marseille;Johnson Land1;38128;-983547160;Active;06.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;Planon;0;0;OK
+PROP00387;Japan, Tokyo;Japan;Tokyo;Tokyo;Tokyo;12336;-297647489;Inactive;28.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;Planon;0;0;OK
+PROP00388;Ford Plaza 288, Seville;Spain;Seville;Seville;Ford Plaza 288;97352;-277401380;Active;27.08.2023;OK;OK;OK;MATCH;OK;0;2023-08;MDG;0;0;OK
+PROP00389;Shannon Valleys220, Berlin, Germany;Germany;Berlin;Berlin;Shannon Valleys220;75429;-703225029;Inactive;01.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;MDG;0;0;OK
+PROP00390;MelbourneMarc Mountains153, Australia;Australia;Melbourne;Melbourne;MelbourneMarc Mountains153;66216;-174104692;Inactive;11.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;SAP;0;0;OK
+PROP00391;GermanyHamburg, Germany;Germany;Hamburg;Hamburg;Germany;14067;-537543082;Active;25.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;Salesforce;0;0;OK
+PROP00392;JapanKyoto, Japan;Japan;Kyoto;Kyoto;Japan;66633;-525166118;Active;12.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Salesforce;0;0;OK
+PROP00393;ItalyNaplesBenjamin Station30;Italy;Naples;Naples;ItalyNaplesBenjamin Station30;57878;-719967318;Inactive;18.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Salesforce;0;0;OK
+PROP00394;Warren Ridge 49, Ottawa;Canada;Ottawa;Ottawa;Warren Ridge 49;21308;-754159401;Inactive;27.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;Salesforce;0;0;OK
+PROP00395;ChicagoWatson Haven5, USA;USA;Chicago;Chicago;ChicagoWatson Haven5;51280;-813612173;Active;19.07.2023;OK;OK;OK;MATCH;OK;0;2023-07;ServiceNow;0;0;OK
+PROP00396;SpainValencia, Spain;Spain;Valencia;Valencia;Spain;78867;-873956567;Active;03.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;SAP;0;0;OK
+PROP00397;Japan, Sapporo;Japan;Sapporo;Sapporo;Sapporo;44364;-385284106;Active;06.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;SAP;0;0;OK
+PROP00398;Sydney, Mark Point 13, Australia;Australia;Sydney;Sydney;Mark Point 13;89417;-975556109;Active;10.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;ServiceNow;0;0;OK
+PROP00399;Spain, Barcelona;Spain;Barcelona;Barcelona;Barcelona;86558;-414993592;Active;18.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;Planon;0;0;OK
+PROP00400;Mathew Prairie281, London, UK;UK;London;London;Mathew Prairie281;87481;-494448300;Inactive;29.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;Salesforce;0;0;OK
+PROP00401;AustraliaPerth, Australia;Australia;Perth;Perth;Australia;86491;-432118219;Inactive;12.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;MDG;0;0;OK
+PROP00402;OsakaAnderson Station280, Japan;Japan;Osaka;Osaka;OsakaAnderson Station280;11605;-537504271;Active;25.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;Salesforce;0;0;OK
+PROP00403;GermanyBerlin;Germany;Berlin;Berlin;;43555;-857181706;Inactive;14.11.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-11;SAP;1;1;MissingStreet
+PROP00404;Elizabeth Village 28, Italy, Florence;Italy;Florence;Florence;Elizabeth Village 28;97333;-283167020;Inactive;08.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;ServiceNow;0;0;OK
+PROP00405;CanadaOttawa, Canada;Canada;Ottawa;Ottawa;Canada;67149;-786311478;Active;17.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;SAP;0;0;OK
+PROP00406;Smith Inlet 217, UK, Liverpool;UK;Liverpool;Liverpool;Smith Inlet 217;24128;-788345310;Active;17.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;ServiceNow;0;0;OK
+PROP00407;Adelaide, Matthew Trafficway 99, Australia;Australia;Adelaide;Adelaide;Matthew Trafficway 99;64237;-955163523;Active;13.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;ServiceNow;0;0;OK
+PROP00408;AustraliaAdelaideJeremy Dam14;Australia;Adelaide;Adelaide;AustraliaAdelaideJeremy Dam14;20809;-842825269;Inactive;04.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;MDG;0;0;OK
+PROP00409;Kenneth Turnpike126, Florence, Italy;Italy;Florence;Florence;Kenneth Turnpike126;13757;-132112529;Active;22.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;SAP;0;0;OK
+PROP00410;GermanyFrankfurtEbony Wells233;Germany;Frankfurt;Frankfurt;GermanyFrankfurtEbony Wells233;81507;-444068666;Inactive;26.08.2023;OK;OK;OK;MATCH;OK;0;2023-08;Salesforce;0;0;OK
+PROP00411;Brisbane, Carla Drives 6, Australia;Australia;Brisbane;Brisbane;Carla Drives 6;21767;-593541522;Inactive;17.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;Planon;0;0;OK
+PROP00412;Marie Trail289, Manchester, UK;UK;Manchester;Manchester;Marie Trail289;82386;-336117829;Active;16.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;ServiceNow;0;0;OK
+PROP00413;Jennifer Cape130, Naples, Italy;Italy;Naples;Naples;Jennifer Cape130;54353;-241858573;Inactive;29.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;Salesforce;0;0;OK
+PROP00414;UKBirminghamRhodes Freeway23;UK;Birmingham;Birmingham;UKBirminghamRhodes Freeway23;58723;-617860426;Active;11.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;Planon;0;0;OK
+PROP00415;Goodwin Tunnel 111, Perth;Australia;Perth;Perth;Goodwin Tunnel 111;59342;-403224843;Inactive;13.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;Salesforce;0;0;OK
+PROP00416;Los Angeles, Amanda Inlet 240, USA;USA;Los Angeles;Los Angeles;Amanda Inlet 240;61975;-886810812;Inactive;15.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;SAP;0;0;OK
+PROP00417;Canada, Calgary, Micheal Ports 232;Canada;Calgary;Calgary;Micheal Ports 232;58250;-594910354;Active;07.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Planon;0;0;OK
+PROP00418;FranceMarseille, France;France;Marseille;Marseille;France;50553;-301739728;Inactive;20.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;SAP;0;0;OK
+PROP00419;LondonBurch Viaduct255, UK;UK;London;London;LondonBurch Viaduct255;26675;-601870523;Inactive;22.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;SAP;0;0;OK
+PROP00420;Monique Center 124, Turin;Italy;Turin;Turin;Monique Center 124;84541;-560896645;Inactive;04.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Planon;0;0;OK
+PROP00421;Italy, Rome, Sawyer Plaza 184;Italy;Rome;Rome;Sawyer Plaza 184;13947;-473106749;Active;04.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;SAP;0;0;OK
+PROP00422;Japan, Kyoto;Japan;Kyoto;Kyoto;Kyoto;21513;-867104205;Active;18.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;MDG;0;0;OK
+PROP00423;UK, London, Cole Passage 242;UK;London;London;Cole Passage 242;19814;-632252703;Inactive;26.06.2024;OK;OK;OK;MATCH;OK;0;2024-06;MDG;0;0;OK
+PROP00424;France, Paris;France;Paris;Paris;Paris;59631;-715287854;Inactive;21.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;Salesforce;0;0;OK
+PROP00425;FranceLyon;France;Lyon;Lyon;;7481;-101402852;Active;11.03.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-03;Planon;1;1;MissingStreet
+PROP00426;Shaw Freeway 88, Spain, Seville;Spain;Seville;Seville;Shaw Freeway 88;51116;-252463883;Active;08.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;ServiceNow;0;0;OK
+PROP00427;Brasília, Nicholas Burgs 214, Brazil;Brazil;Brasília;Brasília;Nicholas Burgs 214;42271;-190511945;Active;24.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;SAP;0;0;OK
+PROP00428;Mary Run 169, Bordeaux;France;Bordeaux;Bordeaux;Mary Run 169;44448;-408408799;Inactive;22.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;Planon;0;0;OK
+PROP00429;FranceMarseille;France;Marseille;Marseille;;62426;-233506386;Active;30.05.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-05;SAP;1;1;MissingStreet
+PROP00430;Berlin, Katherine Mountains 208, Germany;Germany;Berlin;Berlin;Katherine Mountains 208;59300;-231360889;Active;11.12.2023;OK;OK;OK;MATCH;OK;0;2023-12;Salesforce;0;0;OK
+PROP00431;ItalyRome;Italy;Rome;Rome;;34045;-224464239;Inactive;04.03.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-03;Salesforce;1;1;MissingStreet
+PROP00432;Munich, Mary Plaza 227, Germany;Germany;Munich;Munich;Mary Plaza 227;95821;-313079508;Inactive;02.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;MDG;0;0;OK
+PROP00433;Rodriguez Heights 58, Berlin;Germany;Berlin;Berlin;Rodriguez Heights 58;31648;-885281429;Inactive;05.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;MDG;0;0;OK
+PROP00434;USA, Houston, Martinez Garden 131;USA;Houston;Houston;Martinez Garden 131;55528;-853313546;Inactive;18.01.2024;OK;OK;OK;MATCH;OK;0;2024-01;MDG;0;0;OK
+PROP00435;USAPhoenix, USA;USA;Phoenix;Phoenix;USA;66014;-672393538;Active;05.03.2024;OK;OK;OK;MATCH;OK;0;2024-03;Salesforce;0;0;OK
+PROP00436;FranceLyon;France;Lyon;Lyon;;32212;-554730884;Inactive;17.08.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-08;SAP;1;1;MissingStreet
+PROP00437;SpainSeville, Spain;Spain;Seville;Seville;Spain;81085;-238982980;Inactive;24.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Planon;0;0;OK
+PROP00438;FranceToulouse, France;France;Toulouse;Toulouse;France;25052;-817396168;Active;17.08.2024;OK;OK;OK;MATCH;OK;0;2024-08;Salesforce;0;0;OK
+PROP00439;USA, Phoenix, Alexandra Lake 91;USA;Phoenix;Phoenix;Alexandra Lake 91;9371;-392240328;Active;07.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Planon;0;0;OK
+PROP00440;UKBirmingham;UK;Birmingham;Birmingham;;6207;-154736737;Active;18.01.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-01;SAP;1;1;MissingStreet
+PROP00441;Zavala Glen 265, Brasília;Brazil;Brasília;Brasília;Zavala Glen 265;98453;-223338178;Active;02.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;MDG;0;0;OK
+PROP00442;Michael Cliff204, Melbourne, Australia;Australia;Melbourne;Melbourne;Michael Cliff204;45694;-742135172;Active;19.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;MDG;0;0;OK
+PROP00443;Australia, Brisbane;Australia;Brisbane;Brisbane;Brisbane;14088;-127510314;Inactive;17.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;ServiceNow;0;0;OK
+PROP00444;BrisbaneAnderson Knoll292, Australia;Australia;Brisbane;Brisbane;BrisbaneAnderson Knoll292;72068;-949162500;Inactive;12.02.2023;OK;OK;OK;MATCH;OK;0;2023-02;Planon;0;0;OK
+PROP00445;Li Extensions 200, Milan;Italy;Milan;Milan;Li Extensions 200;90243;-171023341;Inactive;07.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;Planon;0;0;OK
+PROP00446;Pollard Neck214, Phoenix, USA;USA;Phoenix;Phoenix;Pollard Neck214;83303;-718680721;Inactive;14.04.2025;OK;OK;OK;MATCH;OK;0;2025-04;ServiceNow;0;0;OK
+PROP00447;Australia, Adelaide, Lisa Circles 122;Australia;Adelaide;Adelaide;Lisa Circles 122;94354;-458982011;Inactive;09.02.2025;OK;OK;OK;MATCH;OK;0;2025-02;Planon;0;0;OK
+PROP00448;UKLondon, UK;UK;London;London;UK;6242;-410926654;Active;08.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;Salesforce;0;0;OK
+PROP00449;France, Toulouse;France;Toulouse;Toulouse;Toulouse;41143;-180455722;Inactive;25.05.2025;OK;OK;OK;MATCH;OK;0;2025-05;ServiceNow;0;0;OK
+PROP00450;ItalyTurin;Italy;Turin;Turin;;62550;-887717727;Active;13.08.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-08;MDG;1;1;MissingStreet
+PROP00451;Johnson Rue 284, France, Toulouse;France;Toulouse;Toulouse;Johnson Rue 284;25549;-704063664;Active;07.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;ServiceNow;0;0;OK
+PROP00452;Canada, Ottawa, Kelly Tunnel 30;Canada;Ottawa;Ottawa;Kelly Tunnel 30;6766;-423719669;Active;06.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Salesforce;0;0;OK
+PROP00453;CalgaryNelson Union220, Canada;Canada;Calgary;Calgary;CalgaryNelson Union220;48738;-952764894;Inactive;20.09.2025;OK;OK;OK;MATCH;OK;0;2025-09;Salesforce;0;0;OK
+PROP00454;GermanyMunichPreston Summit83;Germany;Munich;Munich;GermanyMunichPreston Summit83;58138;-342254999;Active;29.02.2024;OK;OK;OK;MATCH;OK;0;2024-02;ServiceNow;0;0;OK
+PROP00455;VancouverMorgan Ferry167, Canada;Canada;Vancouver;Vancouver;VancouverMorgan Ferry167;65539;-509314727;Inactive;25.11.2024;OK;OK;OK;MATCH;OK;0;2024-11;Planon;0;0;OK
+PROP00456;Richardson Union 93, Bordeaux;France;Bordeaux;Bordeaux;Richardson Union 93;68563;-974979215;Active;30.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Planon;0;0;OK
+PROP00457;CanadaToronto;Canada;Toronto;Toronto;;56141;-757614561;Active;31.10.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-10;ServiceNow;1;1;MissingStreet
+PROP00458;Valencia, Ryan View 53, Spain;Spain;Valencia;Valencia;Ryan View 53;24153;-322663784;Active;19.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;SAP;0;0;OK
+PROP00459;Nagoya, Morris Common 254, Japan;Japan;Nagoya;Nagoya;Morris Common 254;43482;-669145902;Inactive;17.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;Planon;0;0;OK
+PROP00460;Germany, Frankfurt, Parker Rapids 70;Germany;Frankfurt;Frankfurt;Parker Rapids 70;94566;-145125922;Active;10.01.2023;OK;OK;OK;MATCH;OK;0;2023-01;Planon;0;0;OK
+PROP00461;Sapporo, Jackson Mills 199, Japan;Japan;Sapporo;Sapporo;Jackson Mills 199;46578;-558188627;Inactive;08.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;MDG;0;0;OK
+PROP00462;Williams Ways 19, Vancouver;Canada;Vancouver;Vancouver;Williams Ways 19;46711;-152137461;Inactive;11.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;Salesforce;0;0;OK
+PROP00463;FranceLyonHill Turnpike103;France;Lyon;Lyon;FranceLyonHill Turnpike103;8019;-919107777;Active;24.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;SAP;0;0;OK
+PROP00464;Japan, Kyoto;Japan;Kyoto;Kyoto;Kyoto;48120;-508362204;Active;14.03.2025;OK;OK;OK;MATCH;OK;0;2025-03;MDG;0;0;OK
+PROP00465;SpainMadrid, Spain;Spain;Madrid;Madrid;Spain;80136;-735711429;Inactive;19.03.2023;OK;OK;OK;MATCH;OK;0;2023-03;MDG;0;0;OK
+PROP00466;Johnson Cliff 203, Brazil, Rio de Janeiro;Brazil;Rio de Janeiro;Rio de Janeiro;Johnson Cliff 203;31433;-242170331;Active;27.07.2024;OK;OK;OK;MATCH;OK;0;2024-07;Salesforce;0;0;OK
+PROP00467;Germany, Berlin, Cox Port 212;Germany;Berlin;Berlin;Cox Port 212;4745;-893485843;Inactive;31.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;ServiceNow;0;0;OK
+PROP00468;FortalezaErika Land124, Brazil;Brazil;Fortaleza;Fortaleza;FortalezaErika Land124;49261;-419704752;Inactive;06.05.2023;OK;OK;OK;MATCH;OK;0;2023-05;MDG;0;0;OK
+PROP00469;Spain, Madrid;Spain;Madrid;Madrid;Madrid;18548;-183526704;Inactive;30.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Salesforce;0;0;OK
+PROP00470;FranceBordeaux;France;Bordeaux;Bordeaux;;37029;-321068528;Inactive;14.09.2024;MISSING;OK;OK;MATCH;ERROR;1;2024-09;MDG;1;1;MissingStreet
+PROP00471;FranceToulouse;France;Toulouse;Toulouse;;96927;-136193069;Inactive;11.06.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-06;Salesforce;1;1;MissingStreet
+PROP00472;FortalezaVictor Loaf78, Brazil;Brazil;Fortaleza;Fortaleza;FortalezaVictor Loaf78;74120;-415340277;Inactive;09.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;MDG;0;0;OK
+PROP00473;Japan, Kyoto, Jose Green 128;Japan;Kyoto;Kyoto;Jose Green 128;92780;-107362250;Inactive;17.08.2025;OK;OK;OK;MATCH;OK;0;2025-08;SAP;0;0;OK
+PROP00474;Lewis Ridge143, Montreal, Canada;Canada;Montreal;Montreal;Lewis Ridge143;37932;-556631702;Inactive;24.04.2023;OK;OK;OK;MATCH;OK;0;2023-04;ServiceNow;0;0;OK
+PROP00475;Spain, Barcelona, Gonzalez Dale 165;Spain;Barcelona;Barcelona;Gonzalez Dale 165;10207;-933953668;Active;14.12.2022;OK;OK;OK;MATCH;OK;0;2022-12;Salesforce;0;0;OK
+PROP00476;Thompson Station 269, Brazil, São Paulo;Brazil;São Paulo;São Paulo;Thompson Station 269;58842;-135111299;Inactive;20.01.2025;OK;OK;OK;MATCH;OK;0;2025-01;Planon;0;0;OK
+PROP00477;FlorenceLisa Vista146, Italy;Italy;Florence;Florence;FlorenceLisa Vista146;42390;-908839771;Inactive;20.12.2024;OK;OK;OK;MATCH;OK;0;2024-12;Planon;0;0;OK
+PROP00478;MunichMckinney Plaza135, Germany;Germany;Munich;Munich;MunichMckinney Plaza135;71564;-611628100;Active;27.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;SAP;0;0;OK
+PROP00479;USANew York, USA;USA;New York;New York;USA;21145;-783942080;Inactive;20.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;ServiceNow;0;0;OK
+PROP00480;LondonLaura Pass238, UK;UK;London;London;LondonLaura Pass238;29892;-656402670;Active;20.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Planon;0;0;OK
+PROP00481;Tracie Turnpike298, Munich, Germany;Germany;Munich;Munich;Tracie Turnpike298;18703;-421010825;Inactive;02.11.2025;OK;OK;OK;MATCH;OK;0;2025-11;Planon;0;0;OK
+PROP00482;FranceParisKristy Burg137;France;Paris;Paris;FranceParisKristy Burg137;47804;-368100629;Inactive;27.11.2024;OK;OK;OK;MATCH;OK;0;2024-11;SAP;0;0;OK
+PROP00483;Hamburg, Mcdonald Plaza 82, Germany;Germany;Hamburg;Hamburg;Mcdonald Plaza 82;17510;-542057812;Active;16.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;ServiceNow;0;0;OK
+PROP00484;UKBirminghamCameron Locks172;UK;Birmingham;Birmingham;UKBirminghamCameron Locks172;94470;-542938094;Active;10.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;MDG;0;0;OK
+PROP00485;LeedsFox Trafficway256, UK;UK;Leeds;Leeds;LeedsFox Trafficway256;54166;-793213028;Inactive;20.11.2023;OK;OK;OK;MATCH;OK;0;2023-11;MDG;0;0;OK
+PROP00486;BrazilRio de JaneiroDavid Island268;Brazil;Rio de Janeiro;Rio de Janeiro;BrazilRio de JaneiroDavid Island268;84693;-413768710;Active;11.09.2024;OK;OK;OK;MATCH;OK;0;2024-09;SAP;0;0;OK
+PROP00487;CanadaOttawa;Canada;Ottawa;Ottawa;;68312;-600277452;Active;11.10.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-10;ServiceNow;1;1;MissingStreet
+PROP00488;JapanKyoto;Japan;Kyoto;Kyoto;;72761;-137098468;Active;13.10.2025;MISSING;OK;OK;MATCH;ERROR;1;2025-10;MDG;1;1;MissingStreet
+PROP00489;Spain, Seville, Katrina Curve 179;Spain;Seville;Seville;Katrina Curve 179;57205;-258676271;Inactive;08.09.2023;OK;OK;OK;MATCH;OK;0;2023-09;SAP;0;0;OK
+PROP00490;Marie Path 275, Florence;Italy;Florence;Florence;Marie Path 275;20557;-689826227;Active;30.11.2022;OK;OK;OK;MATCH;OK;0;2022-11;ServiceNow;0;0;OK
+PROP00491;Martin Islands 88, USA, Chicago;USA;Chicago;Chicago;Martin Islands 88;93474;-641427381;Inactive;24.10.2025;OK;OK;OK;MATCH;OK;0;2025-10;ServiceNow;0;0;OK
+PROP00492;Michael Path277, Munich, Germany;Germany;Munich;Munich;Michael Path277;37731;-245424036;Inactive;10.06.2023;OK;OK;OK;MATCH;OK;0;2023-06;Planon;0;0;OK
+PROP00493;Japan, Sapporo, John Roads 93;Japan;Sapporo;Sapporo;John Roads 93;72700;-613617745;Inactive;22.10.2024;OK;OK;OK;MATCH;OK;0;2024-10;ServiceNow;0;0;OK
+PROP00494;GermanyHamburg;Germany;Hamburg;Hamburg;;81035;-973035637;Inactive;28.04.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-04;ServiceNow;1;1;MissingStreet
+PROP00495;GermanyMunich;Germany;Munich;Munich;;78070;-581262162;Active;17.07.2023;MISSING;OK;OK;MATCH;ERROR;1;2023-07;ServiceNow;1;1;MissingStreet
+PROP00496;ItalyFlorence, Italy;Italy;Florence;Florence;Italy;94955;-452777619;Active;03.06.2025;OK;OK;OK;MATCH;OK;0;2025-06;ServiceNow;0;0;OK
+PROP00497;Kirby Port 64, Canada, Toronto;Canada;Toronto;Toronto;Kirby Port 64;5900;-713556651;Inactive;10.05.2024;OK;OK;OK;MATCH;OK;0;2024-05;SAP;0;0;OK
+PROP00498;UKBirmingham, UK;UK;Birmingham;Birmingham;UK;76099;-776740980;Active;21.10.2023;OK;OK;OK;MATCH;OK;0;2023-10;SAP;0;0;OK
+PROP00499;Curtis Trafficway 43, Phoenix;USA;Phoenix;Phoenix;Curtis Trafficway 43;75492;-483475757;Active;01.07.2025;OK;OK;OK;MATCH;OK;0;2025-07;MDG;0;0;OK
+PROP00500;Montgomery Burgs146, Adelaide, Australia;Australia;Adelaide;Adelaide;Montgomery Burgs146;65779;-283047424;Inactive;29.11.2024;OK;OK;OK;MATCH;OK;0;2024-11;Planon;0;0;OK
